@@ -29,7 +29,10 @@
 ## 🧠 About Me
 
 ```typescript
-const yash = { name: "Yash Kumar", location: "India 🇮🇳", role: ["Full-Stack Developer", "Data Enthusiast"], languages: ["Java", "JavaScript", "Python", "Pascal", "Bash"], libraries: ["NumPy", "Pandas", "Matplotlib", "Seaborn"], frontend: ["HTML", "CSS", "Tailwind", "Vite"], tools: ["Git", "Git Bash", "Linux", "Jupyter Notebook", "Firebase"], currentFocus: "DSA + Building Real Projects", };
+const yash = { name: "Yash Kumar", location: "India 🇮🇳", role: ["Full-Stack Developer", "Data Enthusiast"],
+languages: ["Java", "JavaScript", "Python", "Pascal", "Bash"], libraries: ["NumPy", "Pandas", "Matplotlib", "Seaborn"],
+frontend: ["HTML", "CSS", "Tailwind", "Vite"], tools: ["Git", "Git Bash", "Linux", "Jupyter Notebook", "Firebase"],
+currentFocus: "DSA + Building Real Projects", };
 ```
 
 ---
