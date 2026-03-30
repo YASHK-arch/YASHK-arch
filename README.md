@@ -29,16 +29,7 @@
 ## 🧠 About Me
 
 ```typescript
-const yash: Developer = {
-  name:       "Yash Kumar",
-  handle:     "@YASHK-arch",
-  location:   "India 🇮🇳",
-  role:       ["Full-Stack Developer", "Systems Architect"],
-  languages:  ["Python", "TypeScript", "Java", "Rust", "Bash", "SQL"],
-  passion:    "Building performant, scalable systems & beautiful UIs",
-  currently:  "Exploring WebAssembly + Rust 🦀",
-  funFact:    "I use Neovim btw 😄",
-};
+const yash = { name: "Yash Kumar", location: "India 🇮🇳", role: ["Full-Stack Developer", "Data Enthusiast"], languages: ["Java", "JavaScript", "Python", "Pascal", "Bash"], libraries: ["NumPy", "Pandas", "Matplotlib", "Seaborn"], frontend: ["HTML", "CSS", "Tailwind", "Vite"], tools: ["Git", "Git Bash", "Linux", "Jupyter Notebook", "Firebase"], currentFocus: "DSA + Building Real Projects", };
 ```
 
 ---
