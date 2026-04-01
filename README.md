@@ -137,12 +137,30 @@ const yash = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YASHK-arch&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=YASHK-arch&theme=tokyonight&hide_border=true&stroke=7F77DD&ring=7F77DD&fire=1D9E75&currStreakLabel=1D9E75" />
+<table>
+  <tr>
+    <td>
+      <img
+        alt="GitHub stats"
+        width="420"
+        src="https://github-readme-stats.vercel.app/api?username=YASHK-arch&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&card_width=420"
+      />
+    </td>
+    <td>
+      <img
+        alt="GitHub streak"
+        width="420"
+        src="https://streak-stats.demolab.com?user=YASHK-arch&theme=tokyonight&hide_border=true&stroke=7F77DD&ring=7F77DD&fire=1D9E75&currStreakLabel=1D9E75&card_width=420"
+      />
+    </td>
+  </tr>
+</table>
 
-<br/>
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YASHK-arch&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=donut&langs_count=8" />
+<img
+  alt="Top languages"
+  width="420"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=YASHK-arch&theme=tokyonight&hide_border=true&layout=donut&langs_count=10&card_width=420"
+/>
 
 </div>
 
