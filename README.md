@@ -159,7 +159,7 @@ const yash = {
 <img
   alt="Top languages"
   width="420"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=YASHK-arch&theme=tokyonight&hide_border=true&layout=donut&langs_count=10&card_width=420"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=YASHK-arch&theme=tokyonight&hide_border=true&layout=donut-vertical&langs_count=10&card_width=420"
 />
 
 </div>
@@ -180,7 +180,22 @@ const yash = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YASHK-arch&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=YASHK-arch&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=9&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews,Experience,MultiLanguage)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br/>
+
+<a href="https://github.com/YASHK-arch?tab=achievements">
+  <img src="https://img.shields.io/badge/Pull%20Shark-Achievement-7F77DD?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://github.com/YASHK-arch?tab=achievements">
+  <img src="https://img.shields.io/badge/Quickdraw-Achievement-1D9E75?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://github.com/YASHK-arch?tab=achievements">
+  <img src="https://img.shields.io/badge/Galaxy%20Brain-Achievement-378ADD?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://github.com/YASHK-arch?tab=achievements">
+  <img src="https://img.shields.io/badge/YOLO-Achievement-0F172A?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
