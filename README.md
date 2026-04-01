@@ -223,7 +223,17 @@ const yash = {
 
 <div align="center">
 
-[![Top Repos](https://github-contributor-stats.vercel.app/api?username=YASHK-arch&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true)](https://github.com/YASHK-arch)
+<table>
+  <tr>
+    <td>
+      <img
+        alt="Repos I contributed to"
+        width="860"
+        src="https://github-contrib-stats.vercel.app/api/contributed.svg?username=YASHK-arch"
+      />
+    </td>
+  </tr>
+</table>
 
 </div>
 
