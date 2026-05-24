@@ -69,13 +69,11 @@ const yash = {
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"/> &nbsp;Tech Stack
 
-## 🗡️ The Arsenal (Tech Stack)
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,django,python,cpp,java,mongodb,postgres,docker,git,linux&perline=15" alt="Anurag's Tech Stack" />
 </div>
 
-<br><br>
+<br>
 
 ---
 
