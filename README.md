@@ -27,14 +27,7 @@
   <img src="https://img.shields.io/badge/X%20(Twitter)-Follow-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 
-<br/><br/>
-
-<!-- ───── VISITOR COUNTER ───── -->
-<img src="https://visitcount.itsvg.in/api?id=YASHK-arch&label=Profile%20Views&color=6&icon=5&pretty=true" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/YASHK-arch?label=Followers&style=social" />
-
-</div>
+<br/>
 
 ---
 
