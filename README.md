@@ -217,25 +217,7 @@ const yash = {
 
 </div>
 
----
 
-## 🔝 &nbsp;Top Contributed Repos
-
-<div align="center">
-
-<table>
-  <tr>
-    <td>
-      <img
-        alt="Repos I contributed to"
-        width="860"
-        src="https://github-contrib-stats.vercel.app/api/contributed.svg?username=YASHK-arch"
-      />
-    </td>
-  </tr>
-</table>
-
-</div>
 
 ---
 
