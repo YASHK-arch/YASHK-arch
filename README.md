@@ -253,35 +253,6 @@ const yash = {
 
 ---
 
-## 💪 &nbsp;Skill Levels
-
-```text
-Java              ████████████████░░░░   80%
-JavaScript        ███████████████░░░░░   75%
-Python            ██████████████░░░░░░   70%
-React + Tailwind  █████████████░░░░░░░   65%
-Data Science      ████████████░░░░░░░░   60%
-DSA               ██████████████░░░░░░   70%  ← grinding daily ⚡
-System Design     ████████░░░░░░░░░░░░   40%  ← actively leveling up
-```
-
----
-
-## 🚀 &nbsp;What I'm Working On
-
-<div align="center">
-
-```text
-🔨  Building    →   Full-stack projects (Vite + Tailwind + Firebase)
-📚  Learning    →   Advanced DSA · System Design · AI Rendering
-🤝  Exploring   →   CAD Plugin Development · Open Source
-🎯  Goal        →   Top-tier Full-Stack + AI Engineer
-```
-
-</div>
-
----
-
 ## ✍️ &nbsp;Dev Quote
 
 <div align="center">
