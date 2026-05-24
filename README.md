@@ -83,7 +83,11 @@ const yash = {
 
 <table>
   <tr>
-    <td>
+    <td align="center" width="420">
+      <!-- Stacked GitHub + Stats favicons as decorative header -->
+      <img src="https://github.githubassets.com/favicons/favicon.svg" width="52" title="GitHub" /><br/>
+      <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FYASHK-arch&query=%24.public_repos&label=Public%20Repos&color=7F77DD&style=flat-square&logo=github" />
+      <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FYASHK-arch&query=%24.followers&label=Followers&color=1D9E75&style=flat-square&logo=github" /><br/>
       <img
         alt="GitHub stats"
         width="420"
