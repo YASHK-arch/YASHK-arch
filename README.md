@@ -49,14 +49,15 @@
 
 ## `$ cat whoami.json`
 
-<div align="right" style="float:right;display:inline-block;text-align:right;">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHNjMmFyOGd4bGs0dm41ZG5sdjE3NWhjOXRuMjRxcjlicXUxaWZ3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMNsgeBFskg4sd7bWk/giphy.gif" width="250" style="display:block;margin-bottom:8px;" />
-
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHQ1Znpzd3oxdjlsazhpcXNxcWdvMGhlbTg1cWlncXZydmR5aWEydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RkxnUF9vtVZwMDwTen/giphy.gif" width="250" style="display:block;margin-bottom:8px;" />
-
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXpmdjE0cjFzZ2w3ajBqcTZrOXVpeTRvempjcDlidWdwamR6aWJ0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6CZNCogaCL7d8HLTp3/giphy.gif" width="250" style="display:block;margin-bottom:8px;" />
- 
-</div>
+<table align="right" style="border:none;">
+  <tr>
+    <td style="border:none;">
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHNjMmFyOGd4bGs0dm41ZG5sdjE3NWhjOXRuMjRxcjlicXUxaWZ3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMNsgeBFskg4sd7bWk/giphy.gif" width="250" style="display:block;margin-bottom:8px;" /><br/>
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHQ1Znpzd3oxdjlsazhpcXNxcWdvMGhlbTg1cWlncXZydmR5aWEydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RkxnUF9vtVZwMDwTen/giphy.gif" width="250" style="display:block;margin-bottom:8px;" /><br/>
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXpmdjE0cjFzZ2w3ajBqcTZrOXVpeTRvempjcDlidWdwamR6aWJ0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6CZNCogaCL7d8HLTp3/giphy.gif" width="250" style="display:block;margin-bottom:8px;" />
+    </td>
+  </tr>
+</table>
 
 ```json
 {
