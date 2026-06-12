@@ -87,7 +87,7 @@
 ```
 
 <div align="center">
-
+<br/>
 <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,nodejs,python,java,mongodb,docker,git,linux&perline=11" alt="Tech Stack Icons"/>
 
 <br/>
