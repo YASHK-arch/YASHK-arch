@@ -62,7 +62,9 @@
 ```json
 {
   "user"         : "Yash Kumar",
+
   "location"     : "India 🇮🇳",
+
   "roles"        : [
     "Full-Stack Developer",
     "AI/ML Experiment Survivor",
@@ -211,11 +213,16 @@
 
 | Status | Pull Request | Repository | Description | Merged |
 |:---:|:---|:---|:---|:---:|
-| `✓ MERGED` | [**#6102** — feat: Animated Terminal Status Message Carousel](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/6102) | `SAPTARSHI-coder/EaseMotion-css` | ## Pull Request Description | `2026-06-11` |
-| `✓ MERGED` | [**#4443** — feat: Radio-button based Slideshow-Hero section Component](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/4443) | `SAPTARSHI-coder/EaseMotion-css` | ## Pull Request Description | `2026-06-10` |
-| `✓ MERGED` | [**#3308** — feat: Add Curved Roadmap Infographic Component with Pure CSS Ribbon Path](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/3308) | `SAPTARSHI-coder/EaseMotion-css` | ## Add Curved Roadmap Infographic Component with Pure CSS Ribbon Paths | `2026-06-09` |
-| `✓ MERGED` | [**#1677** — Fix issue #1660 : Fixed hover UI issue in template cards and dropdown me](https://github.com/anurag3407/career-pilot/pull/1677) | `anurag3407/career-pilot` | ## Description | `2026-05-24` |
-| `✓ MERGED` | [**#481** — Flavourly](https://github.com/ianshulx/React-projects-for-beginners/pull/481) | `ianshulx/React-projects-for-beginners` | Added a new open-source project entry for Flavorly to the repository. | `2026-05-16` |
+| `✓ MERGED` | [**#6102** — feat: Animated Terminal Status Message Carousel](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/6102) | `SAPTARSHI-coder/EaseMotion-css` | ## Pull Request Description
+ | `2026-06-11` |
+| `✓ MERGED` | [**#4443** — feat: Radio-button based Slideshow-Hero section Component](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/4443) | `SAPTARSHI-coder/EaseMotion-css` | ## Pull Request Description
+ | `2026-06-10` |
+| `✓ MERGED` | [**#3308** — feat: Add Curved Roadmap Infographic Component with Pure CSS Ribbon Path](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/3308) | `SAPTARSHI-coder/EaseMotion-css` | ## Add Curved Roadmap Infographic Component with Pure CSS Ribbon Paths
+ | `2026-06-09` |
+| `✓ MERGED` | [**#1677** — Fix issue #1660 : Fixed hover UI issue in template cards and dropdown me](https://github.com/anurag3407/career-pilot/pull/1677) | `anurag3407/career-pilot` | ## Description
+ | `2026-05-24` |
+| `✓ MERGED` | [**#481** — Flavourly](https://github.com/ianshulx/React-projects-for-beginners/pull/481) | `ianshulx/React-projects-for-beginners` | Added a new open-source project entry for Flavorly to the repository.
+ | `2026-05-16` |
 | `✓ MERGED` | [**#117170** — Add Yash Kumar to Contributors list](https://github.com/firstcontributions/first-contributions/pull/117170) | `firstcontributions/first-contributions` | Hey there! I have just started my Open source journey | `2026-05-16` |
 | `✓ MERGED` | [**#2** — Revert "Master"](https://github.com/YASHK-arch/JAVA-Projects/pull/2) | `YASHK-arch/JAVA-Projects` | Reverts YASHK-arch/JAVA-Projects#1 | `2025-10-02` |
 | `✓ MERGED` | [**#1** — Master](https://github.com/YASHK-arch/JAVA-Projects/pull/1) | `YASHK-arch/JAVA-Projects` | created a new branch to include docker files | `2025-10-02` |
