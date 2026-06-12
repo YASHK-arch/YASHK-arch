@@ -49,21 +49,65 @@
 
 ## `$ cat whoami.json`
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
+<div align="right" style="float:right;display:inline-block;text-align:right;">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHNjMmFyOGd4bGs0dm41ZG5sdjE3NWhjOXRuMjRxcjlicXUxaWZ3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMNsgeBFskg4sd7bWk/giphy.gif" width="250" style="display:block;margin-bottom:8px;" />
+
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHQ1Znpzd3oxdjlsazhpcXNxcWdvMGhlbTg1cWlncXZydmR5aWEydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RkxnUF9vtVZwMDwTen/giphy.gif" width="250" style="display:block;margin-bottom:8px;" />
+
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXpmdjE0cjFzZ2w3ajBqcTZrOXVpeTRvempjcDlidWdwamR6aWJ0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6CZNCogaCL7d8HLTp3/giphy.gif" width="250" style="display:block;margin-bottom:8px;" />
+ 
+</div>
 
 ```json
 {
   "user"         : "Yash Kumar",
-  "node"         : "YASHK-arch",
   "location"     : "India 🇮🇳",
-  "roles"        : ["Full-Stack Developer", "Data Enthusiast"],
-  "languages"    : ["Java", "JavaScript", "Python", "Pascal", "Bash"],
-  "libraries"    : ["NumPy", "Pandas", "Matplotlib", "Seaborn"],
-  "frontend"     : ["HTML", "CSS", "Tailwind", "Vite", "React"],
-  "tools"        : ["Git", "Linux", "Jupyter", "Firebase", "Docker"],
-  "currentFocus" : "DSA + Building Real Projects",
-  "funFact"      : "I solve DSA > scrolling social media 😄",
-  "status"       : "◼◼◼◼◼◼◼◼◻◻  80% caffeinated"
+  "roles"        : [
+    "Full-Stack Developer",
+    "AI/ML Experiment Survivor",
+    "Professional Bug Creator & Fixer"
+  ],
+
+    "currentlyGrinding" : [
+    "DSA",
+    "Open Source",
+    "Machine Learning",
+    "Building Projects That Escalated Quickly"
+  ],
+
+  "dailyRoutine" : [
+    "Wake Up",
+    "Write Code",
+    "Create Bugs",
+    "Fix Bugs",
+    "Create New Bugs",
+    "Sleep"
+  ],
+
+  "bossFights" : [
+    "Merge Conflicts",
+    "Firebase Rules",
+    "npm Dependencies",
+    "Off-by-One Errors"
+  ],
+
+  "achievements" : [
+    "Debugged a bug by adding console.log()",
+    "Won an argument against CSS",
+    "Survived Production Deployment",
+    "Touched Grass (rare achievement)"
+  ],
+
+  "powerUps" : [
+    "Coffee ☕",
+    "Stack Overflow",
+    "GitHub Issues",
+    "ChatGPT"
+  ],
+
+  "funFact" : "I spend more time naming variables than writing the actual logic.",
+
+  "status" : "████████░░ 80% caffeinated"
 }
 ```
 
@@ -166,11 +210,16 @@
 
 | Status | Pull Request | Repository | Description | Merged |
 |:---:|:---|:---|:---|:---:|
-| `✓ MERGED` | [**#6102** — feat: Animated Terminal Status Message Carousel](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/6102) | `SAPTARSHI-coder/EaseMotion-css` | ## Pull Request Description | `2026-06-11` |
-| `✓ MERGED` | [**#4443** — feat: Radio-button based Slideshow-Hero section Component](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/4443) | `SAPTARSHI-coder/EaseMotion-css` | ## Pull Request Description | `2026-06-10` |
-| `✓ MERGED` | [**#3308** — feat: Add Curved Roadmap Infographic Component with Pure CSS Ribbon Path](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/3308) | `SAPTARSHI-coder/EaseMotion-css` | ## Add Curved Roadmap Infographic Component with Pure CSS Ribbon Paths | `2026-06-09` |
-| `✓ MERGED` | [**#1677** — Fix issue #1660 : Fixed hover UI issue in template cards and dropdown me](https://github.com/anurag3407/career-pilot/pull/1677) | `anurag3407/career-pilot` | ## Description | `2026-05-24` |
-| `✓ MERGED` | [**#481** — Flavourly](https://github.com/ianshulx/React-projects-for-beginners/pull/481) | `ianshulx/React-projects-for-beginners` | Added a new open-source project entry for Flavorly to the repository. | `2026-05-16` |
+| `✓ MERGED` | [**#6102** — feat: Animated Terminal Status Message Carousel](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/6102) | `SAPTARSHI-coder/EaseMotion-css` | ## Pull Request Description
+ | `2026-06-11` |
+| `✓ MERGED` | [**#4443** — feat: Radio-button based Slideshow-Hero section Component](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/4443) | `SAPTARSHI-coder/EaseMotion-css` | ## Pull Request Description
+ | `2026-06-10` |
+| `✓ MERGED` | [**#3308** — feat: Add Curved Roadmap Infographic Component with Pure CSS Ribbon Path](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/3308) | `SAPTARSHI-coder/EaseMotion-css` | ## Add Curved Roadmap Infographic Component with Pure CSS Ribbon Paths
+ | `2026-06-09` |
+| `✓ MERGED` | [**#1677** — Fix issue #1660 : Fixed hover UI issue in template cards and dropdown me](https://github.com/anurag3407/career-pilot/pull/1677) | `anurag3407/career-pilot` | ## Description
+ | `2026-05-24` |
+| `✓ MERGED` | [**#481** — Flavourly](https://github.com/ianshulx/React-projects-for-beginners/pull/481) | `ianshulx/React-projects-for-beginners` | Added a new open-source project entry for Flavorly to the repository.
+ | `2026-05-16` |
 | `✓ MERGED` | [**#117170** — Add Yash Kumar to Contributors list](https://github.com/firstcontributions/first-contributions/pull/117170) | `firstcontributions/first-contributions` | Hey there! I have just started my Open source journey | `2026-05-16` |
 | `✓ MERGED` | [**#2** — Revert "Master"](https://github.com/YASHK-arch/JAVA-Projects/pull/2) | `YASHK-arch/JAVA-Projects` | Reverts YASHK-arch/JAVA-Projects#1 | `2025-10-02` |
 | `✓ MERGED` | [**#1** — Master](https://github.com/YASHK-arch/JAVA-Projects/pull/1) | `YASHK-arch/JAVA-Projects` | created a new branch to include docker files | `2025-10-02` |
