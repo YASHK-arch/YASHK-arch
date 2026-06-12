@@ -1,100 +1,133 @@
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                  YASH KUMAR — GitHub Profile              -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║              YASH KUMAR — HOLOGRAPHIC TERMINAL PROFILE              ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-<!-- ───── ANIMATED BANNER ───── -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F77DD,50:1D9E75,100:378ADD&height=200&section=header&text=Yash%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Data%20Enthusiast%20%7C%20DSA%20Grinder&descAlignY=58&descSize=18&descColor=ccccff" width="100%" />
+<!-- ░░░░░░░░░░░░░ HOLOGRAPHIC HEADER BANNER ░░░░░░░░░░░░░ -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00ffcc,30:00b4d8,60:7B2FBE,100:00ffcc&height=220&section=header&text=YASH%20KUMAR&fontSize=68&fontColor=00ffcc&animation=fadeIn&fontAlignY=40&desc=◈%20Full-Stack%20Dev%20◈%20Data%20Enthusiast%20◈%20DSA%20Grinder%20◈&descAlignY=62&descSize=16&descColor=00e5ff&stroke=00ffcc&strokeWidth=2" width="100%"/>
 
-<!-- ───── TYPING ANIMATION ───── -->
+<!-- ░░░░░░░░░░░░░ TYPING ANIMATION ░░░░░░░░░░░░░ -->
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7F77DD&center=true&vCenter=true&multiline=false&width=620&height=45&lines=Hey+there!+I'm+Yash+Kumar+%F0%9F%91%8B;Full-Stack+Dev+%7C+Data+Enthusiast;Java+%2B+Python+%2B+JavaScript;DSA+Problem+Solver+%E2%9A%A1;Building+Real+Projects+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=00FFCC&center=true&vCenter=true&multiline=false&width=680&height=45&lines=%24+whoami+--verbose;%3E+Yash+Kumar+%7C+Full-Stack+Developer+%F0%9F%9A%80;%3E+Languages%3A+Java+%7C+Python+%7C+JavaScript;%3E+Status%3A+Building+Real+Projects+%E2%96%A0%E2%96%A0%E2%96%A0+[ACTIVE];%3E+DSA+%3E+scrolling+social+media+%F0%9F%98%84" alt="Typing SVG"/>
 
 <br/><br/>
 
-<!-- ───── PROFILE BADGES ───── -->
+<!-- ░░░░░░░░░░░░░ SOCIAL BADGES ░░░░░░░░░░░░░ -->
 <a href="https://linkedin.com/in/yash-kumar-836847279">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/▸%20LinkedIn-CONNECT-00b4d8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
 </a>
 <a href="mailto:yashkumar02006@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Mail%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/▸%20Gmail-PING%20ME-00ffcc?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
 </a>
 <a href="https://www.youtube.com/@beyondyourthoughts">
-  <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  <img src="https://img.shields.io/badge/▸%20YouTube-SUBSCRIBE-7B2FBE?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0d1117" />
 </a>
 <a href="https://x.com/Yash%20Kumar">
-  <img src="https://img.shields.io/badge/X%20(Twitter)-Follow-000000?style=for-the-badge&logo=x&logoColor=white" />
+  <img src="https://img.shields.io/badge/▸%20X_(Twitter)-FOLLOW-00e5ff?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117" />
 </a>
 
 <br/>
 
+</div>
+
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> &nbsp;About Me
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│  ◈  TERMINAL SESSION ESTABLISHED  //  NODE: YASHK-ARCH  //  v2.0.26   │
+│  ◈  UPLINK: SECURE  //  ENCRYPTION: AES-256  //  LATENCY: 0ms         │
+└─────────────────────────────────────────────────────────────────────────┘
+```
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" />
+<div align="center">
 
-```js
-const yash = {
-  name:         "Yash Kumar",
-  location:     "India 🇮🇳",
-  role:         ["Full-Stack Developer", "Data Enthusiast"],
-  languages:    ["Java", "JavaScript", "Python", "Pascal", "Bash"],
-  libraries:    ["NumPy", "Pandas", "Matplotlib", "Seaborn"],
-  frontend:     ["HTML", "CSS", "Tailwind", "Vite", "React"],
-  tools:        ["Git", "Linux", "Jupyter", "Firebase", "Docker"],
-  currentFocus: "DSA + Building Real Projects",
-  funFact:      "I solve DSA > scrolling social media 😄",
-};
+## `[ SYS ] >> LOADING PROFILE...`
+
+</div>
+
+---
+
+## `$ cat whoami.json`
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
+
+```json
+{
+  "user"         : "Yash Kumar",
+  "node"         : "YASHK-arch",
+  "location"     : "India 🇮🇳",
+  "roles"        : ["Full-Stack Developer", "Data Enthusiast"],
+  "languages"    : ["Java", "JavaScript", "Python", "Pascal", "Bash"],
+  "libraries"    : ["NumPy", "Pandas", "Matplotlib", "Seaborn"],
+  "frontend"     : ["HTML", "CSS", "Tailwind", "Vite", "React"],
+  "tools"        : ["Git", "Linux", "Jupyter", "Firebase", "Docker"],
+  "currentFocus" : "DSA + Building Real Projects",
+  "funFact"      : "I solve DSA > scrolling social media 😄",
+  "status"       : "◼◼◼◼◼◼◼◼◻◻  80% caffeinated"
+}
 ```
 
 <br clear="right"/>
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"/> &nbsp;Tech Stack
+## `$ lspci --tech-stack`
+
+```
+╔══════════════════════════════════════════════════════════════════════════╗
+║  HARDWARE REGISTRY  ◈  DETECTED MODULES                                ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║  [CORE   ]  Java ████████████  Python █████████░░  JS ██████████░░     ║
+║  [FRONT  ]  React ██████░░░░  Tailwind ████████░░  Vite ███████░░      ║
+║  [DATA   ]  NumPy ████████░░  Pandas ████████░░  Matplotlib █████░     ║
+║  [DEVOPS ]  Git ██████████  Docker █████░░░░  Linux █████████░░        ║
+║  [CLOUD  ]  Firebase ██████░░  Vercel █████░░░  Google Cloud ████░     ║
+╚══════════════════════════════════════════════════════════════════════════╝
+```
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,nodejs,python,java,mongodb,docker,git,linux&perline=15" alt="Yash's Tech Stack" />
-  <div align="center">
----
-<!-- ───── LANGUAGE BUTTONS (unclickable) ───── -->
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,nodejs,python,java,mongodb,docker,git,linux&perline=11" alt="Tech Stack Icons"/>
+
+<br/>
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=0d1117)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=0d1117)
+![CSS3](https://img.shields.io/badge/CSS3-00b4d8?style=flat-square&logo=css3&logoColor=white&labelColor=0d1117)
+![SQL](https://img.shields.io/badge/SQL-00ffcc?style=flat-square&logo=postgresql&logoColor=black&labelColor=0d1117)
+![Markdown](https://img.shields.io/badge/Markdown-7B2FBE?style=flat-square&logo=markdown&logoColor=white&labelColor=0d1117)
+![Bash](https://img.shields.io/badge/Bash-00e5ff?style=flat-square&logo=gnubash&logoColor=black&labelColor=0d1117)
 
 </div>
-</div>
-
-<br>
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28" /> &nbsp;<img src="https://github.githubassets.com/favicons/favicon.svg" width="22" style="vertical-align:middle"/> &nbsp;GitHub Stats
+## `$ github-cli stats --user YASHK-arch --verbose`
 
 <div align="center">
+
+```
+ FETCHING DATA FROM GITHUB API...  [████████████████████] 100%  OK
+```
 
 <table>
   <tr>
-    <td align="center" width="420">
-      <!-- Stacked GitHub + Stats favicons as decorative header -->
-      <img src="https://github.githubassets.com/favicons/favicon.svg" width="52" title="GitHub" /><br/>
-      <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FYASHK-arch&query=%24.public_repos&label=Public%20Repos&color=7F77DD&style=flat-square&logo=github" />
-      <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FYASHK-arch&query=%24.followers&label=Followers&color=1D9E75&style=flat-square&logo=github" /><br/>
+    <td align="center">
+      <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FYASHK-arch&query=%24.public_repos&label=◈%20PUBLIC%20REPOS&color=00ffcc&style=flat-square&logo=github&labelColor=0d1117" />
+      <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FYASHK-arch&query=%24.followers&label=◈%20FOLLOWERS&color=00b4d8&style=flat-square&logo=github&labelColor=0d1117" />
+      <br/><br/>
       <img
         alt="GitHub stats"
         width="420"
-        src="https://github-readme-stats.vercel.app/api?username=YASHK-arch&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&card_width=420"
+        src="https://github-readme-stats.vercel.app/api?username=YASHK-arch&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&card_width=420&title_color=00ffcc&icon_color=00b4d8&text_color=c9d1d9&bg_color=0d1117"
       />
     </td>
     <td>
       <img
         alt="GitHub streak"
         width="420"
-        src="https://streak-stats.demolab.com?user=YASHK-arch&theme=tokyonight&hide_border=true&stroke=7F77DD&ring=7F77DD&fire=1D9E75&currStreakLabel=1D9E75&card_width=420"
+        src="https://streak-stats.demolab.com?user=YASHK-arch&theme=tokyonight&hide_border=true&stroke=00ffcc&ring=00ffcc&fire=00e5ff&currStreakLabel=00e5ff&sideLabels=00b4d8&dates=c9d1d9&background=0d1117&card_width=420"
       />
     </td>
   </tr>
@@ -104,41 +137,54 @@ const yash = {
 
 ---
 
-
-## 📈 &nbsp;Contribution Activity
+## `$ git log --graph --contributions`
 
 <div align="center">
 
-[![Yash's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YASHK-arch&bg_color=1a1b27&color=7F77DD&line=1D9E75&point=ffffff&area=true&area_color=7F77DD&hide_border=true&custom_title=Yash%27s%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Yash's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YASHK-arch&bg_color=0d1117&color=00ffcc&line=00b4d8&point=00ffcc&area=true&area_color=00ffcc&hide_border=true&custom_title=◈%20COMMIT%20ACTIVITY%20GRAPH%20◈)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
+---
+
+## `$ cat achievements.log`
+
+```
+╔═══════════════════════════════════════════════════════════════════════╗
+║  ACHIEVEMENT MANIFEST  ◈  YASHK-ARCH NODE                           ║
+╠══════════════╦════════════════════════════════════════════════════════╣
+║  [UNLOCKED]  ║  🔥 Consistent Contributor                            ║
+║              ║  Regular commits across personal & open-source         ║
+╠══════════════╬════════════════════════════════════════════════════════╣
+║  [UNLOCKED]  ║  💡 Full-Stack Builder                                 ║
+║              ║  End-to-end: Vite + Tailwind + Firebase + Node.js      ║
+╠══════════════╬════════════════════════════════════════════════════════╣
+║  [UNLOCKED]  ║  📊 Data Explorer                                      ║
+║              ║  NumPy, Pandas, Matplotlib & TensorFlow projects        ║
+╠══════════════╬════════════════════════════════════════════════════════╣
+║  [UNLOCKED]  ║  ⚔️  DSA Enthusiast                                    ║
+║              ║  Active problem solver — Java & Python preferred        ║
+╠══════════════╬════════════════════════════════════════════════════════╣
+║  [ACTIVE  ]  ║  🎮 Game Dev Curious                                   ║
+║              ║  Exploring Unreal Engine & Unity for indie projects     ║
+╠══════════════╬════════════════════════════════════════════════════════╣
+║  [UNLOCKED]  ║  🎬 Creative Technologist                              ║
+║              ║  Adobe CC suite for video, motion & visual design       ║
+╠══════════════╬════════════════════════════════════════════════════════╣
+║  [UNLOCKED]  ║  ☁️  Cloud Deployer                                    ║
+║              ║  Apps live on Vercel, Netlify, Firebase & Google Cloud  ║
+╚══════════════╩════════════════════════════════════════════════════════╝
+```
 
 ---
 
-## 🎖️ &nbsp;Achievements & Highlights
+## `$ run snake-animation --render`
 
 <div align="center">
 
-| 🏅 Achievement | 📋 Details |
-|:---|:---|
-| 🔥 **Consistent Contributor** | Regular commits across personal & open-source projects |
-| 💡 **Full-Stack Builder** | End-to-end apps: Vite + Tailwind + Firebase + Node.js |
-| 📊 **Data Explorer** | Projects in NumPy, Pandas, Matplotlib & TensorFlow |
-| ⚔️ **DSA Enthusiast** | Active problem solver — Java & Python preferred |
-| 🎮 **Game Dev Curious** | Exploring Unreal Engine & Unity for indie projects |
-| 🎬 **Creative Technologist** | Adobe CC suite for video, motion & visual design |
-| ☁️ **Cloud Deployer** | Apps live on Vercel, Netlify, Firebase & Google Cloud |
-
-</div>
-
-
-
----
-
-## 🐍 &nbsp;Contribution Snake
-
-<div align="center">
+```
+ RENDERING CONTRIBUTION GRID...  [████████████████████] DONE
+```
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YASHK-arch/YASHK-arch/output/github-snake-dark.svg" />
@@ -150,9 +196,15 @@ const yash = {
 
 ---
 
-## ✍️ &nbsp;Dev Quote
+## `$ fortune --dev`
 
 <div align="center">
+
+```
+┌──────────────────────────────────────────────────────────────┐
+│  ◈  FETCHING WISDOM FROM /dev/null ...                       │
+└──────────────────────────────────────────────────────────────┘
+```
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
@@ -160,37 +212,45 @@ const yash = {
 
 ---
 
-## 🌐 &nbsp;Connect With Me
+## `$ ssh-keyscan --connect-with-me`
 
 <div align="center">
 
+```
+◈ AVAILABLE UPLINKS  //  ALL CHANNELS OPEN  //  AWAITING CONNECTION...
+```
+
 <a href="https://linkedin.com/in/yash-kumar-836847279" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/◈%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
 </a>
 <a href="https://x.com/Yash%20Kumar" target="_blank">
-  <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" />
+  <img src="https://img.shields.io/badge/◈%20X_(Twitter)-black.svg?style=for-the-badge&logo=X&logoColor=00ffcc&labelColor=0d1117" />
 </a>
 <a href="https://www.youtube.com/@beyondyourthoughts" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
+  <img src="https://img.shields.io/badge/◈%20YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white&labelColor=0d1117" />
 </a>
 <a href="mailto:yashkumar02006@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/◈%20Email-00ffcc?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0d1117" />
 </a>
 <a href="https://github.com/YASHK-arch" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/◈%20GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=00ffcc&labelColor=0d1117" />
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:378ADD,50:7F77DD,100:1D9E75&height=120&section=footer&animation=fadeIn" width="100%" />
+<!-- HOLOGRAPHIC FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00ffcc,30:00b4d8,60:7B2FBE,100:00ffcc&height=140&section=footer&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<br/><br/>
+```
+╔═══════════════════════════════════════════════════════════════════════╗
+║   SESSION TERMINATED  //  NODE: YASHK-ARCH  //  EXIT CODE: 0        ║
+║   ⭐ Star my repos if you found them useful — it keeps me motivated! ║
+╚═══════════════════════════════════════════════════════════════════════╝
+```
 
-⭐ *If you find my work helpful, consider starring my repos!* ⭐
-
-<sub>Made with ❤️ by <strong>Yash Kumar</strong> · Updated May 2026</sub>
+<sub>⟨ Compiled with ❤️ by <strong>Yash Kumar</strong> · Kernel version: June 2026 ⟩</sub>
 
 </div>
 
@@ -203,16 +263,13 @@ const yash = {
 ║                                                              ║
 ║  Create: .github/workflows/snake.yml in YASHK-arch repo     ║
 ║                                                              ║
-║  ---                                                         ║
 ║  name: Generate Snake Animation                              ║
-║                                                              ║
 ║  on:                                                         ║
 ║    schedule:                                                 ║
 ║      - cron: "0 */12 * * *"                                  ║
 ║    workflow_dispatch:                                        ║
 ║    push:                                                     ║
 ║      branches: [main]                                        ║
-║                                                              ║
 ║  jobs:                                                       ║
 ║    generate:                                                 ║
 ║      permissions:                                            ║
@@ -233,6 +290,5 @@ const yash = {
 ║            build_dir: dist                                   ║
 ║          env:                                                ║
 ║            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}         ║
-║  ---                                                         ║
 ╚══════════════════════════════════════════════════════════════╝
 -->
