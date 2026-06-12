@@ -130,10 +130,13 @@ def render_pr_table(prs: list) -> str:
     table = header + "\n" + "\n".join(rows)
 
     return (
+        f"<details>\n"
+        f"<summary><b>Click to expand Merged PRs ({len(prs)})</b></summary>\n<br/>\n\n"
         f"<div align=\"center\">\n\n"
         f"<sub>🔄 Auto-updated: `{updated}` · showing last {len(prs)} merged PRs</sub>\n\n"
         f"</div>\n\n"
-        f"{table}"
+        f"{table}\n"
+        f"</details>"
     )
 
 
@@ -170,10 +173,13 @@ def render_issues_table(issues: list) -> str:
     table = header + "\n" + "\n".join(rows)
 
     return (
+        f"<details>\n"
+        f"<summary><b>Click to expand Issues ({len(issues)})</b></summary>\n<br/>\n\n"
         f"<div align=\"center\">\n\n"
         f"<sub>🔄 Auto-updated: `{updated}` · showing last {len(issues)} issues</sub>\n\n"
         f"</div>\n\n"
-        f"{table}"
+        f"{table}\n"
+        f"</details>"
     )
 
 

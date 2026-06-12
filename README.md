@@ -155,12 +155,17 @@
 ```
 
 <!-- PR-LIST:START -->
+<details>
+<summary><b>Click to expand Merged PRs</b></summary>
+<br/>
+
 <div align="center">
 
 > ⚙️ **Auto-updating section** — populated by GitHub Actions on every push & daily schedule.
 > PRs will appear here once the `update-contributions` workflow runs for the first time.
 
 </div>
+</details>
 <!-- PR-LIST:END -->
 
 ---
@@ -172,12 +177,17 @@
 ```
 
 <!-- ISSUES-LIST:START -->
+<details>
+<summary><b>Click to expand Issues</b></summary>
+<br/>
+
 <div align="center">
 
 > ⚙️ **Auto-updating section** — populated by GitHub Actions on every push & daily schedule.
 > Issues will appear here once the `update-contributions` workflow runs for the first time.
 
 </div>
+</details>
 <!-- ISSUES-LIST:END -->
 
 ---
