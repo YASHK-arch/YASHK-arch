@@ -4,8 +4,7 @@
 
 <div align="center">
 
-<!-- ░░░░░░░░░░░░░ HOLOGRAPHIC HEADER BANNER ░░░░░░░░░░░░░ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020b18,50:041530,100:020b18&height=220&section=header&text=YASH%20KUMAR&fontSize=72&fontColor=00ffcc&animation=fadeIn&fontAlignY=40&desc=%E2%97%88%20Full-Stack%20Dev%20%E2%97%88%20Data%20Enthusiast%20%E2%97%88%20DSA%20Grinder%20%E2%97%88&descAlignY=60&descSize=17&descColor=00e5ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0f3460,100:050816&height=260&section=header&text=YΔSH%20KUMΔR&fontSize=60&fontColor=00ffff&animation=twinkling&fontAlignY=38&desc=%5B%20FULL-STACK%20%7C%20AI%2FML%20%7C%20DATA%20SCIENCE%20%5D&descAlignY=65&descSize=18&descColor=7df9ff" width="100%"/>
 
 <!-- ░░░░░░░░░░░░░ TYPING ANIMATION ░░░░░░░░░░░░░ -->
 <br/>
