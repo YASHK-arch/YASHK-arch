@@ -5,7 +5,7 @@
 <div align="center">
 
 <!-- ░░░░░░░░░░░░░ HOLOGRAPHIC HEADER BANNER ░░░░░░░░░░░░░ -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00ffcc,30:00b4d8,60:7B2FBE,100:00ffcc&height=220&section=header&text=YASH%20KUMAR&fontSize=68&fontColor=00ffcc&animation=fadeIn&fontAlignY=40&desc=◈%20Full-Stack%20Dev%20◈%20Data%20Enthusiast%20◈%20DSA%20Grinder%20◈&descAlignY=62&descSize=16&descColor=00e5ff&stroke=00ffcc&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020b18,50:041530,100:020b18&height=220&section=header&text=YASH%20KUMAR&fontSize=72&fontColor=00ffcc&animation=fadeIn&fontAlignY=40&desc=%E2%97%88%20Full-Stack%20Dev%20%E2%97%88%20Data%20Enthusiast%20%E2%97%88%20DSA%20Grinder%20%E2%97%88&descAlignY=60&descSize=17&descColor=00e5ff" width="100%"/>
 
 <!-- ░░░░░░░░░░░░░ TYPING ANIMATION ░░░░░░░░░░░░░ -->
 <br/>
@@ -92,12 +92,13 @@
 
 <br/>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=0d1117)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=0d1117)
-![CSS3](https://img.shields.io/badge/CSS3-00b4d8?style=flat-square&logo=css3&logoColor=white&labelColor=0d1117)
-![SQL](https://img.shields.io/badge/SQL-00ffcc?style=flat-square&logo=postgresql&logoColor=black&labelColor=0d1117)
-![Markdown](https://img.shields.io/badge/Markdown-7B2FBE?style=flat-square&logo=markdown&logoColor=white&labelColor=0d1117)
-![Bash](https://img.shields.io/badge/Bash-00e5ff?style=flat-square&logo=gnubash&logoColor=black&labelColor=0d1117)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 </div>
 
@@ -239,7 +240,7 @@
 <br/><br/>
 
 <!-- HOLOGRAPHIC FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00ffcc,30:00b4d8,60:7B2FBE,100:00ffcc&height=140&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020b18,50:041530,100:020b18&height=140&section=footer&animation=fadeIn&fontColor=00ffcc" width="100%"/>
 
 <br/>
 
