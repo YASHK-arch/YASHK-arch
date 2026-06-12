@@ -49,13 +49,6 @@ const yash = {
 };
 ```
 
-- 🔭 &nbsp;**Currently building** → Full-stack apps using Vite, Tailwind & Firebase
-- 👯 &nbsp;**Open to collaborate** → CAD ecosystem plugins & full-stack applications
-- 🤝 &nbsp;**Seeking guidance on** → Advanced DSA, System Design & scalable architecture
-- 🌱 &nbsp;**Currently learning** → AI-assisted rendering, Matplotlib & Data Visualization
-- 💬 &nbsp;**Ask me about** → Java · JavaScript · Python · DSA · Web Dev · Data Analysis
-- ⚡ &nbsp;**Fun fact** → I enjoy solving DSA problems more than scrolling social media 😄
-
 <br clear="right"/>
 
 ---
@@ -227,8 +220,6 @@ const yash = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:378ADD,50:7F77DD,100:1D9E75&height=120&section=footer&animation=fadeIn" width="100%" />
 
 <br/>
-
-<img src="https://visitcount.itsvg.in/api?id=YASHK-arch&label=Total%20Visitors&color=6&icon=2&pretty=true" />
 
 <br/><br/>
 
