@@ -121,7 +121,7 @@
       <img
         alt="GitHub stats"
         width="420"
-        src="https://github-readme-stats.vercel.app/api?username=YASHK-arch&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&card_width=420&title_color=00ffcc&icon_color=00b4d8&text_color=c9d1d9&bg_color=0d1117"
+        src="https://github-readme-stats.vercel.app/api?username=YASHK-arch&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&card_width=420&title_color=00ffcc&icon_color=00b4d8&text_color=c9d1d9&bg_color=0d1117"
       />
     </td>
     <td>
