@@ -148,7 +148,41 @@
 
 ---
 
-## `$ cat achievements.log`
+## `$ gh pr list --author YASHK-arch --state merged`
+
+```
+ QUERYING GITHUB API...  FILTER: merged PRs  AUTHOR: YASHK-arch
+```
+
+<!-- PR-LIST:START -->
+<div align="center">
+
+> ⚙️ **Auto-updating section** — populated by GitHub Actions on every push & daily schedule.
+> PRs will appear here once the `update-contributions` workflow runs for the first time.
+
+</div>
+<!-- PR-LIST:END -->
+
+---
+
+## `$ gh issue list --author YASHK-arch --state all`
+
+```
+ QUERYING GITHUB API...  FILTER: all issues  AUTHOR: YASHK-arch
+```
+
+<!-- ISSUES-LIST:START -->
+<div align="center">
+
+> ⚙️ **Auto-updating section** — populated by GitHub Actions on every push & daily schedule.
+> Issues will appear here once the `update-contributions` workflow runs for the first time.
+
+</div>
+<!-- ISSUES-LIST:END -->
+
+---
+
+
 
 ```
 ╔═══════════════════════════════════════════════════════════════════════╗
