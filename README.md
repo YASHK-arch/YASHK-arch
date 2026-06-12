@@ -155,22 +155,22 @@
 
 <!-- PR-LIST:START -->
 <details>
-<summary><b>Click to expand Merged PRs</b></summary>
+<summary><b>Click to expand Merged PRs (8)</b></summary>
 <br/>
 
 <div align="center">
 
-<sub>🔄 Auto-updated: `2026-06-12 18:23 UTC` · showing last 8 merged PRs</sub>
+<sub>🔄 Auto-updated: `2026-06-12 18:33 UTC` · showing last 8 merged PRs</sub>
 
 </div>
 
 | Status | Pull Request | Repository | Description | Merged |
 |:---:|:---|:---|:---|:---:|
-| `✓ MERGED` | [**#6102** — feat: Animated Terminal Status Message Carousel](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/6102) | `SAPTARSHI-coder/EaseMotion-css` | ## Pull Request Description | `2026-06-11` |
-| `✓ MERGED` | [**#4443** — feat: Radio-button based Slideshow-Hero section Component](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/4443) | `SAPTARSHI-coder/EaseMotion-css` | ## Pull Request Description | `2026-06-10` |
-| `✓ MERGED` | [**#3308** — feat: Add Curved Roadmap Infographic Component with Pure CSS Ribbon Path](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/3308) | `SAPTARSHI-coder/EaseMotion-css` | ## Add Curved Roadmap Infographic Component with Pure CSS Ribbon Paths | `2026-06-09` |
-| `✓ MERGED` | [**#1677** — Fix issue #1660 : Fixed hover UI issue in template cards and dropdown me](https://github.com/anurag3407/career-pilot/pull/1677) | `anurag3407/career-pilot` | ## Description | `2026-05-24` |
-| `✓ MERGED` | [**#481** — Flavourly](https://github.com/ianshulx/React-projects-for-beginners/pull/481) | `ianshulx/React-projects-for-beginners` | Added a new open-source project entry for Flavorly to the repository. | `2026-05-16` |
+| `✓ MERGED` | [**#6102** — feat: Animated Terminal Status Message Carousel](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/6102) | `SAPTARSHI-coder/EaseMotion-css` | ## Pull Request Description | `2026-06-11` |
+| `✓ MERGED` | [**#4443** — feat: Radio-button based Slideshow-Hero section Component](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/4443) | `SAPTARSHI-coder/EaseMotion-css` | ## Pull Request Description | `2026-06-10` |
+| `✓ MERGED` | [**#3308** — feat: Add Curved Roadmap Infographic Component with Pure CSS Ribbon Path](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/3308) | `SAPTARSHI-coder/EaseMotion-css` | ## Add Curved Roadmap Infographic Component with Pure CSS Ribbon Paths | `2026-06-09` |
+| `✓ MERGED` | [**#1677** — Fix issue #1660 : Fixed hover UI issue in template cards and dropdown me](https://github.com/anurag3407/career-pilot/pull/1677) | `anurag3407/career-pilot` | ## Description | `2026-05-24` |
+| `✓ MERGED` | [**#481** — Flavourly](https://github.com/ianshulx/React-projects-for-beginners/pull/481) | `ianshulx/React-projects-for-beginners` | Added a new open-source project entry for Flavorly to the repository. | `2026-05-16` |
 | `✓ MERGED` | [**#117170** — Add Yash Kumar to Contributors list](https://github.com/firstcontributions/first-contributions/pull/117170) | `firstcontributions/first-contributions` | Hey there! I have just started my Open source journey | `2026-05-16` |
 | `✓ MERGED` | [**#2** — Revert "Master"](https://github.com/YASHK-arch/JAVA-Projects/pull/2) | `YASHK-arch/JAVA-Projects` | Reverts YASHK-arch/JAVA-Projects#1 | `2025-10-02` |
 | `✓ MERGED` | [**#1** — Master](https://github.com/YASHK-arch/JAVA-Projects/pull/1) | `YASHK-arch/JAVA-Projects` | created a new branch to include docker files | `2025-10-02` |
@@ -187,12 +187,12 @@
 
 <!-- ISSUES-LIST:START -->
 <details>
-<summary><b>Click to expand Issues</b></summary>
+<summary><b>Click to expand Issues (9)</b></summary>
 <br/>
 
 <div align="center">
 
-<sub>🔄 Auto-updated: `2026-06-12 18:23 UTC` · showing last 9 issues</sub>
+<sub>🔄 Auto-updated: `2026-06-12 18:33 UTC` · showing last 9 issues</sub>
 
 </div>
 
@@ -207,7 +207,6 @@
 | `🟢 OPEN` | `🏷 GSSOC26` | [**#550** — 🐛 UI Bug: Manually typed input text becomes invisible on signup page](https://github.com/GitMetricsLab/github_tracker/issues/550) | `GitMetricsLab/github_tracker` | ### 📜 Description | `2026-05-28` |
 | `🟢 OPEN` | `🐛 BUG-FIX` | [**#1086** — [UI/UX Bug]: Homepage carousel, layout alignment, readability, popup beh](https://github.com/janavipandole/Cara/issues/1086) | `janavipandole/Cara` | # [UI/UX Bug]: Homepage carousel, layout alignment, readability, popup behavior, and produ | `2026-05-24` |
 | `🔴 CLOSED` | `🐛 BUG-FIX` | [**#1660** — [Bug]: Dark mode dropdown text visibility and rough card hover animation](https://github.com/anurag3407/career-pilot/issues/1660) | `anurag3407/career-pilot` | ### What happened? | `2026-05-24` |
-
 </details>
 <!-- ISSUES-LIST:END -->
 
