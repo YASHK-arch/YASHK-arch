@@ -57,6 +57,23 @@ const yash = {
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,django,python,cpp,java,mongodb,postgres,docker,git,linux&perline=15" alt="Anurag's Tech Stack" />
+  <div align="center">
+
+<!-- ───── LANGUAGE BUTTONS (unclickable) ───── -->
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Pascal](https://img.shields.io/badge/Pascal-0D4B8E?style=for-the-badge&logo=delphi&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CC1018?style=for-the-badge&logo=yaml&logoColor=white)
+
+</div>
 </div>
 
 <br>
@@ -94,27 +111,6 @@ const yash = {
 
 ---
 
-## <img src="https://github.githubassets.com/favicons/favicon.svg" width="20" style="vertical-align:middle"/> &nbsp;Languages I Work With
-
-<div align="center">
-
-<!-- ───── LANGUAGE BUTTONS (unclickable) ───── -->
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Pascal](https://img.shields.io/badge/Pascal-0D4B8E?style=for-the-badge&logo=delphi&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-CC1018?style=for-the-badge&logo=yaml&logoColor=white)
-
-</div>
-
----
 
 ## 📈 &nbsp;Contribution Activity
 
@@ -124,30 +120,6 @@ const yash = {
 
 </div>
 
----
-
-## 🏆 &nbsp;GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=YASHK-arch&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=9&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews,Experience,MultiLanguage)](https://github.com/ryo-ma/github-profile-trophy)
-
-<br/>
-
-<a href="https://github.com/YASHK-arch?tab=achievements">
-  <img src="https://img.shields.io/badge/Pull%20Shark-Achievement-7F77DD?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://github.com/YASHK-arch?tab=achievements">
-  <img src="https://img.shields.io/badge/Quickdraw-Achievement-1D9E75?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://github.com/YASHK-arch?tab=achievements">
-  <img src="https://img.shields.io/badge/Galaxy%20Brain-Achievement-378ADD?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://github.com/YASHK-arch?tab=achievements">
-  <img src="https://img.shields.io/badge/YOLO-Achievement-0F172A?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
 
 ---
 
