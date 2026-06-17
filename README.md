@@ -207,17 +207,18 @@
 
 <!-- PR-LIST:START -->
 <details>
-<summary><b>Click to expand Merged PRs (8)</b></summary>
+<summary><b>Click to expand Merged PRs (9)</b></summary>
 <br/>
 
 <div align="center">
 
-<sub>🔄 Auto-updated: `2026-06-16 04:27 UTC` · showing last 8 merged PRs</sub>
+<sub>🔄 Auto-updated: `2026-06-17 04:20 UTC` · showing last 9 merged PRs</sub>
 
 </div>
 
 | Status | Pull Request | Repository | Description | Merged |
 |:---:|:---|:---|:---|:---:|
+| `✓ MERGED` | [**#2332** — fix: render shortcuts and notification popups via React portals](https://github.com/Umbrella-io/devtrack/pull/2332) | `Umbrella-io/devtrack` | ## Summary | `2026-06-16` |
 | `✓ MERGED` | [**#6102** — feat: Animated Terminal Status Message Carousel](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/6102) | `SAPTARSHI-coder/EaseMotion-css` | ## Pull Request Description | `2026-06-11` |
 | `✓ MERGED` | [**#4443** — feat: Radio-button based Slideshow-Hero section Component](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/4443) | `SAPTARSHI-coder/EaseMotion-css` | ## Pull Request Description | `2026-06-10` |
 | `✓ MERGED` | [**#3308** — feat: Add Curved Roadmap Infographic Component with Pure CSS Ribbon Path](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/3308) | `SAPTARSHI-coder/EaseMotion-css` | ## Add Curved Roadmap Infographic Component with Pure CSS Ribbon Paths | `2026-06-09` |
@@ -239,17 +240,20 @@
 
 <!-- ISSUES-LIST:START -->
 <details>
-<summary><b>Click to expand Issues (13)</b></summary>
+<summary><b>Click to expand Issues (15)</b></summary>
 <br/>
 
 <div align="center">
 
-<sub>🔄 Auto-updated: `2026-06-16 04:27 UTC` · showing last 13 issues</sub>
+<sub>🔄 Auto-updated: `2026-06-17 04:20 UTC` · showing last 15 issues</sub>
 
 </div>
 
 | State | Type | Issue | Repository | Description | Updated |
 |:---:|:---:|:---|:---|:---|:---:|
+| `🔴 CLOSED` | `🐛 BUG-FIX` | [**#2321** — [BUG] [GOOD FIRST ISSUE] Keyboard Shortcuts Modal Gets Clipped Inside Da](https://github.com/Umbrella-io/devtrack/issues/2321) | `Umbrella-io/devtrack` | ### Bug Description | `2026-06-16` |
+| `🟢 OPEN` | `✨ FEATURE` | [**#8667** — [Feature]: Add Flavourly, a modern recipe discovery web application Proj](https://github.com/dhairyagothi/100_days_100_web_project/issues/8667) | `dhairyagothi/100_days_100_web_project` | ### Feature/Project Proposal | `2026-06-16` |
+| `🟢 OPEN` | `✨ FEATURE` | [**#8668** — [Feature]: Add a production-grade competitive programming learning platf](https://github.com/dhairyagothi/100_days_100_web_project/issues/8668) | `dhairyagothi/100_days_100_web_project` | ### Feature/Project Proposal | `2026-06-16` |
 | `🟢 OPEN` | `🐛 BUG-FIX` | [**#165** — [Bug]: C++ Execution Sandbox Fails Due to Source Code Corruption and Bin](https://github.com/Kushaal-k/Tessera.io/issues/165) | `Kushaal-k/Tessera.io` | ### Description | `2026-06-16` |
 | `🟢 OPEN` | `🏷 TYPE:DESIGN` | [**#169** — [Feature]: Multi-File Workspace Support (with CRUD facility)](https://github.com/Kushaal-k/Tessera.io/issues/169) | `Kushaal-k/Tessera.io` | ### Is your feature request related to a problem? | `2026-06-16` |
 | `🔴 CLOSED` | `🏷 NEED APPROVA` | [**#190** — [Bug]: Docker Multiplexed Log Headers Render as Random Symbols in Execut](https://github.com/Kushaal-k/Tessera.io/issues/190) | `Kushaal-k/Tessera.io` | ### Description | `2026-06-14` |
@@ -257,7 +261,6 @@
 | `🟢 OPEN` | `✨ FEATURE` | [**#993** — Feature: Add OCR-Based Scan Text & Translate Functionality](https://github.com/hitesh-kumar123/Travel-Plans-/issues/993) | `hitesh-kumar123/Travel-Plans-` | ### 💡 Problem Statement | `2026-06-12` |
 | `🔴 CLOSED` | `❓ QUESTION` | [**#6100** — [FEATURE] Animated Terminal Status Message Carousel](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/6100) | `SAPTARSHI-coder/EaseMotion-css` | ## Feature Name | `2026-06-11` |
 | `🟢 OPEN` | `🐛 BUG-FIX` | [**#2326** — [BUG] Delayed Response When Switching Leaderboard Tabs](https://github.com/Umbrella-io/devtrack/issues/2326) | `Umbrella-io/devtrack` | ### Bug Description | `2026-06-11` |
-| `🟢 OPEN` | `🐛 BUG-FIX` | [**#2321** — [BUG] [GOOD FIRST ISSUE] Keyboard Shortcuts Modal Gets Clipped Inside Da](https://github.com/Umbrella-io/devtrack/issues/2321) | `Umbrella-io/devtrack` | ### Bug Description | `2026-06-11` |
 | `🔴 CLOSED` | `🏷 ANIMATION` | [**#4418** — [FEATURE] Radio-button based Slideshow-Hero section Component](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/4418) | `SAPTARSHI-coder/EaseMotion-css` | > ## Feature Name | `2026-06-10` |
 | `🔴 CLOSED` | `🏷 ANIMATION` | [**#3198** — [FEATURE] Curved Workflow / Roadmap Infographic Chart Component](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/3198) | `SAPTARSHI-coder/EaseMotion-css` | ## Feature Name | `2026-06-09` |
 | `🟢 OPEN` | `🏷 GSSOC26` | [**#550** — 🐛 UI Bug: Manually typed input text becomes invisible on signup page](https://github.com/GitMetricsLab/github_tracker/issues/550) | `GitMetricsLab/github_tracker` | ### 📜 Description | `2026-05-28` |
