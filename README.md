@@ -212,7 +212,7 @@
 
 <div align="center">
 
-<sub>🔄 Auto-updated: `2026-06-19 04:41 UTC` · showing last 8 merged PRs</sub>
+<sub>🔄 Auto-updated: `2026-06-20 03:55 UTC` · showing last 8 merged PRs</sub>
 
 </div>
 
@@ -244,22 +244,22 @@
 
 <div align="center">
 
-<sub>🔄 Auto-updated: `2026-06-19 04:41 UTC` · showing last 15 issues</sub>
+<sub>🔄 Auto-updated: `2026-06-20 03:55 UTC` · showing last 15 issues</sub>
 
 </div>
 
 | State | Type | Issue | Repository | Description | Updated |
 |:---:|:---:|:---|:---|:---|:---:|
+| `🟢 OPEN` | `✨ FEATURE` | [**#8668** — [Feature]: Add a production-grade competitive programming learning platf](https://github.com/dhairyagothi/100_days_100_web_project/issues/8668) | `dhairyagothi/100_days_100_web_project` | ### Feature/Project Proposal | `2026-06-19` |
+| `🔴 CLOSED` | `✨ FEATURE` | [**#8667** — [Feature]: Add Flavourly, a modern recipe discovery web application Proj](https://github.com/dhairyagothi/100_days_100_web_project/issues/8667) | `dhairyagothi/100_days_100_web_project` | ### Feature/Project Proposal | `2026-06-19` |
+| `🟢 OPEN` | `🐛 BUG-FIX` | [**#2326** — [BUG] Delayed Response When Switching Leaderboard Tabs](https://github.com/Umbrella-io/devtrack/issues/2326) | `Umbrella-io/devtrack` | ### Bug Description | `2026-06-19` |
 | `🟢 OPEN` | `🐛 BUG-FIX` | [**#165** — [Bug]: C++ Execution Sandbox Fails Due to Source Code Corruption and Bin](https://github.com/Kushaal-k/Tessera.io/issues/165) | `Kushaal-k/Tessera.io` | ### Description | `2026-06-19` |
 | `🟢 OPEN` | `🏷 TYPE:DESIGN` | [**#169** — [Feature]: Multi-File Workspace Support (with CRUD facility)](https://github.com/Kushaal-k/Tessera.io/issues/169) | `Kushaal-k/Tessera.io` | ### Is your feature request related to a problem? | `2026-06-19` |
-| `🔴 CLOSED` | `✨ FEATURE` | [**#8667** — [Feature]: Add Flavourly, a modern recipe discovery web application Proj](https://github.com/dhairyagothi/100_days_100_web_project/issues/8667) | `dhairyagothi/100_days_100_web_project` | ### Feature/Project Proposal | `2026-06-18` |
 | `🔴 CLOSED` | `🐛 BUG-FIX` | [**#2321** — [BUG] [GOOD FIRST ISSUE] Keyboard Shortcuts Modal Gets Clipped Inside Da](https://github.com/Umbrella-io/devtrack/issues/2321) | `Umbrella-io/devtrack` | ### Bug Description | `2026-06-16` |
-| `🟢 OPEN` | `✨ FEATURE` | [**#8668** — [Feature]: Add a production-grade competitive programming learning platf](https://github.com/dhairyagothi/100_days_100_web_project/issues/8668) | `dhairyagothi/100_days_100_web_project` | ### Feature/Project Proposal | `2026-06-16` |
 | `🔴 CLOSED` | `🏷 NEED APPROVA` | [**#190** — [Bug]: Docker Multiplexed Log Headers Render as Random Symbols in Execut](https://github.com/Kushaal-k/Tessera.io/issues/190) | `Kushaal-k/Tessera.io` | ### Description | `2026-06-14` |
 | `🟢 OPEN` | `✨ FEATURE` | [**#1046** — [FEATURE] GitHub Contribution Sync & Auto-Population instead of manual e](https://github.com/Saatvik-GT/xaytheon/issues/1046) | `Saatvik-GT/xaytheon` | ### Title | `2026-06-13` |
 | `🟢 OPEN` | `✨ FEATURE` | [**#993** — Feature: Add OCR-Based Scan Text & Translate Functionality](https://github.com/hitesh-kumar123/Travel-Plans-/issues/993) | `hitesh-kumar123/Travel-Plans-` | ### 💡 Problem Statement | `2026-06-12` |
 | `🔴 CLOSED` | `❓ QUESTION` | [**#6100** — [FEATURE] Animated Terminal Status Message Carousel](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/6100) | `SAPTARSHI-coder/EaseMotion-css` | ## Feature Name | `2026-06-11` |
-| `🟢 OPEN` | `🐛 BUG-FIX` | [**#2326** — [BUG] Delayed Response When Switching Leaderboard Tabs](https://github.com/Umbrella-io/devtrack/issues/2326) | `Umbrella-io/devtrack` | ### Bug Description | `2026-06-11` |
 | `🔴 CLOSED` | `🏷 ANIMATION` | [**#4418** — [FEATURE] Radio-button based Slideshow-Hero section Component](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/4418) | `SAPTARSHI-coder/EaseMotion-css` | > ## Feature Name | `2026-06-10` |
 | `🔴 CLOSED` | `🏷 ANIMATION` | [**#3198** — [FEATURE] Curved Workflow / Roadmap Infographic Chart Component](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/3198) | `SAPTARSHI-coder/EaseMotion-css` | ## Feature Name | `2026-06-09` |
 | `🟢 OPEN` | `🏷 GSSOC26` | [**#550** — 🐛 UI Bug: Manually typed input text becomes invisible on signup page](https://github.com/GitMetricsLab/github_tracker/issues/550) | `GitMetricsLab/github_tracker` | ### 📜 Description | `2026-05-28` |
