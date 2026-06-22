@@ -212,16 +212,16 @@
 
 <div align="center">
 
-<sub>🔄 Auto-updated: `2026-06-21 04:26 UTC` · showing last 8 merged PRs</sub>
+<sub>🔄 Auto-updated: `2026-06-22 04:42 UTC` · showing last 8 merged PRs</sub>
 
 </div>
 
 | Status | Pull Request | Repository | Description | Merged |
 |:---:|:---|:---|:---|:---:|
+| `✓ MERGED` | [**#4443** — feat: Radio-button based Slideshow-Hero section Component](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/4443) | `SAPTARSHI-coder/EaseMotion-css` | ## Pull Request Description | `2026-06-10` |
 | `✓ MERGED` | [**#8709** — feat: add new project - Flavourly](https://github.com/dhairyagothi/100_days_100_web_project/pull/8709) | `dhairyagothi/100_days_100_web_project` | # 🍽️ Add Flavorly – Recipe Discovery App | `2026-06-18` |
 | `✓ MERGED` | [**#2332** — fix: render shortcuts and notification popups via React portals](https://github.com/Umbrella-io/devtrack/pull/2332) | `Umbrella-io/devtrack` | ## Summary | `2026-06-16` |
 | `✓ MERGED` | [**#6102** — feat: Animated Terminal Status Message Carousel](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/6102) | `SAPTARSHI-coder/EaseMotion-css` | ## Pull Request Description | `2026-06-11` |
-| `✓ MERGED` | [**#4443** — feat: Radio-button based Slideshow-Hero section Component](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/4443) | `SAPTARSHI-coder/EaseMotion-css` | ## Pull Request Description | `2026-06-10` |
 | `✓ MERGED` | [**#3308** — feat: Add Curved Roadmap Infographic Component with Pure CSS Ribbon Path](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/3308) | `SAPTARSHI-coder/EaseMotion-css` | ## Add Curved Roadmap Infographic Component with Pure CSS Ribbon Paths | `2026-06-09` |
 | `✓ MERGED` | [**#1677** — Fix issue #1660 : Fixed hover UI issue in template cards and dropdown me](https://github.com/anurag3407/career-pilot/pull/1677) | `anurag3407/career-pilot` | ## Description | `2026-05-24` |
 | `✓ MERGED` | [**#481** — Flavourly](https://github.com/ianshulx/React-projects-for-beginners/pull/481) | `ianshulx/React-projects-for-beginners` | Added a new open-source project entry for Flavorly to the repository. | `2026-05-16` |
@@ -244,12 +244,14 @@
 
 <div align="center">
 
-<sub>🔄 Auto-updated: `2026-06-21 04:26 UTC` · showing last 15 issues</sub>
+<sub>🔄 Auto-updated: `2026-06-22 04:42 UTC` · showing last 15 issues</sub>
 
 </div>
 
 | State | Type | Issue | Repository | Description | Updated |
 |:---:|:---:|:---|:---|:---|:---:|
+| `🔴 CLOSED` | `🏷 ANIMATION` | [**#4418** — [FEATURE] Radio-button based Slideshow-Hero section Component](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/4418) | `SAPTARSHI-coder/EaseMotion-css` | > ## Feature Name | `2026-06-21` |
+| `🔴 CLOSED` | `🏷 ANIMATION` | [**#3198** — [FEATURE] Curved Workflow / Roadmap Infographic Chart Component](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/3198) | `SAPTARSHI-coder/EaseMotion-css` | ## Feature Name | `2026-06-21` |
 | `🟢 OPEN` | `✨ FEATURE` | [**#8668** — [Feature]: Add a production-grade competitive programming learning platf](https://github.com/dhairyagothi/100_days_100_web_project/issues/8668) | `dhairyagothi/100_days_100_web_project` | ### Feature/Project Proposal | `2026-06-19` |
 | `🔴 CLOSED` | `✨ FEATURE` | [**#8667** — [Feature]: Add Flavourly, a modern recipe discovery web application Proj](https://github.com/dhairyagothi/100_days_100_web_project/issues/8667) | `dhairyagothi/100_days_100_web_project` | ### Feature/Project Proposal | `2026-06-19` |
 | `🟢 OPEN` | `🐛 BUG-FIX` | [**#2326** — [BUG] Delayed Response When Switching Leaderboard Tabs](https://github.com/Umbrella-io/devtrack/issues/2326) | `Umbrella-io/devtrack` | ### Bug Description | `2026-06-19` |
@@ -260,8 +262,6 @@
 | `🟢 OPEN` | `✨ FEATURE` | [**#1046** — [FEATURE] GitHub Contribution Sync & Auto-Population instead of manual e](https://github.com/Saatvik-GT/xaytheon/issues/1046) | `Saatvik-GT/xaytheon` | ### Title | `2026-06-13` |
 | `🟢 OPEN` | `✨ FEATURE` | [**#993** — Feature: Add OCR-Based Scan Text & Translate Functionality](https://github.com/hitesh-kumar123/Travel-Plans-/issues/993) | `hitesh-kumar123/Travel-Plans-` | ### 💡 Problem Statement | `2026-06-12` |
 | `🔴 CLOSED` | `❓ QUESTION` | [**#6100** — [FEATURE] Animated Terminal Status Message Carousel](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/6100) | `SAPTARSHI-coder/EaseMotion-css` | ## Feature Name | `2026-06-11` |
-| `🔴 CLOSED` | `🏷 ANIMATION` | [**#4418** — [FEATURE] Radio-button based Slideshow-Hero section Component](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/4418) | `SAPTARSHI-coder/EaseMotion-css` | > ## Feature Name | `2026-06-10` |
-| `🔴 CLOSED` | `🏷 ANIMATION` | [**#3198** — [FEATURE] Curved Workflow / Roadmap Infographic Chart Component](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/3198) | `SAPTARSHI-coder/EaseMotion-css` | ## Feature Name | `2026-06-09` |
 | `🟢 OPEN` | `🏷 GSSOC26` | [**#550** — 🐛 UI Bug: Manually typed input text becomes invisible on signup page](https://github.com/GitMetricsLab/github_tracker/issues/550) | `GitMetricsLab/github_tracker` | ### 📜 Description | `2026-05-28` |
 | `🟢 OPEN` | `🐛 BUG-FIX` | [**#1086** — [UI/UX Bug]: Homepage carousel, layout alignment, readability, popup beh](https://github.com/janavipandole/Cara/issues/1086) | `janavipandole/Cara` | # [UI/UX Bug]: Homepage carousel, layout alignment, readability, popup behavior, and produ | `2026-05-24` |
 | `🔴 CLOSED` | `🐛 BUG-FIX` | [**#1660** — [Bug]: Dark mode dropdown text visibility and rough card hover animation](https://github.com/anurag3407/career-pilot/issues/1660) | `anurag3407/career-pilot` | ### What happened? | `2026-05-24` |
