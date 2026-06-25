@@ -212,7 +212,7 @@
 
 <div align="center">
 
-<sub>🔄 Auto-updated: `2026-06-24 03:49 UTC` · showing last 8 merged PRs</sub>
+<sub>🔄 Auto-updated: `2026-06-25 03:50 UTC` · showing last 8 merged PRs</sub>
 
 </div>
 
@@ -221,7 +221,7 @@
 | `✓ MERGED` | [**#3308** — feat: Add Curved Roadmap Infographic Component with Pure CSS Ribbon Path](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/3308) | `SAPTARSHI-coder/EaseMotion-css` | ## Add Curved Roadmap Infographic Component with Pure CSS Ribbon Paths | `2026-06-09` |
 | `✓ MERGED` | [**#4443** — feat: Radio-button based Slideshow-Hero section Component](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/4443) | `SAPTARSHI-coder/EaseMotion-css` | ## Pull Request Description | `2026-06-10` |
 | `✓ MERGED` | [**#8709** — feat: add new project - Flavourly](https://github.com/dhairyagothi/100_days_100_web_project/pull/8709) | `dhairyagothi/100_days_100_web_project` | # 🍽️ Add Flavorly – Recipe Discovery App | `2026-06-18` |
-| `✓ MERGED` | [**#2332** — fix: render shortcuts and notification popups via React portals](https://github.com/Umbrella-io/devtrack/pull/2332) | `Umbrella-io/devtrack` | ## Summary | `2026-06-16` |
+| `✓ MERGED` | [**#2332** — fix: render shortcuts and notification popups via React portals](https://github.com/Priyanshu-byte-coder/devtrack/pull/2332) | `Priyanshu-byte-coder/devtrack` | ## Summary | `2026-06-16` |
 | `✓ MERGED` | [**#6102** — feat: Animated Terminal Status Message Carousel](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/6102) | `SAPTARSHI-coder/EaseMotion-css` | ## Pull Request Description | `2026-06-11` |
 | `✓ MERGED` | [**#1677** — Fix issue #1660 : Fixed hover UI issue in template cards and dropdown me](https://github.com/anurag3407/career-pilot/pull/1677) | `anurag3407/career-pilot` | ## Description | `2026-05-24` |
 | `✓ MERGED` | [**#481** — Flavourly](https://github.com/ianshulx/React-projects-for-beginners/pull/481) | `ianshulx/React-projects-for-beginners` | Added a new open-source project entry for Flavorly to the repository. | `2026-05-16` |
@@ -244,7 +244,7 @@
 
 <div align="center">
 
-<sub>🔄 Auto-updated: `2026-06-24 03:49 UTC` · showing last 15 issues</sub>
+<sub>🔄 Auto-updated: `2026-06-25 03:50 UTC` · showing last 15 issues</sub>
 
 </div>
 
@@ -254,10 +254,10 @@
 | `🔴 CLOSED` | `🏷 ANIMATION` | [**#3198** — [FEATURE] Curved Workflow / Roadmap Infographic Chart Component](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/3198) | `SAPTARSHI-coder/EaseMotion-css` | ## Feature Name | `2026-06-21` |
 | `🟢 OPEN` | `✨ FEATURE` | [**#8668** — [Feature]: Add a production-grade competitive programming learning platf](https://github.com/dhairyagothi/100_days_100_web_project/issues/8668) | `dhairyagothi/100_days_100_web_project` | ### Feature/Project Proposal | `2026-06-19` |
 | `🔴 CLOSED` | `✨ FEATURE` | [**#8667** — [Feature]: Add Flavourly, a modern recipe discovery web application Proj](https://github.com/dhairyagothi/100_days_100_web_project/issues/8667) | `dhairyagothi/100_days_100_web_project` | ### Feature/Project Proposal | `2026-06-19` |
-| `🟢 OPEN` | `🐛 BUG-FIX` | [**#2326** — [BUG] Delayed Response When Switching Leaderboard Tabs](https://github.com/Umbrella-io/devtrack/issues/2326) | `Umbrella-io/devtrack` | ### Bug Description | `2026-06-19` |
+| `🟢 OPEN` | `🐛 BUG-FIX` | [**#2326** — [BUG] Delayed Response When Switching Leaderboard Tabs](https://github.com/Priyanshu-byte-coder/devtrack/issues/2326) | `Priyanshu-byte-coder/devtrack` | ### Bug Description | `2026-06-19` |
 | `🟢 OPEN` | `🐛 BUG-FIX` | [**#165** — [Bug]: C++ Execution Sandbox Fails Due to Source Code Corruption and Bin](https://github.com/Kushaal-k/Tessera.io/issues/165) | `Kushaal-k/Tessera.io` | ### Description | `2026-06-19` |
 | `🟢 OPEN` | `🏷 TYPE:DESIGN` | [**#169** — [Feature]: Multi-File Workspace Support (with CRUD facility)](https://github.com/Kushaal-k/Tessera.io/issues/169) | `Kushaal-k/Tessera.io` | ### Is your feature request related to a problem? | `2026-06-19` |
-| `🔴 CLOSED` | `🐛 BUG-FIX` | [**#2321** — [BUG] [GOOD FIRST ISSUE] Keyboard Shortcuts Modal Gets Clipped Inside Da](https://github.com/Umbrella-io/devtrack/issues/2321) | `Umbrella-io/devtrack` | ### Bug Description | `2026-06-16` |
+| `🔴 CLOSED` | `🐛 BUG-FIX` | [**#2321** — [BUG] [GOOD FIRST ISSUE] Keyboard Shortcuts Modal Gets Clipped Inside Da](https://github.com/Priyanshu-byte-coder/devtrack/issues/2321) | `Priyanshu-byte-coder/devtrack` | ### Bug Description | `2026-06-16` |
 | `🔴 CLOSED` | `🏷 NEED APPROVA` | [**#190** — [Bug]: Docker Multiplexed Log Headers Render as Random Symbols in Execut](https://github.com/Kushaal-k/Tessera.io/issues/190) | `Kushaal-k/Tessera.io` | ### Description | `2026-06-14` |
 | `🟢 OPEN` | `✨ FEATURE` | [**#1046** — [FEATURE] GitHub Contribution Sync & Auto-Population instead of manual e](https://github.com/Saatvik-GT/xaytheon/issues/1046) | `Saatvik-GT/xaytheon` | ### Title | `2026-06-13` |
 | `🟢 OPEN` | `✨ FEATURE` | [**#993** — Feature: Add OCR-Based Scan Text & Translate Functionality](https://github.com/hitesh-kumar123/Travel-Plans-/issues/993) | `hitesh-kumar123/Travel-Plans-` | ### 💡 Problem Statement | `2026-06-12` |
