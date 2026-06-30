@@ -212,7 +212,7 @@
 
 <div align="center">
 
-<sub>🔄 Auto-updated: `2026-06-29 04:10 UTC` · showing last 8 merged PRs</sub>
+<sub>🔄 Auto-updated: `2026-06-30 03:52 UTC` · showing last 8 merged PRs</sub>
 
 </div>
 
@@ -244,7 +244,7 @@
 
 <div align="center">
 
-<sub>🔄 Auto-updated: `2026-06-29 04:10 UTC` · showing last 15 issues</sub>
+<sub>🔄 Auto-updated: `2026-06-30 03:52 UTC` · showing last 15 issues</sub>
 
 </div>
 
