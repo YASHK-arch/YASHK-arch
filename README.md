@@ -212,7 +212,7 @@
 
 <div align="center">
 
-<sub>🔄 Auto-updated: `2026-07-03 03:29 UTC` · showing last 8 merged PRs</sub>
+<sub>🔄 Auto-updated: `2026-07-04 03:22 UTC` · showing last 8 merged PRs</sub>
 
 </div>
 
@@ -239,18 +239,19 @@
 
 <!-- ISSUES-LIST:START -->
 <details>
-<summary><b>Click to expand Issues (15)</b></summary>
+<summary><b>Click to expand Issues (16)</b></summary>
 <br/>
 
 <div align="center">
 
-<sub>🔄 Auto-updated: `2026-07-03 03:29 UTC` · showing last 15 issues</sub>
+<sub>🔄 Auto-updated: `2026-07-04 03:22 UTC` · showing last 16 issues</sub>
 
 </div>
 
 | State | Type | Issue | Repository | Description | Updated |
 |:---:|:---:|:---|:---|:---|:---:|
-| `🟢 OPEN` | `🐛 BUG-FIX` | [**#2326** — [BUG] Delayed Response When Switching Leaderboard Tabs](https://github.com/Priyanshu-byte-coder/devtrack/issues/2326) | `Priyanshu-byte-coder/devtrack` | ### Bug Description | `2026-06-28` |
+| `🟢 OPEN` | `🐛 BUG-FIX` | [**#3125** — [BUG] AI Resume & CV Generator fails with 500 Internal Server Error due ](https://github.com/Priyanshu-byte-coder/devtrack/issues/3125) | `Priyanshu-byte-coder/devtrack` | ### Bug Description | `2026-07-03` |
+| `🔴 CLOSED` | `🐛 BUG-FIX` | [**#2326** — [BUG] Delayed Response When Switching Leaderboard Tabs](https://github.com/Priyanshu-byte-coder/devtrack/issues/2326) | `Priyanshu-byte-coder/devtrack` | ### Bug Description | `2026-07-03` |
 | `🔴 CLOSED` | `🏷 ANIMATION` | [**#4418** — [FEATURE] Radio-button based Slideshow-Hero section Component](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/4418) | `SAPTARSHI-coder/EaseMotion-css` | > ## Feature Name | `2026-06-21` |
 | `🔴 CLOSED` | `🏷 ANIMATION` | [**#3198** — [FEATURE] Curved Workflow / Roadmap Infographic Chart Component](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/3198) | `SAPTARSHI-coder/EaseMotion-css` | ## Feature Name | `2026-06-21` |
 | `🟢 OPEN` | `✨ FEATURE` | [**#8668** — [Feature]: Add a production-grade competitive programming learning platf](https://github.com/dhairyagothi/100_days_100_web_project/issues/8668) | `dhairyagothi/100_days_100_web_project` | ### Feature/Project Proposal | `2026-06-19` |
