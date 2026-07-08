@@ -207,17 +207,18 @@
 
 <!-- PR-LIST:START -->
 <details>
-<summary><b>Click to expand Merged PRs (8)</b></summary>
+<summary><b>Click to expand Merged PRs (9)</b></summary>
 <br/>
 
 <div align="center">
 
-<sub>🔄 Auto-updated: `2026-07-07 03:37 UTC` · showing last 8 merged PRs</sub>
+<sub>🔄 Auto-updated: `2026-07-08 02:52 UTC` · showing last 9 merged PRs</sub>
 
 </div>
 
 | Status | Pull Request | Repository | Description | Merged |
 |:---:|:---|:---|:---|:---:|
+| `✓ MERGED` | [**#8** — fix(extension): optimize badge layout positioning and sizing](https://github.com/YASHK-arch/RepoOwl-extension/pull/8) | `YASHK-arch/RepoOwl-extension` | ## Description | `2026-07-07` |
 | `✓ MERGED` | [**#3308** — feat: Add Curved Roadmap Infographic Component with Pure CSS Ribbon Path](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/3308) | `SAPTARSHI-coder/EaseMotion-css` | ## Add Curved Roadmap Infographic Component with Pure CSS Ribbon Paths | `2026-06-09` |
 | `✓ MERGED` | [**#4443** — feat: Radio-button based Slideshow-Hero section Component](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/4443) | `SAPTARSHI-coder/EaseMotion-css` | ## Pull Request Description | `2026-06-10` |
 | `✓ MERGED` | [**#8709** — feat: add new project - Flavourly](https://github.com/dhairyagothi/100_days_100_web_project/pull/8709) | `dhairyagothi/100_days_100_web_project` | # 🍽️ Add Flavorly – Recipe Discovery App | `2026-06-18` |
@@ -239,18 +240,24 @@
 
 <!-- ISSUES-LIST:START -->
 <details>
-<summary><b>Click to expand Issues (17)</b></summary>
+<summary><b>Click to expand Issues (20)</b></summary>
 <br/>
 
 <div align="center">
 
-<sub>🔄 Auto-updated: `2026-07-07 03:37 UTC` · showing last 17 issues</sub>
+<sub>🔄 Auto-updated: `2026-07-08 02:52 UTC` · showing last 20 issues</sub>
 
 </div>
 
 | State | Type | Issue | Repository | Description | Updated |
 |:---:|:---:|:---|:---|:---|:---:|
-| `🟢 OPEN` | `✨ FEATURE` | [**#4** — [FEATURE]: Add the base MVP application](https://github.com/YASHK-arch/RepoOwl-extension/issues/4) | `YASHK-arch/RepoOwl-extension` | ### Feature Description | `2026-07-06` |
+| `🟢 OPEN` | `🐛 BUG-FIX` | [**#11** — [BUG]: Duplicate issue detection fails across different issue templates ](https://github.com/YASHK-arch/RepoOwl-extension/issues/11) | `YASHK-arch/RepoOwl-extension` | ### Bug Description | `2026-07-07` |
+| `🟢 OPEN` | `🐛 BUG-FIX` | [**#10** — [BUG]: RepoOwl sidebar never loads even though duplicate analysis comple](https://github.com/YASHK-arch/RepoOwl-extension/issues/10) | `YASHK-arch/RepoOwl-extension` | ### Bug Description | `2026-07-07` |
+| `🔴 CLOSED` | `✨ FEATURE` | [**#4** — [FEATURE]: Add the base MVP application](https://github.com/YASHK-arch/RepoOwl-extension/issues/4) | `YASHK-arch/RepoOwl-extension` | ### Feature Description | `2026-07-07` |
+| `🟢 OPEN` | `🐛 BUG-FIX` | [**#9** — [BUG]: Extension fails to display duplicate issue suggestions on newly c](https://github.com/YASHK-arch/RepoOwl-extension/issues/9) | `YASHK-arch/RepoOwl-extension` | ### Bug Description | `2026-07-07` |
+| `🔴 CLOSED` | `🐛 BUG-FIX` | [**#6** — [BUG]: [UI] Mobile view causes AI insights badge to crash into tags](https://github.com/YASHK-arch/RepoOwl-extension/issues/6) | `YASHK-arch/RepoOwl-extension` | ### Bug Description | `2026-07-07` |
+| `🔴 CLOSED` | `🐛 BUG-FIX` | [**#5** — [BUG] Badges overlapping with native GitHub labels on narrow screens](https://github.com/YASHK-arch/RepoOwl-extension/issues/5) | `YASHK-arch/RepoOwl-extension` | ### Bug Description | `2026-07-07` |
+| `🟢 OPEN` | `🐛 BUG-FIX` | [**#7** — [BUG]: Content script failing to inject on paginated issue views](https://github.com/YASHK-arch/RepoOwl-extension/issues/7) | `YASHK-arch/RepoOwl-extension` | ### Bug Description | `2026-07-07` |
 | `🟢 OPEN` | `🐛 BUG-FIX` | [**#3125** — [BUG] AI Resume & CV Generator fails with 500 Internal Server Error due ](https://github.com/Priyanshu-byte-coder/devtrack/issues/3125) | `Priyanshu-byte-coder/devtrack` | ### Bug Description | `2026-07-03` |
 | `🔴 CLOSED` | `🐛 BUG-FIX` | [**#2326** — [BUG] Delayed Response When Switching Leaderboard Tabs](https://github.com/Priyanshu-byte-coder/devtrack/issues/2326) | `Priyanshu-byte-coder/devtrack` | ### Bug Description | `2026-07-03` |
 | `🔴 CLOSED` | `🏷 ANIMATION` | [**#4418** — [FEATURE] Radio-button based Slideshow-Hero section Component](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/4418) | `SAPTARSHI-coder/EaseMotion-css` | > ## Feature Name | `2026-06-21` |
@@ -264,9 +271,6 @@
 | `🟢 OPEN` | `✨ FEATURE` | [**#1046** — [FEATURE] GitHub Contribution Sync & Auto-Population instead of manual e](https://github.com/Saatvik-GT/xaytheon/issues/1046) | `Saatvik-GT/xaytheon` | ### Title | `2026-06-13` |
 | `🟢 OPEN` | `✨ FEATURE` | [**#993** — Feature: Add OCR-Based Scan Text & Translate Functionality](https://github.com/hitesh-kumar123/Travel-Plans-/issues/993) | `hitesh-kumar123/Travel-Plans-` | ### 💡 Problem Statement | `2026-06-12` |
 | `🔴 CLOSED` | `❓ QUESTION` | [**#6100** — [FEATURE] Animated Terminal Status Message Carousel](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/6100) | `SAPTARSHI-coder/EaseMotion-css` | ## Feature Name | `2026-06-11` |
-| `🟢 OPEN` | `🏷 GSSOC26` | [**#550** — 🐛 UI Bug: Manually typed input text becomes invisible on signup page](https://github.com/GitMetricsLab/github_tracker/issues/550) | `GitMetricsLab/github_tracker` | ### 📜 Description | `2026-05-28` |
-| `🟢 OPEN` | `🐛 BUG-FIX` | [**#1086** — [UI/UX Bug]: Homepage carousel, layout alignment, readability, popup beh](https://github.com/janavipandole/Cara/issues/1086) | `janavipandole/Cara` | # [UI/UX Bug]: Homepage carousel, layout alignment, readability, popup behavior, and produ | `2026-05-24` |
-| `🔴 CLOSED` | `🐛 BUG-FIX` | [**#1660** — [Bug]: Dark mode dropdown text visibility and rough card hover animation](https://github.com/anurag3407/career-pilot/issues/1660) | `anurag3407/career-pilot` | ### What happened? | `2026-05-24` |
 </details>
 <!-- ISSUES-LIST:END -->
 
