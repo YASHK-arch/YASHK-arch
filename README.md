@@ -207,17 +207,20 @@
 
 <!-- PR-LIST:START -->
 <details>
-<summary><b>Click to expand Merged PRs (9)</b></summary>
+<summary><b>Click to expand Merged PRs (12)</b></summary>
 <br/>
 
 <div align="center">
 
-<sub>🔄 Auto-updated: `2026-07-08 02:52 UTC` · showing last 9 merged PRs</sub>
+<sub>🔄 Auto-updated: `2026-07-09 03:30 UTC` · showing last 12 merged PRs</sub>
 
 </div>
 
 | Status | Pull Request | Repository | Description | Merged |
 |:---:|:---|:---|:---|:---:|
+| `✓ MERGED` | [**#16** — feat(ui): update extension icons and assets to the new OWL logo](https://github.com/YASHK-arch/RepoOwl-extension/pull/16) | `YASHK-arch/RepoOwl-extension` | ## Description | `2026-07-08` |
+| `✓ MERGED` | [**#15** — fix(extension): resolve repo name extraction bug preventing popup hydrat](https://github.com/YASHK-arch/RepoOwl-extension/pull/15) | `YASHK-arch/RepoOwl-extension` | ## Description | `2026-07-08` |
+| `✓ MERGED` | [**#13** — feat: integrate omni-prompt for multi-issue context](https://github.com/YASHK-arch/RepoOwl-extension/pull/13) | `YASHK-arch/RepoOwl-extension` | ## Description | `2026-07-08` |
 | `✓ MERGED` | [**#8** — fix(extension): optimize badge layout positioning and sizing](https://github.com/YASHK-arch/RepoOwl-extension/pull/8) | `YASHK-arch/RepoOwl-extension` | ## Description | `2026-07-07` |
 | `✓ MERGED` | [**#3308** — feat: Add Curved Roadmap Infographic Component with Pure CSS Ribbon Path](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/3308) | `SAPTARSHI-coder/EaseMotion-css` | ## Add Curved Roadmap Infographic Component with Pure CSS Ribbon Paths | `2026-06-09` |
 | `✓ MERGED` | [**#4443** — feat: Radio-button based Slideshow-Hero section Component](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/4443) | `SAPTARSHI-coder/EaseMotion-css` | ## Pull Request Description | `2026-06-10` |
@@ -245,15 +248,18 @@
 
 <div align="center">
 
-<sub>🔄 Auto-updated: `2026-07-08 02:52 UTC` · showing last 20 issues</sub>
+<sub>🔄 Auto-updated: `2026-07-09 03:30 UTC` · showing last 20 issues</sub>
 
 </div>
 
 | State | Type | Issue | Repository | Description | Updated |
 |:---:|:---:|:---|:---|:---|:---:|
-| `🟢 OPEN` | `🐛 BUG-FIX` | [**#11** — [BUG]: Duplicate issue detection fails across different issue templates ](https://github.com/YASHK-arch/RepoOwl-extension/issues/11) | `YASHK-arch/RepoOwl-extension` | ### Bug Description | `2026-07-07` |
+| `🟢 OPEN` | `✨ FEATURE` | [**#17** — [FEATURE]: Multi-Tenant Architecture, UX Overhaul & Contributor Onboardi](https://github.com/YASHK-arch/RepoOwl-extension/issues/17) | `YASHK-arch/RepoOwl-extension` | ### Feature Description | `2026-07-08` |
+| `🔴 CLOSED` | `✨ FEATURE` | [**#12** — [FEATURE]: Design and integrate official RepoOwl branding logo](https://github.com/YASHK-arch/RepoOwl-extension/issues/12) | `YASHK-arch/RepoOwl-extension` | ### Feature Description | `2026-07-08` |
+| `🔴 CLOSED` | `🐛 BUG-FIX` | [**#14** — [BUG]: Extension popup state fails to hydrate from local storage (displa](https://github.com/YASHK-arch/RepoOwl-extension/issues/14) | `YASHK-arch/RepoOwl-extension` | ### Bug Description | `2026-07-08` |
+| `🔴 CLOSED` | `🐛 BUG-FIX` | [**#11** — [BUG]: Duplicate issue detection fails across different issue templates ](https://github.com/YASHK-arch/RepoOwl-extension/issues/11) | `YASHK-arch/RepoOwl-extension` | ### Bug Description | `2026-07-08` |
+| `🔴 CLOSED` | `✨ FEATURE` | [**#4** — [FEATURE]: Add the base MVP application](https://github.com/YASHK-arch/RepoOwl-extension/issues/4) | `YASHK-arch/RepoOwl-extension` | ### Feature Description | `2026-07-08` |
 | `🟢 OPEN` | `🐛 BUG-FIX` | [**#10** — [BUG]: RepoOwl sidebar never loads even though duplicate analysis comple](https://github.com/YASHK-arch/RepoOwl-extension/issues/10) | `YASHK-arch/RepoOwl-extension` | ### Bug Description | `2026-07-07` |
-| `🔴 CLOSED` | `✨ FEATURE` | [**#4** — [FEATURE]: Add the base MVP application](https://github.com/YASHK-arch/RepoOwl-extension/issues/4) | `YASHK-arch/RepoOwl-extension` | ### Feature Description | `2026-07-07` |
 | `🟢 OPEN` | `🐛 BUG-FIX` | [**#9** — [BUG]: Extension fails to display duplicate issue suggestions on newly c](https://github.com/YASHK-arch/RepoOwl-extension/issues/9) | `YASHK-arch/RepoOwl-extension` | ### Bug Description | `2026-07-07` |
 | `🔴 CLOSED` | `🐛 BUG-FIX` | [**#6** — [BUG]: [UI] Mobile view causes AI insights badge to crash into tags](https://github.com/YASHK-arch/RepoOwl-extension/issues/6) | `YASHK-arch/RepoOwl-extension` | ### Bug Description | `2026-07-07` |
 | `🔴 CLOSED` | `🐛 BUG-FIX` | [**#5** — [BUG] Badges overlapping with native GitHub labels on narrow screens](https://github.com/YASHK-arch/RepoOwl-extension/issues/5) | `YASHK-arch/RepoOwl-extension` | ### Bug Description | `2026-07-07` |
@@ -268,9 +274,6 @@
 | `🟢 OPEN` | `🏷 TYPE:DESIGN` | [**#169** — [Feature]: Multi-File Workspace Support (with CRUD facility)](https://github.com/Kushaal-k/Tessera.io/issues/169) | `Kushaal-k/Tessera.io` | ### Is your feature request related to a problem? | `2026-06-19` |
 | `🔴 CLOSED` | `🐛 BUG-FIX` | [**#2321** — [BUG] [GOOD FIRST ISSUE] Keyboard Shortcuts Modal Gets Clipped Inside Da](https://github.com/Priyanshu-byte-coder/devtrack/issues/2321) | `Priyanshu-byte-coder/devtrack` | ### Bug Description | `2026-06-16` |
 | `🔴 CLOSED` | `🏷 NEED APPROVA` | [**#190** — [Bug]: Docker Multiplexed Log Headers Render as Random Symbols in Execut](https://github.com/Kushaal-k/Tessera.io/issues/190) | `Kushaal-k/Tessera.io` | ### Description | `2026-06-14` |
-| `🟢 OPEN` | `✨ FEATURE` | [**#1046** — [FEATURE] GitHub Contribution Sync & Auto-Population instead of manual e](https://github.com/Saatvik-GT/xaytheon/issues/1046) | `Saatvik-GT/xaytheon` | ### Title | `2026-06-13` |
-| `🟢 OPEN` | `✨ FEATURE` | [**#993** — Feature: Add OCR-Based Scan Text & Translate Functionality](https://github.com/hitesh-kumar123/Travel-Plans-/issues/993) | `hitesh-kumar123/Travel-Plans-` | ### 💡 Problem Statement | `2026-06-12` |
-| `🔴 CLOSED` | `❓ QUESTION` | [**#6100** — [FEATURE] Animated Terminal Status Message Carousel](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/6100) | `SAPTARSHI-coder/EaseMotion-css` | ## Feature Name | `2026-06-11` |
 </details>
 <!-- ISSUES-LIST:END -->
 
