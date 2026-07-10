@@ -207,17 +207,18 @@
 
 <!-- PR-LIST:START -->
 <details>
-<summary><b>Click to expand Merged PRs (12)</b></summary>
+<summary><b>Click to expand Merged PRs (13)</b></summary>
 <br/>
 
 <div align="center">
 
-<sub>🔄 Auto-updated: `2026-07-09 03:30 UTC` · showing last 12 merged PRs</sub>
+<sub>🔄 Auto-updated: `2026-07-10 03:32 UTC` · showing last 13 merged PRs</sub>
 
 </div>
 
 | Status | Pull Request | Repository | Description | Merged |
 |:---:|:---|:---|:---|:---:|
+| `✓ MERGED` | [**#23** — Client side overhaul](https://github.com/YASHK-arch/RepoOwl-extension/pull/23) | `YASHK-arch/RepoOwl-extension` | ..... | `2026-07-09` |
 | `✓ MERGED` | [**#16** — feat(ui): update extension icons and assets to the new OWL logo](https://github.com/YASHK-arch/RepoOwl-extension/pull/16) | `YASHK-arch/RepoOwl-extension` | ## Description | `2026-07-08` |
 | `✓ MERGED` | [**#15** — fix(extension): resolve repo name extraction bug preventing popup hydrat](https://github.com/YASHK-arch/RepoOwl-extension/pull/15) | `YASHK-arch/RepoOwl-extension` | ## Description | `2026-07-08` |
 | `✓ MERGED` | [**#13** — feat: integrate omni-prompt for multi-issue context](https://github.com/YASHK-arch/RepoOwl-extension/pull/13) | `YASHK-arch/RepoOwl-extension` | ## Description | `2026-07-08` |
@@ -248,12 +249,16 @@
 
 <div align="center">
 
-<sub>🔄 Auto-updated: `2026-07-09 03:30 UTC` · showing last 20 issues</sub>
+<sub>🔄 Auto-updated: `2026-07-10 03:32 UTC` · showing last 20 issues</sub>
 
 </div>
 
 | State | Type | Issue | Repository | Description | Updated |
 |:---:|:---:|:---|:---|:---|:---:|
+| `🔴 CLOSED` | `🐛 BUG-FIX` | [**#21** — [BUG]: Duplicate Analysis panel remains blank because AI response format](https://github.com/YASHK-arch/RepoOwl-extension/issues/21) | `YASHK-arch/RepoOwl-extension` | ### Bug Description | `2026-07-09` |
+| `🟢 OPEN` | `🐛 BUG-FIX` | [**#20** — [BUG]: Sidebar fails to render duplicate checks due to LLM prompt schema](https://github.com/YASHK-arch/RepoOwl-extension/issues/20) | `YASHK-arch/RepoOwl-extension` | ### Bug Description | `2026-07-09` |
+| `🟢 OPEN` | `✨ FEATURE` | [**#18** — [FEATURE]: RepoOwl v1.0 (Client-Side BYOK Architecture)](https://github.com/YASHK-arch/RepoOwl-extension/issues/18) | `YASHK-arch/RepoOwl-extension` | ### Feature Description | `2026-07-09` |
+| `🟢 OPEN` | `✨ FEATURE` | [**#19** — [FEATURE]: Transition RepoOwl to a Browser-Native Client Architecture](https://github.com/YASHK-arch/RepoOwl-extension/issues/19) | `YASHK-arch/RepoOwl-extension` | ### Feature Description | `2026-07-09` |
 | `🟢 OPEN` | `✨ FEATURE` | [**#17** — [FEATURE]: Multi-Tenant Architecture, UX Overhaul & Contributor Onboardi](https://github.com/YASHK-arch/RepoOwl-extension/issues/17) | `YASHK-arch/RepoOwl-extension` | ### Feature Description | `2026-07-08` |
 | `🔴 CLOSED` | `✨ FEATURE` | [**#12** — [FEATURE]: Design and integrate official RepoOwl branding logo](https://github.com/YASHK-arch/RepoOwl-extension/issues/12) | `YASHK-arch/RepoOwl-extension` | ### Feature Description | `2026-07-08` |
 | `🔴 CLOSED` | `🐛 BUG-FIX` | [**#14** — [BUG]: Extension popup state fails to hydrate from local storage (displa](https://github.com/YASHK-arch/RepoOwl-extension/issues/14) | `YASHK-arch/RepoOwl-extension` | ### Bug Description | `2026-07-08` |
@@ -270,10 +275,6 @@
 | `🔴 CLOSED` | `🏷 ANIMATION` | [**#3198** — [FEATURE] Curved Workflow / Roadmap Infographic Chart Component](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/3198) | `SAPTARSHI-coder/EaseMotion-css` | ## Feature Name | `2026-06-21` |
 | `🟢 OPEN` | `✨ FEATURE` | [**#8668** — [Feature]: Add a production-grade competitive programming learning platf](https://github.com/dhairyagothi/100_days_100_web_project/issues/8668) | `dhairyagothi/100_days_100_web_project` | ### Feature/Project Proposal | `2026-06-19` |
 | `🔴 CLOSED` | `✨ FEATURE` | [**#8667** — [Feature]: Add Flavourly, a modern recipe discovery web application Proj](https://github.com/dhairyagothi/100_days_100_web_project/issues/8667) | `dhairyagothi/100_days_100_web_project` | ### Feature/Project Proposal | `2026-06-19` |
-| `🟢 OPEN` | `🐛 BUG-FIX` | [**#165** — [Bug]: C++ Execution Sandbox Fails Due to Source Code Corruption and Bin](https://github.com/Kushaal-k/Tessera.io/issues/165) | `Kushaal-k/Tessera.io` | ### Description | `2026-06-19` |
-| `🟢 OPEN` | `🏷 TYPE:DESIGN` | [**#169** — [Feature]: Multi-File Workspace Support (with CRUD facility)](https://github.com/Kushaal-k/Tessera.io/issues/169) | `Kushaal-k/Tessera.io` | ### Is your feature request related to a problem? | `2026-06-19` |
-| `🔴 CLOSED` | `🐛 BUG-FIX` | [**#2321** — [BUG] [GOOD FIRST ISSUE] Keyboard Shortcuts Modal Gets Clipped Inside Da](https://github.com/Priyanshu-byte-coder/devtrack/issues/2321) | `Priyanshu-byte-coder/devtrack` | ### Bug Description | `2026-06-16` |
-| `🔴 CLOSED` | `🏷 NEED APPROVA` | [**#190** — [Bug]: Docker Multiplexed Log Headers Render as Random Symbols in Execut](https://github.com/Kushaal-k/Tessera.io/issues/190) | `Kushaal-k/Tessera.io` | ### Description | `2026-06-14` |
 </details>
 <!-- ISSUES-LIST:END -->
 
