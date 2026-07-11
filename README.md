@@ -212,7 +212,7 @@
 
 <div align="center">
 
-<sub>🔄 Auto-updated: `2026-07-10 03:32 UTC` · showing last 13 merged PRs</sub>
+<sub>🔄 Auto-updated: `2026-07-11 02:48 UTC` · showing last 13 merged PRs</sub>
 
 </div>
 
@@ -249,12 +249,14 @@
 
 <div align="center">
 
-<sub>🔄 Auto-updated: `2026-07-10 03:32 UTC` · showing last 20 issues</sub>
+<sub>🔄 Auto-updated: `2026-07-11 02:48 UTC` · showing last 20 issues</sub>
 
 </div>
 
 | State | Type | Issue | Repository | Description | Updated |
 |:---:|:---:|:---|:---|:---|:---:|
+| `🟢 OPEN` | `📝 DOCS` | [**#26** — [DOCS]: Contributor onboarding is completely undocumented (Local DB & Bu](https://github.com/YASHK-arch/RepoOwl-extension/issues/26) | `YASHK-arch/RepoOwl-extension` | ### What documentation is missing? | `2026-07-10` |
+| `🟢 OPEN` | `📝 DOCS` | [**#25** — [DOCS]: Add comprehensive Local Setup & Supabase Configuration Guide for](https://github.com/YASHK-arch/RepoOwl-extension/issues/25) | `YASHK-arch/RepoOwl-extension` | ### What documentation is missing? | `2026-07-10` |
 | `🔴 CLOSED` | `🐛 BUG-FIX` | [**#21** — [BUG]: Duplicate Analysis panel remains blank because AI response format](https://github.com/YASHK-arch/RepoOwl-extension/issues/21) | `YASHK-arch/RepoOwl-extension` | ### Bug Description | `2026-07-09` |
 | `🟢 OPEN` | `🐛 BUG-FIX` | [**#20** — [BUG]: Sidebar fails to render duplicate checks due to LLM prompt schema](https://github.com/YASHK-arch/RepoOwl-extension/issues/20) | `YASHK-arch/RepoOwl-extension` | ### Bug Description | `2026-07-09` |
 | `🟢 OPEN` | `✨ FEATURE` | [**#18** — [FEATURE]: RepoOwl v1.0 (Client-Side BYOK Architecture)](https://github.com/YASHK-arch/RepoOwl-extension/issues/18) | `YASHK-arch/RepoOwl-extension` | ### Feature Description | `2026-07-09` |
@@ -273,8 +275,6 @@
 | `🔴 CLOSED` | `🐛 BUG-FIX` | [**#2326** — [BUG] Delayed Response When Switching Leaderboard Tabs](https://github.com/Priyanshu-byte-coder/devtrack/issues/2326) | `Priyanshu-byte-coder/devtrack` | ### Bug Description | `2026-07-03` |
 | `🔴 CLOSED` | `🏷 ANIMATION` | [**#4418** — [FEATURE] Radio-button based Slideshow-Hero section Component](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/4418) | `SAPTARSHI-coder/EaseMotion-css` | > ## Feature Name | `2026-06-21` |
 | `🔴 CLOSED` | `🏷 ANIMATION` | [**#3198** — [FEATURE] Curved Workflow / Roadmap Infographic Chart Component](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/3198) | `SAPTARSHI-coder/EaseMotion-css` | ## Feature Name | `2026-06-21` |
-| `🟢 OPEN` | `✨ FEATURE` | [**#8668** — [Feature]: Add a production-grade competitive programming learning platf](https://github.com/dhairyagothi/100_days_100_web_project/issues/8668) | `dhairyagothi/100_days_100_web_project` | ### Feature/Project Proposal | `2026-06-19` |
-| `🔴 CLOSED` | `✨ FEATURE` | [**#8667** — [Feature]: Add Flavourly, a modern recipe discovery web application Proj](https://github.com/dhairyagothi/100_days_100_web_project/issues/8667) | `dhairyagothi/100_days_100_web_project` | ### Feature/Project Proposal | `2026-06-19` |
 </details>
 <!-- ISSUES-LIST:END -->
 
