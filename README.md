@@ -207,17 +207,18 @@
 
 <!-- PR-LIST:START -->
 <details>
-<summary><b>Click to expand Merged PRs (13)</b></summary>
+<summary><b>Click to expand Merged PRs (14)</b></summary>
 <br/>
 
 <div align="center">
 
-<sub>🔄 Auto-updated: `2026-07-12 02:56 UTC` · showing last 13 merged PRs</sub>
+<sub>🔄 Auto-updated: `2026-07-13 03:15 UTC` · showing last 14 merged PRs</sub>
 
 </div>
 
 | Status | Pull Request | Repository | Description | Merged |
 |:---:|:---|:---|:---|:---:|
+| `✓ MERGED` | [**#3126** — fix: resolve AI CV generator internal server errors](https://github.com/Priyanshu-byte-coder/devtrack/pull/3126) | `Priyanshu-byte-coder/devtrack` | ## Summary | `2026-07-12` |
 | `✓ MERGED` | [**#23** — Client side overhaul](https://github.com/YASHK-arch/RepoOwl-extension/pull/23) | `YASHK-arch/RepoOwl-extension` | ..... | `2026-07-09` |
 | `✓ MERGED` | [**#16** — feat(ui): update extension icons and assets to the new OWL logo](https://github.com/YASHK-arch/RepoOwl-extension/pull/16) | `YASHK-arch/RepoOwl-extension` | ## Description | `2026-07-08` |
 | `✓ MERGED` | [**#15** — fix(extension): resolve repo name extraction bug preventing popup hydrat](https://github.com/YASHK-arch/RepoOwl-extension/pull/15) | `YASHK-arch/RepoOwl-extension` | ## Description | `2026-07-08` |
@@ -249,12 +250,13 @@
 
 <div align="center">
 
-<sub>🔄 Auto-updated: `2026-07-12 02:56 UTC` · showing last 20 issues</sub>
+<sub>🔄 Auto-updated: `2026-07-13 03:15 UTC` · showing last 20 issues</sub>
 
 </div>
 
 | State | Type | Issue | Repository | Description | Updated |
 |:---:|:---:|:---|:---|:---|:---:|
+| `🔴 CLOSED` | `🐛 BUG-FIX` | [**#3125** — [BUG] AI Resume & CV Generator fails with 500 Internal Server Error due ](https://github.com/Priyanshu-byte-coder/devtrack/issues/3125) | `Priyanshu-byte-coder/devtrack` | ### Bug Description | `2026-07-12` |
 | `🟢 OPEN` | `📝 DOCS` | [**#26** — [DOCS]: Contributor onboarding is completely undocumented (Local DB & Bu](https://github.com/YASHK-arch/RepoOwl-extension/issues/26) | `YASHK-arch/RepoOwl-extension` | ### What documentation is missing? | `2026-07-10` |
 | `🟢 OPEN` | `📝 DOCS` | [**#25** — [DOCS]: Add comprehensive Local Setup & Supabase Configuration Guide for](https://github.com/YASHK-arch/RepoOwl-extension/issues/25) | `YASHK-arch/RepoOwl-extension` | ### What documentation is missing? | `2026-07-10` |
 | `🔴 CLOSED` | `🐛 BUG-FIX` | [**#21** — [BUG]: Duplicate Analysis panel remains blank because AI response format](https://github.com/YASHK-arch/RepoOwl-extension/issues/21) | `YASHK-arch/RepoOwl-extension` | ### Bug Description | `2026-07-09` |
@@ -271,7 +273,6 @@
 | `🔴 CLOSED` | `🐛 BUG-FIX` | [**#6** — [BUG]: [UI] Mobile view causes AI insights badge to crash into tags](https://github.com/YASHK-arch/RepoOwl-extension/issues/6) | `YASHK-arch/RepoOwl-extension` | ### Bug Description | `2026-07-07` |
 | `🔴 CLOSED` | `🐛 BUG-FIX` | [**#5** — [BUG] Badges overlapping with native GitHub labels on narrow screens](https://github.com/YASHK-arch/RepoOwl-extension/issues/5) | `YASHK-arch/RepoOwl-extension` | ### Bug Description | `2026-07-07` |
 | `🟢 OPEN` | `🐛 BUG-FIX` | [**#7** — [BUG]: Content script failing to inject on paginated issue views](https://github.com/YASHK-arch/RepoOwl-extension/issues/7) | `YASHK-arch/RepoOwl-extension` | ### Bug Description | `2026-07-07` |
-| `🟢 OPEN` | `🐛 BUG-FIX` | [**#3125** — [BUG] AI Resume & CV Generator fails with 500 Internal Server Error due ](https://github.com/Priyanshu-byte-coder/devtrack/issues/3125) | `Priyanshu-byte-coder/devtrack` | ### Bug Description | `2026-07-03` |
 | `🔴 CLOSED` | `🐛 BUG-FIX` | [**#2326** — [BUG] Delayed Response When Switching Leaderboard Tabs](https://github.com/Priyanshu-byte-coder/devtrack/issues/2326) | `Priyanshu-byte-coder/devtrack` | ### Bug Description | `2026-07-03` |
 | `🔴 CLOSED` | `🏷 ANIMATION` | [**#4418** — [FEATURE] Radio-button based Slideshow-Hero section Component](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/4418) | `SAPTARSHI-coder/EaseMotion-css` | > ## Feature Name | `2026-06-21` |
 | `🔴 CLOSED` | `🏷 ANIMATION` | [**#3198** — [FEATURE] Curved Workflow / Roadmap Infographic Chart Component](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/3198) | `SAPTARSHI-coder/EaseMotion-css` | ## Feature Name | `2026-06-21` |
