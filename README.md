@@ -214,37 +214,25 @@
 
 <div align="center">
 
-<sub>🔄 Auto-updated: `2026-07-14 08:18 UTC` · showing last 14 merged PRs</sub>
+<sub>🔄 Auto-updated: `2026-07-14 08:22 UTC` · showing last 14 merged PRs</sub>
 
 </div>
 
 | Status | Pull Request | Repository | Description | Merged |
 |:---:|:---|:---|:---|:---:|
-| `✓ MERGED` | [**#3126** — fix: resolve AI CV generator internal server errors](https://github.com/Priyanshu-byte-coder/devtrack/pull/3126) | `Priyanshu-byte-coder/devtrack` | ## Summary
- | `2026-07-12` |
+| `✓ MERGED` | [**#3126** — fix: resolve AI CV generator internal server errors](https://github.com/Priyanshu-byte-coder/devtrack/pull/3126) | `Priyanshu-byte-coder/devtrack` | ## Summary | `2026-07-12` |
 | `✓ MERGED` | [**#23** — Client side overhaul](https://github.com/YASHK-arch/RepoOwl-extension/pull/23) | `YASHK-arch/RepoOwl-extension` | ..... | `2026-07-09` |
-| `✓ MERGED` | [**#16** — feat(ui): update extension icons and assets to the new OWL logo](https://github.com/YASHK-arch/RepoOwl-extension/pull/16) | `YASHK-arch/RepoOwl-extension` | ## Description
- | `2026-07-08` |
-| `✓ MERGED` | [**#15** — fix(extension): resolve repo name extraction bug preventing popup hydrat](https://github.com/YASHK-arch/RepoOwl-extension/pull/15) | `YASHK-arch/RepoOwl-extension` | ## Description
- | `2026-07-08` |
-| `✓ MERGED` | [**#13** — feat: integrate omni-prompt for multi-issue context](https://github.com/YASHK-arch/RepoOwl-extension/pull/13) | `YASHK-arch/RepoOwl-extension` | ## Description
- | `2026-07-08` |
-| `✓ MERGED` | [**#8** — fix(extension): optimize badge layout positioning and sizing](https://github.com/YASHK-arch/RepoOwl-extension/pull/8) | `YASHK-arch/RepoOwl-extension` | ## Description
- | `2026-07-07` |
-| `✓ MERGED` | [**#3308** — feat: Add Curved Roadmap Infographic Component with Pure CSS Ribbon Path](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/3308) | `SAPTARSHI-coder/EaseMotion-css` | ## Add Curved Roadmap Infographic Component with Pure CSS Ribbon Paths
- | `2026-06-09` |
-| `✓ MERGED` | [**#4443** — feat: Radio-button based Slideshow-Hero section Component](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/4443) | `SAPTARSHI-coder/EaseMotion-css` | ## Pull Request Description
- | `2026-06-10` |
-| `✓ MERGED` | [**#8709** — feat: add new project - Flavourly](https://github.com/dhairyagothi/100_days_100_web_project/pull/8709) | `dhairyagothi/100_days_100_web_project` | # 🍽️ Add Flavorly – Recipe Discovery App
- | `2026-06-18` |
-| `✓ MERGED` | [**#2332** — fix: render shortcuts and notification popups via React portals](https://github.com/Priyanshu-byte-coder/devtrack/pull/2332) | `Priyanshu-byte-coder/devtrack` | ## Summary
- | `2026-06-16` |
-| `✓ MERGED` | [**#6102** — feat: Animated Terminal Status Message Carousel](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/6102) | `SAPTARSHI-coder/EaseMotion-css` | ## Pull Request Description
- | `2026-06-11` |
-| `✓ MERGED` | [**#1677** — Fix issue #1660 : Fixed hover UI issue in template cards and dropdown me](https://github.com/anurag3407/career-pilot/pull/1677) | `anurag3407/career-pilot` | ## Description
- | `2026-05-24` |
-| `✓ MERGED` | [**#481** — Flavourly](https://github.com/ianshulx/React-projects-for-beginners/pull/481) | `ianshulx/React-projects-for-beginners` | Added a new open-source project entry for Flavorly to the repository.
- | `2026-05-16` |
+| `✓ MERGED` | [**#16** — feat(ui): update extension icons and assets to the new OWL logo](https://github.com/YASHK-arch/RepoOwl-extension/pull/16) | `YASHK-arch/RepoOwl-extension` | ## Description | `2026-07-08` |
+| `✓ MERGED` | [**#15** — fix(extension): resolve repo name extraction bug preventing popup hydrat](https://github.com/YASHK-arch/RepoOwl-extension/pull/15) | `YASHK-arch/RepoOwl-extension` | ## Description | `2026-07-08` |
+| `✓ MERGED` | [**#13** — feat: integrate omni-prompt for multi-issue context](https://github.com/YASHK-arch/RepoOwl-extension/pull/13) | `YASHK-arch/RepoOwl-extension` | ## Description | `2026-07-08` |
+| `✓ MERGED` | [**#8** — fix(extension): optimize badge layout positioning and sizing](https://github.com/YASHK-arch/RepoOwl-extension/pull/8) | `YASHK-arch/RepoOwl-extension` | ## Description | `2026-07-07` |
+| `✓ MERGED` | [**#3308** — feat: Add Curved Roadmap Infographic Component with Pure CSS Ribbon Path](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/3308) | `SAPTARSHI-coder/EaseMotion-css` | ## Add Curved Roadmap Infographic Component with Pure CSS Ribbon Paths | `2026-06-09` |
+| `✓ MERGED` | [**#4443** — feat: Radio-button based Slideshow-Hero section Component](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/4443) | `SAPTARSHI-coder/EaseMotion-css` | ## Pull Request Description | `2026-06-10` |
+| `✓ MERGED` | [**#8709** — feat: add new project - Flavourly](https://github.com/dhairyagothi/100_days_100_web_project/pull/8709) | `dhairyagothi/100_days_100_web_project` | # 🍽️ Add Flavorly – Recipe Discovery App | `2026-06-18` |
+| `✓ MERGED` | [**#2332** — fix: render shortcuts and notification popups via React portals](https://github.com/Priyanshu-byte-coder/devtrack/pull/2332) | `Priyanshu-byte-coder/devtrack` | ## Summary | `2026-06-16` |
+| `✓ MERGED` | [**#6102** — feat: Animated Terminal Status Message Carousel](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/6102) | `SAPTARSHI-coder/EaseMotion-css` | ## Pull Request Description | `2026-06-11` |
+| `✓ MERGED` | [**#1677** — Fix issue #1660 : Fixed hover UI issue in template cards and dropdown me](https://github.com/anurag3407/career-pilot/pull/1677) | `anurag3407/career-pilot` | ## Description | `2026-05-24` |
+| `✓ MERGED` | [**#481** — Flavourly](https://github.com/ianshulx/React-projects-for-beginners/pull/481) | `ianshulx/React-projects-for-beginners` | Added a new open-source project entry for Flavorly to the repository. | `2026-05-16` |
 | `✓ MERGED` | [**#117170** — Add Yash Kumar to Contributors list](https://github.com/firstcontributions/first-contributions/pull/117170) | `firstcontributions/first-contributions` | Hey there! I have just started my Open source journey | `2026-05-16` |
 </details>
 <!-- PR-LIST:END -->
@@ -264,7 +252,7 @@
 
 <div align="center">
 
-<sub>🔄 Auto-updated: `2026-07-14 08:18 UTC` · showing last 20 issues</sub>
+<sub>🔄 Auto-updated: `2026-07-14 08:22 UTC` · showing last 20 issues</sub>
 
 </div>
 
