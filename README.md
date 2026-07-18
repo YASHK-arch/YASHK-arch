@@ -211,17 +211,19 @@
 
 <!-- PR-LIST:START -->
 <details>
-<summary><b>Click to expand Merged PRs (14)</b></summary>
+<summary><b>Click to expand Merged PRs (16)</b></summary>
 <br/>
 
 <div align="center">
 
-<sub>🔄 Auto-updated: `2026-07-17 02:47 UTC` · showing last 14 merged PRs</sub>
+<sub>🔄 Auto-updated: `2026-07-18 02:39 UTC` · showing last 16 merged PRs</sub>
 
 </div>
 
 | Status | Pull Request | Repository | Description | Merged |
 |:---:|:---|:---|:---|:---:|
+| `✓ MERGED` | [**#34** — fix(deployment): Invalid request: `framework` should be null,string.](https://github.com/YASHK-arch/RepoOwl-extension/pull/34) | `YASHK-arch/RepoOwl-extension` | Vercel threw that error because it only accepts a string (like "nextjs") or null for that  | `2026-07-17` |
+| `✓ MERGED` | [**#33** — Repoowl dart dashboard](https://github.com/YASHK-arch/RepoOwl-extension/pull/33) | `YASHK-arch/RepoOwl-extension` | ## Description | `2026-07-17` |
 | `✓ MERGED` | [**#3126** — fix: resolve AI CV generator internal server errors](https://github.com/Priyanshu-byte-coder/devtrack/pull/3126) | `Priyanshu-byte-coder/devtrack` | ## Summary | `2026-07-12` |
 | `✓ MERGED` | [**#23** — Client side overhaul](https://github.com/YASHK-arch/RepoOwl-extension/pull/23) | `YASHK-arch/RepoOwl-extension` | ..... | `2026-07-09` |
 | `✓ MERGED` | [**#16** — feat(ui): update extension icons and assets to the new OWL logo](https://github.com/YASHK-arch/RepoOwl-extension/pull/16) | `YASHK-arch/RepoOwl-extension` | ## Description | `2026-07-08` |
@@ -254,7 +256,7 @@
 
 <div align="center">
 
-<sub>🔄 Auto-updated: `2026-07-17 02:47 UTC` · showing last 20 issues</sub>
+<sub>🔄 Auto-updated: `2026-07-18 02:39 UTC` · showing last 20 issues</sub>
 
 </div>
 
