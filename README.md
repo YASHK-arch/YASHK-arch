@@ -211,17 +211,22 @@
 
 <!-- PR-LIST:START -->
 <details>
-<summary><b>Click to expand Merged PRs (16)</b></summary>
+<summary><b>Click to expand Merged PRs (20)</b></summary>
 <br/>
 
 <div align="center">
 
-<sub>🔄 Auto-updated: `2026-07-20 03:22 UTC` · showing last 16 merged PRs</sub>
+<sub>🔄 Auto-updated: `2026-07-21 02:50 UTC` · showing last 20 merged PRs</sub>
 
 </div>
 
 | Status | Pull Request | Repository | Description | Merged |
 |:---:|:---|:---|:---|:---:|
+| `✓ MERGED` | [**#43** — feat: Add custom PR review SVG badge and Auto-Installer](https://github.com/YASHK-arch/RepoOwl-extension/pull/43) | `YASHK-arch/RepoOwl-extension` | ## Description | `2026-07-20` |
+| `✓ MERGED` | [**#42** — feat: One-click GitHub Actions Auto-Installer & PR Triage Enhancements](https://github.com/YASHK-arch/RepoOwl-extension/pull/42) | `YASHK-arch/RepoOwl-extension` | ## Description | `2026-07-20` |
+| `✓ MERGED` | [**#41** — feat: automate PR triage via GitHub Actions and fix issue UI injection](https://github.com/YASHK-arch/RepoOwl-extension/pull/41) | `YASHK-arch/RepoOwl-extension` | ## Description | `2026-07-20` |
+| `✓ MERGED` | [**#40** — feat: introduce automated PR triage, /analyze action, and fix issue UI i](https://github.com/YASHK-arch/RepoOwl-extension/pull/40) | `YASHK-arch/RepoOwl-extension` | ## Description | `2026-07-20` |
+| `✓ MERGED` | [**#39** — chore: remove obsolete hourly sync github action and removed unused file](https://github.com/YASHK-arch/RepoOwl-extension/pull/39) | `YASHK-arch/RepoOwl-extension` | N/A | `2026-07-20` |
 | `✓ MERGED` | [**#34** — fix(deployment): Invalid request: `framework` should be null,string.](https://github.com/YASHK-arch/RepoOwl-extension/pull/34) | `YASHK-arch/RepoOwl-extension` | Vercel threw that error because it only accepts a string (like "nextjs") or null for that  | `2026-07-17` |
 | `✓ MERGED` | [**#33** — Repoowl dart dashboard](https://github.com/YASHK-arch/RepoOwl-extension/pull/33) | `YASHK-arch/RepoOwl-extension` | ## Description | `2026-07-17` |
 | `✓ MERGED` | [**#3126** — fix: resolve AI CV generator internal server errors](https://github.com/Priyanshu-byte-coder/devtrack/pull/3126) | `Priyanshu-byte-coder/devtrack` | ## Summary | `2026-07-12` |
@@ -237,7 +242,6 @@
 | `✓ MERGED` | [**#6102** — feat: Animated Terminal Status Message Carousel](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/6102) | `SAPTARSHI-coder/EaseMotion-css` | ## Pull Request Description | `2026-06-11` |
 | `✓ MERGED` | [**#1677** — Fix issue #1660 : Fixed hover UI issue in template cards and dropdown me](https://github.com/anurag3407/career-pilot/pull/1677) | `anurag3407/career-pilot` | ## Description | `2026-05-24` |
 | `✓ MERGED` | [**#481** — Flavourly](https://github.com/ianshulx/React-projects-for-beginners/pull/481) | `ianshulx/React-projects-for-beginners` | Added a new open-source project entry for Flavorly to the repository. | `2026-05-16` |
-| `✓ MERGED` | [**#117170** — Add Yash Kumar to Contributors list](https://github.com/firstcontributions/first-contributions/pull/117170) | `firstcontributions/first-contributions` | Hey there! I have just started my Open source journey | `2026-05-16` |
 </details>
 <!-- PR-LIST:END -->
 
@@ -256,7 +260,7 @@
 
 <div align="center">
 
-<sub>🔄 Auto-updated: `2026-07-20 03:22 UTC` · showing last 20 issues</sub>
+<sub>🔄 Auto-updated: `2026-07-21 02:50 UTC` · showing last 20 issues</sub>
 
 </div>
 
