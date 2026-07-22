@@ -216,7 +216,7 @@
 
 <div align="center">
 
-<sub>🔄 Auto-updated: `2026-07-21 02:50 UTC` · showing last 20 merged PRs</sub>
+<sub>🔄 Auto-updated: `2026-07-22 02:48 UTC` · showing last 20 merged PRs</sub>
 
 </div>
 
@@ -260,21 +260,22 @@
 
 <div align="center">
 
-<sub>🔄 Auto-updated: `2026-07-21 02:50 UTC` · showing last 20 issues</sub>
+<sub>🔄 Auto-updated: `2026-07-22 02:48 UTC` · showing last 20 issues</sub>
 
 </div>
 
 | State | Type | Issue | Repository | Description | Updated |
 |:---:|:---:|:---|:---|:---|:---:|
+| `🔴 CLOSED` | `✨ FEATURE` | [**#17** — [FEATURE]: Multi-Tenant Architecture, UX Overhaul & Contributor Onboardi](https://github.com/YASHK-arch/RepoOwl-extension/issues/17) | `YASHK-arch/RepoOwl-extension` | ### Feature Description | `2026-07-21` |
+| `🔴 CLOSED` | `🐛 BUG-FIX` | [**#7** — [BUG]: Content script failing to inject on paginated issue views](https://github.com/YASHK-arch/RepoOwl-extension/issues/7) | `YASHK-arch/RepoOwl-extension` | ### Bug Description | `2026-07-21` |
+| `🔴 CLOSED` | `📝 DOCS` | [**#26** — [DOCS]: Contributor onboarding is completely undocumented (Local DB & Bu](https://github.com/YASHK-arch/RepoOwl-extension/issues/26) | `YASHK-arch/RepoOwl-extension` | ### What documentation is missing? | `2026-07-21` |
 | `🟢 OPEN` | `✨ FEATURE` | [**#3** — Enhance Documentation with Installation, API Reference, and Usage Guides](https://github.com/Tom-Halland/Vivid_visualization_matrix/issues/3) | `Tom-Halland/Vivid_visualization_matrix` | ## Documentation Addition Requests | `2026-07-14` |
 | `🔴 CLOSED` | `🐛 BUG-FIX` | [**#3125** — [BUG] AI Resume & CV Generator fails with 500 Internal Server Error due ](https://github.com/Priyanshu-byte-coder/devtrack/issues/3125) | `Priyanshu-byte-coder/devtrack` | ### Bug Description | `2026-07-12` |
-| `🟢 OPEN` | `📝 DOCS` | [**#26** — [DOCS]: Contributor onboarding is completely undocumented (Local DB & Bu](https://github.com/YASHK-arch/RepoOwl-extension/issues/26) | `YASHK-arch/RepoOwl-extension` | ### What documentation is missing? | `2026-07-10` |
 | `🟢 OPEN` | `📝 DOCS` | [**#25** — [DOCS]: Add comprehensive Local Setup & Supabase Configuration Guide for](https://github.com/YASHK-arch/RepoOwl-extension/issues/25) | `YASHK-arch/RepoOwl-extension` | ### What documentation is missing? | `2026-07-10` |
 | `🔴 CLOSED` | `🐛 BUG-FIX` | [**#21** — [BUG]: Duplicate Analysis panel remains blank because AI response format](https://github.com/YASHK-arch/RepoOwl-extension/issues/21) | `YASHK-arch/RepoOwl-extension` | ### Bug Description | `2026-07-09` |
 | `🟢 OPEN` | `🐛 BUG-FIX` | [**#20** — [BUG]: Sidebar fails to render duplicate checks due to LLM prompt schema](https://github.com/YASHK-arch/RepoOwl-extension/issues/20) | `YASHK-arch/RepoOwl-extension` | ### Bug Description | `2026-07-09` |
 | `🟢 OPEN` | `✨ FEATURE` | [**#18** — [FEATURE]: RepoOwl v1.0 (Client-Side BYOK Architecture)](https://github.com/YASHK-arch/RepoOwl-extension/issues/18) | `YASHK-arch/RepoOwl-extension` | ### Feature Description | `2026-07-09` |
 | `🟢 OPEN` | `✨ FEATURE` | [**#19** — [FEATURE]: Transition RepoOwl to a Browser-Native Client Architecture](https://github.com/YASHK-arch/RepoOwl-extension/issues/19) | `YASHK-arch/RepoOwl-extension` | ### Feature Description | `2026-07-09` |
-| `🟢 OPEN` | `✨ FEATURE` | [**#17** — [FEATURE]: Multi-Tenant Architecture, UX Overhaul & Contributor Onboardi](https://github.com/YASHK-arch/RepoOwl-extension/issues/17) | `YASHK-arch/RepoOwl-extension` | ### Feature Description | `2026-07-08` |
 | `🔴 CLOSED` | `✨ FEATURE` | [**#12** — [FEATURE]: Design and integrate official RepoOwl branding logo](https://github.com/YASHK-arch/RepoOwl-extension/issues/12) | `YASHK-arch/RepoOwl-extension` | ### Feature Description | `2026-07-08` |
 | `🔴 CLOSED` | `🐛 BUG-FIX` | [**#14** — [BUG]: Extension popup state fails to hydrate from local storage (displa](https://github.com/YASHK-arch/RepoOwl-extension/issues/14) | `YASHK-arch/RepoOwl-extension` | ### Bug Description | `2026-07-08` |
 | `🔴 CLOSED` | `🐛 BUG-FIX` | [**#11** — [BUG]: Duplicate issue detection fails across different issue templates ](https://github.com/YASHK-arch/RepoOwl-extension/issues/11) | `YASHK-arch/RepoOwl-extension` | ### Bug Description | `2026-07-08` |
@@ -283,7 +284,6 @@
 | `🟢 OPEN` | `🐛 BUG-FIX` | [**#9** — [BUG]: Extension fails to display duplicate issue suggestions on newly c](https://github.com/YASHK-arch/RepoOwl-extension/issues/9) | `YASHK-arch/RepoOwl-extension` | ### Bug Description | `2026-07-07` |
 | `🔴 CLOSED` | `🐛 BUG-FIX` | [**#6** — [BUG]: [UI] Mobile view causes AI insights badge to crash into tags](https://github.com/YASHK-arch/RepoOwl-extension/issues/6) | `YASHK-arch/RepoOwl-extension` | ### Bug Description | `2026-07-07` |
 | `🔴 CLOSED` | `🐛 BUG-FIX` | [**#5** — [BUG] Badges overlapping with native GitHub labels on narrow screens](https://github.com/YASHK-arch/RepoOwl-extension/issues/5) | `YASHK-arch/RepoOwl-extension` | ### Bug Description | `2026-07-07` |
-| `🟢 OPEN` | `🐛 BUG-FIX` | [**#7** — [BUG]: Content script failing to inject on paginated issue views](https://github.com/YASHK-arch/RepoOwl-extension/issues/7) | `YASHK-arch/RepoOwl-extension` | ### Bug Description | `2026-07-07` |
 | `🔴 CLOSED` | `🐛 BUG-FIX` | [**#2326** — [BUG] Delayed Response When Switching Leaderboard Tabs](https://github.com/Priyanshu-byte-coder/devtrack/issues/2326) | `Priyanshu-byte-coder/devtrack` | ### Bug Description | `2026-07-03` |
 | `🔴 CLOSED` | `🏷 ANIMATION` | [**#4418** — [FEATURE] Radio-button based Slideshow-Hero section Component](https://github.com/SAPTARSHI-coder/EaseMotion-css/issues/4418) | `SAPTARSHI-coder/EaseMotion-css` | > ## Feature Name | `2026-06-21` |
 </details>
