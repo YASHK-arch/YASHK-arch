@@ -216,12 +216,13 @@
 
 <div align="center">
 
-<sub>🔄 Auto-updated: `2026-07-22 02:48 UTC` · showing last 20 merged PRs</sub>
+<sub>🔄 Auto-updated: `2026-07-23 02:54 UTC` · showing last 20 merged PRs</sub>
 
 </div>
 
 | Status | Pull Request | Repository | Description | Merged |
 |:---:|:---|:---|:---|:---:|
+| `✓ MERGED` | [**#1** — feat: Dynamic currency parsing, AI API updates, and Notepad UI redesign](https://github.com/YASHK-arch/OmniReceipt-Parser/pull/1) | `YASHK-arch/OmniReceipt-Parser` | ## Changes Included | `2026-07-22` |
 | `✓ MERGED` | [**#43** — feat: Add custom PR review SVG badge and Auto-Installer](https://github.com/YASHK-arch/RepoOwl-extension/pull/43) | `YASHK-arch/RepoOwl-extension` | ## Description | `2026-07-20` |
 | `✓ MERGED` | [**#42** — feat: One-click GitHub Actions Auto-Installer & PR Triage Enhancements](https://github.com/YASHK-arch/RepoOwl-extension/pull/42) | `YASHK-arch/RepoOwl-extension` | ## Description | `2026-07-20` |
 | `✓ MERGED` | [**#41** — feat: automate PR triage via GitHub Actions and fix issue UI injection](https://github.com/YASHK-arch/RepoOwl-extension/pull/41) | `YASHK-arch/RepoOwl-extension` | ## Description | `2026-07-20` |
@@ -241,7 +242,6 @@
 | `✓ MERGED` | [**#2332** — fix: render shortcuts and notification popups via React portals](https://github.com/Priyanshu-byte-coder/devtrack/pull/2332) | `Priyanshu-byte-coder/devtrack` | ## Summary | `2026-06-16` |
 | `✓ MERGED` | [**#6102** — feat: Animated Terminal Status Message Carousel](https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/6102) | `SAPTARSHI-coder/EaseMotion-css` | ## Pull Request Description | `2026-06-11` |
 | `✓ MERGED` | [**#1677** — Fix issue #1660 : Fixed hover UI issue in template cards and dropdown me](https://github.com/anurag3407/career-pilot/pull/1677) | `anurag3407/career-pilot` | ## Description | `2026-05-24` |
-| `✓ MERGED` | [**#481** — Flavourly](https://github.com/ianshulx/React-projects-for-beginners/pull/481) | `ianshulx/React-projects-for-beginners` | Added a new open-source project entry for Flavorly to the repository. | `2026-05-16` |
 </details>
 <!-- PR-LIST:END -->
 
@@ -260,7 +260,7 @@
 
 <div align="center">
 
-<sub>🔄 Auto-updated: `2026-07-22 02:48 UTC` · showing last 20 issues</sub>
+<sub>🔄 Auto-updated: `2026-07-23 02:54 UTC` · showing last 20 issues</sub>
 
 </div>
 
