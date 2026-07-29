@@ -61,12 +61,14 @@
     "npm Dependencies",
     "Off-by-One Errors"
   ],
+
   "achievements" : [
     "Debugged a bug by adding console.log()",
     "Won an argument against CSS",
     "Survived Production Deployment",
     "Touched Grass (rare achievement)"
   ],
+
   "powerUps" : [
     "Coffee ☕",
     "Stack Overflow",
@@ -76,6 +78,7 @@
 
   "status" : "████████░░ 80% caffeinated"
 }
+
 
 
 ```
