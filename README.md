@@ -32,15 +32,7 @@
 
 ---
 
-<div align="center">
-
-## `[ SYS ] >> LOADING PROFILE...`
-
-</div>
-
----
-
-## `$ cat whoami.json`
+## About Me
 
 <table align="right" style="border:none;">
   <tr>
@@ -84,7 +76,7 @@
 
 ---
 
-## `$ lspci --tech-stack`
+## Tech Stack
 
 <div align="center">
 
@@ -112,7 +104,7 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-<img src="assets/psycopg2-logo.png" alt="psycopg2" height="28" style="vertical-align:middle;" />
+<img src="psycopg2-logo.png" alt="psycopg2" height="28" style="vertical-align:middle;" />
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -122,13 +114,9 @@
 
 ---
 
-## `$ github-cli stats --user YASHK-arch --verbose`
+## GitHub Stats
 
 <div align="center">
-
-```
- FETCHING DATA FROM GITHUB API...  [████████████████████] 100%  OK
-```
 
 <table>
   <tr>
@@ -137,9 +125,9 @@
       <a href="https://github.com/YASHK-arch?tab=followers"><img src="https://img.shields.io/github/followers/YASHK-arch?label=FOLLOWERS&style=for-the-badge&color=00b4d8&logo=github&labelColor=0d1117" /></a>
       <br/><br/>
       <img
-        alt="GitHub stats"
-        width="420"
-        src="https://github-readme-stats.vercel.app/api?username=YASHK-arch&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&card_width=420&title_color=00ffcc&icon_color=00b4d8&text_color=c9d1d9&bg_color=0d1117"
+        alt="GitHub"
+        width="70"
+        src="https://cdn.simpleicons.org/github/00ffcc"
       />
     </td>
     <td>
@@ -156,13 +144,9 @@
 
 ---
 
-## `$ git log --graph --all --commits`
+## Commit Activity
 
 <div align="center">
-
-```
- PLOTTING COMMIT ACTIVITY...  [████████████████████] OK
-```
 
 <img
   alt="GitHub commit graph"
@@ -174,13 +158,9 @@
 
 ---
 
-## `$ run snake-animation --render`
+## Contribution Snake
 
 <div align="center">
-
-```
- RENDERING CONTRIBUTION GRID...  [████████████████████] DONE
-```
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YASHK-arch/YASHK-arch/output/github-snake-dark.svg" />
