@@ -32,13 +32,6 @@
 
 ---
 
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│  ◈  TERMINAL SESSION ESTABLISHED  //  NODE: YASHK-ARCH  //  v2.0.26   │
-│  ◈  UPLINK: SECURE  //  ENCRYPTION: AES-256  //  LATENCY: 0ms         │
-└─────────────────────────────────────────────────────────────────────────┘
-```
-
 <div align="center">
 
 ## `[ SYS ] >> LOADING PROFILE...`
@@ -53,8 +46,7 @@
   <tr>
     <td style="border:none;">
       <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHNjMmFyOGd4bGs0dm41ZG5sdjE3NWhjOXRuMjRxcjlicXUxaWZ3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMNsgeBFskg4sd7bWk/giphy.gif" width="250" style="display:block;margin-bottom:8px;" /><br/>
-      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHQ1Znpzd3oxdjlsazhpcXNxcWdvMGhlbTg1cWlncXZydmR5aWEydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RkxnUF9vtVZwMDwTen/giphy.gif" width="250" style="display:block;margin-bottom:8px;" /><br/>
-      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXpmdjE0cjFzZ2w3ajBqcTZrOXVpeTRvempjcDlidWdwamR6aWJ0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6CZNCogaCL7d8HLTp3/giphy.gif" width="250" style="display:block;margin-bottom:8px;" />
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHQ1Znpzd3oxdjlsazhpcXNxcWdvMGhlbTg1cWlncXZydmR5aWEydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RkxnUF9vtVZwMDwTen/giphy.gif" width="250" style="display:block;margin-bottom:8px;" />
     </td>
   </tr>
 </table>
@@ -63,44 +55,18 @@
 {
   "user"         : "Yash Kumar",
 
-  "location"     : "India 🇮🇳",
-
-  "roles"        : [
-    "Full-Stack Developer",
-    "AI/ML Experiment Survivor",
-    "Professional Bug Creator & Fixer"
-  ],
-
-    "currentlyGrinding" : [
-    "DSA",
-    "Open Source",
-    "Machine Learning",
-    "Building Projects That Escalated Quickly"
-  ],
-
-  "dailyRoutine" : [
-    "Wake Up",
-    "Write Code",
-    "Create Bugs",
-    "Fix Bugs",
-    "Create New Bugs",
-    "Sleep"
-  ],
-
-  "bossFights" : [
+   "bossFights" : [
     "Merge Conflicts",
     "Firebase Rules",
     "npm Dependencies",
     "Off-by-One Errors"
   ],
-
   "achievements" : [
     "Debugged a bug by adding console.log()",
     "Won an argument against CSS",
     "Survived Production Deployment",
     "Touched Grass (rare achievement)"
   ],
-
   "powerUps" : [
     "Coffee ☕",
     "Stack Overflow",
@@ -108,13 +74,8 @@
     "ChatGPT"
   ],
 
-  "funFact" : "I spend more time naming variables than writing the actual logic.",
-
   "status" : "████████░░ 80% caffeinated"
 }
-
-
-
 
 
 ```
@@ -124,18 +85,6 @@
 ---
 
 ## `$ lspci --tech-stack`
-
-```
-╔══════════════════════════════════════════════════════════════════════════╗
-║  HARDWARE REGISTRY  ◈  DETECTED MODULES                                ║
-╠══════════════════════════════════════════════════════════════════════════╣
-║  [CORE   ]  Java ████████████  Python █████████░░  JS ██████████░░     ║
-║  [FRONT  ]  React ██████░░░░  Tailwind ████████░░  Vite ███████░░      ║
-║  [DATA   ]  NumPy ████████░░  Pandas ████████░░  Matplotlib █████░     ║
-║  [DEVOPS ]  Git ██████████  Docker █████░░░░  Linux █████████░░        ║
-║  [CLOUD  ]  Firebase ██████░░  Vercel █████░░░  Google Cloud ████░     ║
-╚══════════════════════════════════════════════════════════════════════════╝
-```
 
 <div align="center">
 <br/>
@@ -209,68 +158,7 @@
 
 </div>
 
----
 
-## `$ fortune --dev`
-
-<div align="center">
-
-```
-┌──────────────────────────────────────────────────────────────┐
-│  ◈  FETCHING WISDOM FROM /dev/null ...                       │
-└──────────────────────────────────────────────────────────────┘
-```
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
-
----
-
-## `$ ssh-keyscan --connect-with-me`
-
-<div align="center">
-
-```
-◈ AVAILABLE UPLINKS  //  ALL CHANNELS OPEN  //  AWAITING CONNECTION...
-```
-
-<a href="https://linkedin.com/in/yash-kumar-836847279" target="_blank">
-  <img src="https://img.shields.io/badge/◈%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
-</a>
-<a href="https://x.com/Yash%20Kumar" target="_blank">
-  <img src="https://img.shields.io/badge/◈%20X_(Twitter)-black.svg?style=for-the-badge&logo=X&logoColor=00ffcc&labelColor=0d1117" />
-</a>
-<a href="https://www.youtube.com/@beyondyourthoughts" target="_blank">
-  <img src="https://img.shields.io/badge/◈%20YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white&labelColor=0d1117" />
-</a>
-<a href="mailto:yashkumar02006@gmail.com">
-  <img src="https://img.shields.io/badge/◈%20Email-00ffcc?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0d1117" />
-</a>
-<a href="https://github.com/YASHK-arch" target="_blank">
-  <img src="https://img.shields.io/badge/◈%20GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=00ffcc&labelColor=0d1117" />
-</a>
-
-<br/><br/>
-
-<!-- HOLOGRAPHIC FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020b18,50:041530,100:020b18&height=140&section=footer&animation=fadeIn&fontColor=00ffcc" width="100%"/>
-
-<br/>
-
-```
-╔═══════════════════════════════════════════════════════════════════════╗
-║   SESSION TERMINATED  //  NODE: YASHK-ARCH  //  EXIT CODE: 0        ║
-║   ⭐ Star my repos if you found them useful — it keeps me motivated! ║
-╚═══════════════════════════════════════════════════════════════════════╝
-```
-
-<sub>⟨ Compiled with ❤️ by <strong>Yash Kumar</strong> · Kernel version: June 2026 ⟩</sub>
-
-</div>
-
-
----
 
 <!--
 ╔══════════════════════════════════════════════════════════════╗
