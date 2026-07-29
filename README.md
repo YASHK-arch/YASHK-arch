@@ -78,9 +78,6 @@
 
   "status" : "████████░░ 80% caffeinated"
 }
-
-
-
 ```
 
 <br clear="right"/>
