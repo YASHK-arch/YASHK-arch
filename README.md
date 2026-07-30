@@ -123,8 +123,8 @@ Self-trained deepfake video detection system built using a Vision Transformer<br
 
 <table width="100%" style="border: none; border-collapse: collapse;">
 <tr>
-<td width="20%" align="center" valign="middle">
-<img src="https://cdn.simpleicons.org/github/white" alt="GitHub" width="100%" style="max-width: 150px;" />
+<td width="20%" align="left" valign="top">
+<img src="https://cdn.simpleicons.org/github/white" alt="GitHub" width="100%" style="max-width: 90px; margin-top: 20px; margin-left: 10px;" />
 </td>
 <td width="80%" align="center">
 
