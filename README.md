@@ -138,7 +138,7 @@ Self-trained deepfake video detection system built using a Vision Transformer<br
 </td>
 </tr>
 </table>
-
+<br>
 <img src="./year.svg" width="100%" alt="The last year, one character per day"/>
 
 <br>
@@ -146,4 +146,5 @@ Self-trained deepfake video detection system built using a Vision Transformer<br
 
 </div>
 
+<img src="./hd-achievements.svg" width="620" alt="achievements"/>
 
