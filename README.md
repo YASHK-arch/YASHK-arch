@@ -57,22 +57,14 @@ Self-trained deepfake video detection system built using a Vision Transformer<br
 <img src="./hd-stats.svg" width="620" alt="stats"/>
 
 <div align="center">
-<table style="border: none; border-collapse: collapse;">
-<tr>
-<td align="center" valign="middle" width="160">
-<img src="./github-logo.svg" alt="GitHub" width="140" />
-<br><br>
-<img src="https://komarev.com/ghpvc/?username=YASHK-arch&color=000000&style=for-the-badge&label=VIEWS" alt="Profile Views" />
-</td>
-<td align="center">
+<img align="right" src="./streak.svg" width="620" alt="Current and longest streak" />
+<img align="right" src="./langs.svg" width="620" alt="Top languages by bytes and by repo" />
 
-<img src="./streak.svg" width="620" alt="Current and longest streak"/>
-
-<img src="./langs.svg" width="620" alt="Top languages by bytes and by repo"/>
-
-</td>
-</tr>
-</table>
+<img align="left" src="./github-logo.svg" alt="GitHub" width="140" hspace="10" />
+<br clear="left" />
+<br clear="left" />
+<img align="left" src="https://komarev.com/ghpvc/?username=YASHK-arch&color=000000&style=for-the-badge&label=VIEWS" alt="Profile Views" hspace="33" />
+<br clear="all" />
 <br>
 <img src="./year.svg" width="100%" alt="The last year, one character per day"/>
 
