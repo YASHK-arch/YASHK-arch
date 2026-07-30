@@ -148,3 +148,25 @@ Self-trained deepfake video detection system built using a Vision Transformer<br
 
 <img src="./hd-achievements.svg" width="620" alt="achievements"/>
 
+<br>
+
+<table width="100%" style="border: none; border-collapse: collapse;">
+  <tr>
+    <td width="10%" align="center" valign="middle">
+      <img src="./gssoc-logo.svg" width="50" alt="GSSOC" />
+    </td>
+    <td width="90%">
+      **Contributor @ GSSOC '26**<br>
+      GirlScript Summer of Code
+    </td>
+  </tr>
+  <tr>
+    <td width="10%" align="center" valign="middle">
+      <img src="./swoc-logo.svg" width="50" alt="SWOC" />
+    </td>
+    <td width="90%">
+      **Project Developer and Maintainer @ RepoOwl @ SWOC 2026**<br>
+      Social Winter of Code
+    </td>
+  </tr>
+</table>
