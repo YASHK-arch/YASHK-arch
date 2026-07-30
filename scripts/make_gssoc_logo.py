@@ -24,8 +24,13 @@ try:
             new_data.append((255, 255, 255, item[3]))
     img.putdata(new_data)
 
-    # Save the processed image directly as a PNG
-    img.save("gssoc.png", format="PNG")
-    print("Successfully updated gssoc.png")
+    # Add transparent padding to prevent clipping
+    padding = 20
+    padded_img = Image.new('RGBA', (img.width + 2 * padding, img.height + 2 * padding), (255, 255, 255, 0))
+    padded_img.paste(img, (padding, padding))
+
+    # Save the processed and padded image directly as a PNG
+    padded_img.save("gssoc.png", format="PNG")
+    print("Successfully updated gssoc.png with padding")
 except Exception as e:
     print(f"Error: {e}")
