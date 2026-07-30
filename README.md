@@ -1,82 +1,25 @@
-<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║              YASH KUMAR — HOLOGRAPHIC TERMINAL PROFILE              ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0f3460,100:050816&height=260&section=header&text=YΔSH%20KUMΔR&fontSize=60&fontColor=00ffff&animation=twinkling&fontAlignY=38&desc=%5B%20FULL-STACK%20%7C%20AI%2FML%20%7C%20DATA%20SCIENCE%20%5D&descAlignY=65&descSize=18&descColor=7df9ff" width="100%"/>
+<img src="./ascii.svg" width="460" alt="Yash Kumar"/>
 
-<!-- ░░░░░░░░░░░░░ TYPING ANIMATION ░░░░░░░░░░░░░ -->
-<br/>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=00FFCC&center=true&vCenter=true&multiline=false&width=680&height=45&lines=%24+whoami+--verbose;%3E+Yash+Kumar+%7C+Full-Stack+Developer+%F0%9F%9A%80;%3E+Languages%3A+Java+%7C+Python+%7C+JavaScript;%3E+Status%3A+Building+Real+Projects+%E2%96%A0%E2%96%A0%E2%96%A0+[ACTIVE];%3E+DSA+%3E+scrolling+social+media+%F0%9F%98%84" alt="Typing SVG"/>
+<img src="./stats.svg" width="620" alt="Contributions in the last year"/>
 
-<br/><br/>
-
-<!-- ░░░░░░░░░░░░░ SOCIAL BADGES ░░░░░░░░░░░░░ -->
-<a href="https://linkedin.com/in/yash-kumar-836847279">
-  <img src="https://img.shields.io/badge/▸%20LinkedIn-CONNECT-00b4d8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
-</a>
-<a href="mailto:yashkumar02006@gmail.com">
-  <img src="https://img.shields.io/badge/▸%20Gmail-PING%20ME-00ffcc?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
-</a>
-<a href="https://www.youtube.com/@beyondyourthoughts">
-  <img src="https://img.shields.io/badge/▸%20YouTube-SUBSCRIBE-7B2FBE?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0d1117" />
-</a>
-<a href="https://x.com/Yash%20Kumar">
-  <img src="https://img.shields.io/badge/▸%20X_(Twitter)-FOLLOW-00e5ff?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117" />
-</a>
-
-<br/>
+[youtube](https://www.youtube.com/@beyondyourthoughts) &nbsp;·&nbsp;
+[x (twitter)](https://x.com/Yash%20Kumar) &nbsp;·&nbsp;
+[linkedin](https://linkedin.com/in/yash-kumar-836847279) &nbsp;·&nbsp;
+[email](mailto:yashkumar02006@gmail.com)
 
 </div>
 
----
+<img src="./hd-about.svg" width="620" alt="about"/>
 
-## About Me
+> Full-Stack Developer | AI/ML | Data Science<br>
+> Building Real Projects
 
-<table align="right" style="border:none;">
-  <tr>
-    <td style="border:none;">
-      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHNjMmFyOGd4bGs0dm41ZG5sdjE3NWhjOXRuMjRxcjlicXUxaWZ3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMNsgeBFskg4sd7bWk/giphy.gif" width="250" style="display:block;margin-bottom:8px;" /><br/>
-      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHQ1Znpzd3oxdjlsazhpcXNxcWdvMGhlbTg1cWlncXZydmR5aWEydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RkxnUF9vtVZwMDwTen/giphy.gif" width="250" style="display:block;margin-bottom:8px;" />
-    </td>
-  </tr>
-</table>
+I build fast, test on real users, and kill what doesn't work. Currently learning and building real projects.<br>
+DSA > scrolling social media 😄
 
-```json
-{
-  "user"         : "Yash Kumar",
-
-   "bossFights" : [
-    "Merge Conflicts",
-    "Firebase Rules",
-    "npm Dependencies",
-    "Off-by-One Errors"
-  ],
-
-  "achievements" : [
-    "Debugged a bug by adding console.log()",
-    "Won an argument against CSS",
-    "Survived Production Deployment",
-    "Touched Grass (rare achievement)"
-  ],
-
-  "powerUps" : [
-    "Coffee ☕",
-    "Stack Overflow",
-    "GitHub Issues",
-    "ChatGPT"
-  ],
-
-  "status" : "████████░░ 80% caffeinated"
-}
-```
-
-<br clear="right"/>
-
----
-
-## Tech Stack
+<img src="./hd-stack.svg" width="620" alt="stack"/>
 
 <div align="center">
 
@@ -110,101 +53,49 @@
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=ffca28)
+
 </div>
 
----
+<img src="./hd-projects.svg" width="620" alt="projects"/>
 
-## GitHub Stats
+**[Boss Fights](#)** &nbsp;·&nbsp; <samp>merge conflicts, firebase rules, npm dependencies, off-by-one errors</samp><br>
+Surviving the toughest battles in software development.
+
+**[Achievements](#)** &nbsp;·&nbsp; <samp>debugged with console.log, survived production</samp><br>
+Won an argument against CSS, Touched Grass (rare achievement).
+
+**[Power Ups](#)** &nbsp;·&nbsp; <samp>coffee ☕, stack overflow, github issues, chatgpt</samp><br>
+80% caffeinated status.
+
+<img src="./hd-stats.svg" width="620" alt="stats"/>
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/YASHK-arch?tab=repositories"><img src="https://img.shields.io/badge/PUBLIC_REPOS-32-00ffcc?style=for-the-badge&logo=github&labelColor=0d1117" /></a>
-      <a href="https://github.com/YASHK-arch?tab=followers"><img src="https://img.shields.io/github/followers/YASHK-arch?label=FOLLOWERS&style=for-the-badge&color=00b4d8&logo=github&labelColor=0d1117" /></a>
-      <br/><br/>
-      <img
-        alt="GitHub"
-        width="70"
-        src="https://cdn.simpleicons.org/github/00ffcc"
-      />
-    </td>
-    <td>
-      <img
-        alt="GitHub streak"
-        width="420"
-        src="https://streak-stats.demolab.com?user=YASHK-arch&theme=tokyonight&hide_border=true&stroke=00ffcc&ring=00ffcc&fire=00e5ff&currStreakLabel=00e5ff&sideLabels=00b4d8&dates=c9d1d9&background=0d1117&card_width=420"
-      />
-    </td>
-  </tr>
-</table>
+<img src="./streak.svg" width="620" alt="Current and longest streak"/>
+
+<img src="./langs.svg" width="620" alt="Top languages by bytes and by repo"/>
+
+<img src="./year.svg" width="620" alt="The last year, one character per day"/>
 
 </div>
 
----
+<img src="./hd-about-this-page.svg" width="620" alt="about this page"/>
 
-## Commit Activity
+Every graphic here is generated, not embedded from anyone else's server.<br>
+`ascii.svg` is a photo pushed through a character ramp by<br>
+[`scripts/make_portrait.py`](scripts/make_portrait.py); the stat graphics and<br>
+these section headings are drawn by [a scheduled action](.github/workflows/stats.yml)<br>
+straight from the GitHub GraphQL API, once a day, committing only what changed.
 
-<div align="center">
+They animate with SMIL inside the SVG, because GitHub strips scripts from<br>
+READMEs — and since nothing loads from a third party, nothing here can<br>
+rate-limit or go dark. The headings are SVGs for the same reason: GitHub also<br>
+strips CSS, so an image is the only way to put this page's own typeface on them.
 
-<img
-  alt="GitHub commit graph"
-  width="850"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=YASHK-arch&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=00ffcc&line=00b4d8&point=00e5ff"
-/>
+The typeface is [JetBrains Mono](scripts/fonts), subset to just the characters<br>
+each graphic draws and inlined as base64. That isn't only for looks: the<br>
+portrait's grid assumes an advance width of exactly 0.600 em, and a viewer whose<br>
+default monospace is narrower would otherwise see it squeezed.
 
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YASHK-arch/YASHK-arch/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YASHK-arch/YASHK-arch/output/github-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YASHK-arch/YASHK-arch/output/github-snake.svg" />
-</picture>
-
-</div>
-
-
-
-<!--
-╔══════════════════════════════════════════════════════════════╗
-║              🐍 SNAKE ANIMATION SETUP (1-TIME)              ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  Create: .github/workflows/snake.yml in YASHK-arch repo     ║
-║                                                              ║
-║  name: Generate Snake Animation                              ║
-║  on:                                                         ║
-║    schedule:                                                 ║
-║      - cron: "0 */12 * * *"                                  ║
-║    workflow_dispatch:                                        ║
-║    push:                                                     ║
-║      branches: [main]                                        ║
-║  jobs:                                                       ║
-║    generate:                                                 ║
-║      permissions:                                            ║
-║        contents: write                                       ║
-║      runs-on: ubuntu-latest                                  ║
-║      steps:                                                  ║
-║        - name: generate snake.svg                            ║
-║          uses: Platane/snk/svg-only@v3                       ║
-║          with:                                               ║
-║            github_user_name: YASHK-arch                     ║
-║            outputs: |                                        ║
-║              dist/github-snake.svg                           ║
-║              dist/github-snake-dark.svg?palette=github-dark  ║
-║        - name: push to output branch                         ║
-║          uses: crazy-max/ghaction-github-pages@v3.1.0        ║
-║          with:                                               ║
-║            target_branch: output                             ║
-║            build_dir: dist                                   ║
-║          env:                                                ║
-║            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}         ║
-╚══════════════════════════════════════════════════════════════╝
--->
+Language totals cover public repositories only. `year.svg` uses the portrait's<br>
+character ramp: `:` `+` `#` `@`, quiet to loud.
