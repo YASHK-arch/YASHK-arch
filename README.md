@@ -58,15 +58,13 @@ Self-trained deepfake video detection system built using a Vision Transformer<br
 
 <div align="center">
 <div>
-<img align="right" src="./streak.svg" width="620" alt="Current and longest streak"/>
-<img align="right" src="./langs.svg" width="620" alt="Top languages by bytes and by repo"/>
+<img align="left" src="./github-logo.svg" alt="GitHub" width="140" hspace="15" />
+<img align="left" src="https://komarev.com/ghpvc/?username=YASHK-arch&color=000000&style=for-the-badge&label=VIEWS" alt="Profile Views" style="clear: left; margin-top: 15px;" hspace="15" />
 
-<div align="center" style="width: 140px; margin-top: 30px;">
-<img src="./github-logo.svg" alt="GitHub" width="140" />
-<br><br>
-<img src="https://komarev.com/ghpvc/?username=YASHK-arch&color=000000&style=for-the-badge&label=VIEWS" alt="Profile Views" />
-</div>
-<br clear="right" />
+<img src="./streak.svg" width="620" alt="Current and longest streak" />
+<br>
+<img src="./langs.svg" width="620" alt="Top languages by bytes and by repo" />
+<br clear="all" />
 </div>
 <br>
 <img src="./year.svg" width="100%" alt="The last year, one character per day"/>
