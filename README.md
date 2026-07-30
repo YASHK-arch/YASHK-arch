@@ -160,6 +160,7 @@ Self-trained deepfake video detection system built using a Vision Transformer<br
       GirlScript Summer of Code
     </td>
   </tr>
+  <!--
   <tr>
     <td width="10%" align="center" valign="middle">
       <img src="./swoc-logo.svg" width="50" alt="SWOC" />
@@ -169,4 +170,5 @@ Self-trained deepfake video detection system built using a Vision Transformer<br
       Social Winter of Code
     </td>
   </tr>
+  -->
 </table>
