@@ -166,8 +166,9 @@ def generate_svg():
         svg_elements.append(f'<g class="box-group" transform="translate({box_x}, {box_y})">')
         svg_elements.append(f'<rect class="box" x="0" y="0" width="{box_w}" height="{box_h}" />')
         
-        # Center title
-        svg_elements.append(f'<text class="title" x="{box_w/2}" y="{PADDING + 12}" text-anchor="middle">{cat}</text>')
+        # Center title (escape ampersand for valid XML)
+        safe_cat = cat.replace("&", "&amp;")
+        svg_elements.append(f'<text class="title" x="{box_w/2}" y="{PADDING + 12}" text-anchor="middle">{safe_cat}</text>')
         
         # Place badges
         lines = {}
