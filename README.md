@@ -145,7 +145,7 @@ Self-trained deepfake video detection system built using a Vision Transformer<br
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YASHK-arch&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area_color=64748b&area=true&hide_border=true&custom_title=Yash%20Kumar's%20Contribution%20Graph" width="100%" alt="Commit Activity Graph" />
 
 </div>
-
+<br>
 <img src="./hd-achievements.svg" width="620" alt="achievements"/>
 
 <br>
@@ -160,8 +160,7 @@ Self-trained deepfake video detection system built using a Vision Transformer<br
       GirlScript Summer of Code
     </td>
   </tr>
-  <!--
-  <tr>
+  <!-- <tr>
     <td width="10%" align="center" valign="middle">
       <img src="./swoc-logo.svg" width="50" alt="SWOC" />
     </td>
@@ -169,6 +168,5 @@ Self-trained deepfake video detection system built using a Vision Transformer<br
       <b>Project Developer and Maintainer @ RepoOwl @ SWOC 2026</b><br>
       Social Winter of Code
     </td>
-  </tr>
-  -->
+  </tr> -->
 </table>
