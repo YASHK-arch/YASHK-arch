@@ -28,8 +28,8 @@ try:
     img.save(buffered, format="PNG")
     img_str = base64.b64encode(buffered.getvalue()).decode("utf-8")
 
-    svg_content = f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {img.width} {img.height}" width="50" height="50">
-  <image href="data:image/png;base64,{img_str}" width="{img.width}" height="{img.height}" />
+    svg_content = f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {img.width + 40} {img.height + 40}" width="50" height="50">
+  <image href="data:image/png;base64,{img_str}" x="20" y="20" width="{img.width}" height="{img.height}" />
 </svg>"""
 
     with open("gssoc-logo.svg", "w") as f:
