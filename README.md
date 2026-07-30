@@ -1,210 +1,122 @@
-<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║              YASH KUMAR — HOLOGRAPHIC TERMINAL PROFILE              ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0f3460,100:050816&height=260&section=header&text=YΔSH%20KUMΔR&fontSize=60&fontColor=00ffff&animation=twinkling&fontAlignY=38&desc=%5B%20FULL-STACK%20%7C%20AI%2FML%20%7C%20DATA%20SCIENCE%20%5D&descAlignY=65&descSize=18&descColor=7df9ff" width="100%"/>
+<img src="./ascii.svg" width="460" alt="Yash Kumar"/>
 
-<!-- ░░░░░░░░░░░░░ TYPING ANIMATION ░░░░░░░░░░░░░ -->
-<br/>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=00FFCC&center=true&vCenter=true&multiline=false&width=680&height=45&lines=%24+whoami+--verbose;%3E+Yash+Kumar+%7C+Full-Stack+Developer+%F0%9F%9A%80;%3E+Languages%3A+Java+%7C+Python+%7C+JavaScript;%3E+Status%3A+Building+Real+Projects+%E2%96%A0%E2%96%A0%E2%96%A0+[ACTIVE];%3E+DSA+%3E+scrolling+social+media+%F0%9F%98%84" alt="Typing SVG"/>
+<img src="./stats.svg" width="620" alt="Contributions in the last year"/>
 
-<br/><br/>
-
-<!-- ░░░░░░░░░░░░░ SOCIAL BADGES ░░░░░░░░░░░░░ -->
-<a href="https://linkedin.com/in/yash-kumar-836847279">
-  <img src="https://img.shields.io/badge/▸%20LinkedIn-CONNECT-00b4d8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
-</a>
-<a href="mailto:yashkumar02006@gmail.com">
-  <img src="https://img.shields.io/badge/▸%20Gmail-PING%20ME-00ffcc?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
-</a>
-<a href="https://www.youtube.com/@beyondyourthoughts">
-  <img src="https://img.shields.io/badge/▸%20YouTube-SUBSCRIBE-7B2FBE?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0d1117" />
-</a>
-<a href="https://x.com/Yash%20Kumar">
-  <img src="https://img.shields.io/badge/▸%20X_(Twitter)-FOLLOW-00e5ff?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117" />
-</a>
-
-<br/>
+<a href="https://www.youtube.com/@beyondyourthoughts"><img src="https://img.shields.io/badge/YouTube-%231a1a1a.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+<a href="https://x.com/Yash%20Kumar"><img src="https://img.shields.io/badge/X-%231a1a1a.svg?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+<a href="https://linkedin.com/in/yash-kumar-836847279"><img src="https://img.shields.io/badge/LinkedIn-%231a1a1a.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:yashkumar02006@gmail.com"><img src="https://img.shields.io/badge/Email-%231a1a1a.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
----
+<img src="./hd-about.svg" width="620" alt="about"/>
 
-## About Me
+> Full-Stack Developer | AI/ML | Data Science<br>
+> cooking up real projects fr 🍳
 
-<table align="right" style="border:none;">
+shipping fast, testing on real users, and ghosting what doesn't work. currently locked in and building cool stuff.<br>
+grinding DSA > doomscrolling TikTok 💀
+
+<br>
+
+
+<img src="./hd-stack.svg" width="620" alt="stack"/>
+
+<div align="center">
+
+<table align="center" width="100%" cellspacing="5" cellpadding="10" style="border-collapse: separate; border-spacing: 6px; border: none;">
   <tr>
-    <td style="border:none;">
-      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHNjMmFyOGd4bGs0dm41ZG5sdjE3NWhjOXRuMjRxcjlicXUxaWZ3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMNsgeBFskg4sd7bWk/giphy.gif" width="250" style="display:block;margin-bottom:8px;" /><br/>
-      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHQ1Znpzd3oxdjlsazhpcXNxcWdvMGhlbTg1cWlncXZydmR5aWEydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RkxnUF9vtVZwMDwTen/giphy.gif" width="250" style="display:block;margin-bottom:8px;" />
+    <td colspan="2" align="center" valign="top" width="66%" style="border: 1px solid #30363d; border-radius: 8px;">
+      <img src="https://img.shields.io/badge/Frontend-%23ffffff?style=for-the-badge&logo=html5&logoColor=black" alt="Frontend" /><br><br>
+      <img src="https://img.shields.io/badge/html5-%231a1a1a.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/css3-%231a1a1a.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+      <img src="https://img.shields.io/badge/react-%231a1a1a.svg?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+      <img src="https://img.shields.io/badge/tailwindcss-%231a1a1a.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+      <img src="https://img.shields.io/badge/bootstrap-%231a1a1a.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+      <img src="https://img.shields.io/badge/vite-%231a1a1a.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+      <img src="https://img.shields.io/badge/jinja-%231a1a1a.svg?style=for-the-badge&logo=jinja&logoColor=white" alt="Jinja" />
+    </td>
+    <td align="center" valign="top" width="33%" rowspan="2" style="border: 1px solid #30363d; border-radius: 8px;">
+      <img src="https://img.shields.io/badge/Databases_%26_Cloud-%23ffffff?style=for-the-badge&logo=postgresql&logoColor=black" alt="Databases & Cloud" /><br><br>
+      <img src="https://img.shields.io/badge/MongoDB-%231a1a1a.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/postgresql-%231a1a1a.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/mysql-%231a1a1a.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/sqlite-%231a1a1a.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+      <img src="https://img.shields.io/badge/Supabase-%231a1a1a.svg?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+      <img src="https://img.shields.io/badge/Firebase-%231a1a1a.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
     </td>
   </tr>
-</table>
-
-```json
-{
-  "user"         : "Yash Kumar",
-
-   "bossFights" : [
-    "Merge Conflicts",
-    "Firebase Rules",
-    "npm Dependencies",
-    "Off-by-One Errors"
-  ],
-
-  "achievements" : [
-    "Debugged a bug by adding console.log()",
-    "Won an argument against CSS",
-    "Survived Production Deployment",
-    "Touched Grass (rare achievement)"
-  ],
-
-  "powerUps" : [
-    "Coffee ☕",
-    "Stack Overflow",
-    "GitHub Issues",
-    "ChatGPT"
-  ],
-
-  "status" : "████████░░ 80% caffeinated"
-}
-```
-
-<br clear="right"/>
-
----
-
-## Tech Stack
-
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-![Scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-<img src="psycopg2-logo.png" alt="psycopg2" height="28" style="vertical-align:middle;" />
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=ffca28)
-</div>
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<table>
   <tr>
-    <td align="center">
-      <a href="https://github.com/YASHK-arch?tab=repositories"><img src="https://img.shields.io/badge/PUBLIC_REPOS-32-00ffcc?style=for-the-badge&logo=github&labelColor=0d1117" /></a>
-      <a href="https://github.com/YASHK-arch?tab=followers"><img src="https://img.shields.io/github/followers/YASHK-arch?label=FOLLOWERS&style=for-the-badge&color=00b4d8&logo=github&labelColor=0d1117" /></a>
-      <br/><br/>
-      <img
-        alt="GitHub"
-        width="70"
-        src="https://cdn.simpleicons.org/github/00ffcc"
-      />
+    <td align="center" valign="top" width="33%" style="border: 1px solid #30363d; border-radius: 8px;">
+      <img src="https://img.shields.io/badge/Languages-%23ffffff?style=for-the-badge&logo=python&logoColor=black" alt="Languages" /><br><br>
+      <img src="https://img.shields.io/badge/python-%231a1a1a.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/javascript-%231a1a1a.svg?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/typescript-%231a1a1a.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/java-%231a1a1a.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
     </td>
-    <td>
-      <img
-        alt="GitHub streak"
-        width="420"
-        src="https://streak-stats.demolab.com?user=YASHK-arch&theme=tokyonight&hide_border=true&stroke=00ffcc&ring=00ffcc&fire=00e5ff&currStreakLabel=00e5ff&sideLabels=00b4d8&dates=c9d1d9&background=0d1117&card_width=420"
-      />
+    <td align="center" valign="top" width="33%" style="border: 1px solid #30363d; border-radius: 8px;">
+      <img src="https://img.shields.io/badge/Backend-%23ffffff?style=for-the-badge&logo=nodedotjs&logoColor=black" alt="Backend" /><br><br>
+      <img src="https://img.shields.io/badge/node.js-%231a1a1a.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/flask-%231a1a1a.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+      <img src="https://img.shields.io/badge/SQLAlchemy-%231a1a1a.svg?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
+      <img src="https://img.shields.io/badge/psycopg2-%231a1a1a.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Psycopg2" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" valign="top" width="66%" style="border: 1px solid #30363d; border-radius: 8px;">
+      <img src="https://img.shields.io/badge/Data_Science_%26_ML-%23ffffff?style=for-the-badge&logo=scikitlearn&logoColor=black" alt="Data Science & ML" /><br><br>
+      <img src="https://img.shields.io/badge/numpy-%231a1a1a.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+      <img src="https://img.shields.io/badge/pandas-%231a1a1a.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+      <img src="https://img.shields.io/badge/Matplotlib-%231a1a1a.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" />
+      <img src="https://img.shields.io/badge/Seaborn-%231a1a1a.svg?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
+      <img src="https://img.shields.io/badge/SciPy-%231a1a1a.svg?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy" />
+      <img src="https://img.shields.io/badge/scikit--learn-%231a1a1a.svg?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+    </td>
+    <td align="center" valign="top" width="33%" style="border: 1px solid #30363d; border-radius: 8px;">
+      <img src="https://img.shields.io/badge/DevOps_%26_Tools-%23ffffff?style=for-the-badge&logo=docker&logoColor=black" alt="DevOps & Tools" /><br><br>
+      <img src="https://img.shields.io/badge/docker-%231a1a1a.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/git-%231a1a1a.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/linux-%231a1a1a.svg?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
     </td>
   </tr>
 </table>
 
 </div>
 
----
+<br>
 
-## Commit Activity
+<sup><sup>Top</sup></sup> <img src="./hd-projects.svg" width="620" alt="projects" style="vertical-align: middle;" align="center"/>
+
+**[RepoOwl-extension](https://github.com/YASHK-arch/RepoOwl-extension)** &nbsp;Â·&nbsp; <samp>javascript, typescript, plpgsql</samp><br>
+AI-powered GitHub issue triage & duplicate detection. Automate your workflow,<br>
+surface technical insights, and keep your repository organized with LLMs.
+
+**[OmniReceipt-parser](https://github.com/YASHK-arch/OmniReceipt-parser)** &nbsp;Â·&nbsp; <samp>typescript, next.js</samp><br>
+Turn physical receipts into structured data instantly. Built with Next.js and<br>
+Google Gemini, featuring built-in edge-case handling and analysis logs.
+
+**[VISION_RUSH-Deepfake-Detection-Engine](https://github.com/YASHK-arch/VISION_RUSH-Deepfake-Detection-Engine)** &nbsp;Â·&nbsp; <samp>python, pytorch</samp><br>
+Self-trained deepfake video detection system built using a Vision Transformer<br>
+(ViT-B/14 with DINOv2 backbone).
+
+<br>
+
+
+<img src="./hd-stats.svg" width="620" alt="stats"/>
 
 <div align="center">
 
-<img
-  alt="GitHub commit graph"
-  width="850"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=YASHK-arch&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=00ffcc&line=00b4d8&point=00e5ff"
-/>
+<img src="./streak.svg" width="620" alt="Current and longest streak"/>
 
-</div>
+<img src="./langs.svg" width="620" alt="Top languages by bytes and by repo"/>
 
----
+<img src="./year.svg" width="620" alt="The last year, one character per day"/>
 
-## Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YASHK-arch/YASHK-arch/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YASHK-arch/YASHK-arch/output/github-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YASHK-arch/YASHK-arch/output/github-snake.svg" />
-</picture>
+<br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YASHK-arch&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area_color=64748b&area=true&hide_border=true&custom_title=Yash%20Kumar's%20Contribution%20Graph" width="100%" alt="Commit Activity Graph" />
 
 </div>
 
 
-
-<!--
-╔══════════════════════════════════════════════════════════════╗
-║              🐍 SNAKE ANIMATION SETUP (1-TIME)              ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  Create: .github/workflows/snake.yml in YASHK-arch repo     ║
-║                                                              ║
-║  name: Generate Snake Animation                              ║
-║  on:                                                         ║
-║    schedule:                                                 ║
-║      - cron: "0 */12 * * *"                                  ║
-║    workflow_dispatch:                                        ║
-║    push:                                                     ║
-║      branches: [main]                                        ║
-║  jobs:                                                       ║
-║    generate:                                                 ║
-║      permissions:                                            ║
-║        contents: write                                       ║
-║      runs-on: ubuntu-latest                                  ║
-║      steps:                                                  ║
-║        - name: generate snake.svg                            ║
-║          uses: Platane/snk/svg-only@v3                       ║
-║          with:                                               ║
-║            github_user_name: YASHK-arch                     ║
-║            outputs: |                                        ║
-║              dist/github-snake.svg                           ║
-║              dist/github-snake-dark.svg?palette=github-dark  ║
-║        - name: push to output branch                         ║
-║          uses: crazy-max/ghaction-github-pages@v3.1.0        ║
-║          with:                                               ║
-║            target_branch: output                             ║
-║            build_dir: dist                                   ║
-║          env:                                                ║
-║            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}         ║
-╚══════════════════════════════════════════════════════════════╝
--->
