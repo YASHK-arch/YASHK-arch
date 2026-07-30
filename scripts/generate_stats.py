@@ -319,7 +319,7 @@ def draw_langs(s):
     rows = max(len(s["by_size"]), len(s["by_repo"]), 1)
     H = 26 + rows * 22 + 6
     colw = (WIDTH - LEFT - 30) / 2
-    name_w, bar_max = 82, colw - 82 - 44
+    name_w, bar_max = 120, colw - 120 - 44
 
     p = [head(WIDTH, H)]
     groups = [(LEFT, "by bytes", s["by_size"], True),
@@ -340,7 +340,7 @@ def draw_langs(s):
             y = 26 + ri * 22
             shown = (f"{val / total * 100:.0f}%" if as_pct else f"{val}")
             p.append(f'<g opacity="0">{fade(0.24 + gi * 0.10 + ri * 0.05)}'
-                     + label(gx, y + 8, name.lower()[:11], 11, "e-f")
+                     + label(gx, y + 8, name.lower()[:16], 11, "e-f")
                      + label(gx + colw - 6, y + 8, shown, 11, "m-f", "end")
                      + '</g>')
             p.append(f'<g clip-path="url(#{cid})">'
