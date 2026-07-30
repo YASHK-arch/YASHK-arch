@@ -137,10 +137,10 @@ Self-trained deepfake video detection system built using a Vision Transformer<br
 </tr>
 </table>
 
-<img src="./year.svg" width="620" alt="The last year, one character per day"/>
+<img src="./year.svg" width="100%" alt="The last year, one character per day"/>
 
 <br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YASHK-arch&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area_color=64748b&area=true&hide_border=true&custom_title=Yash%20Kumar's%20Contribution%20Graph" width="620" alt="Commit Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YASHK-arch&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area_color=64748b&area=true&hide_border=true&custom_title=Yash%20Kumar's%20Contribution%20Graph" width="100%" alt="Commit Activity Graph" />
 
 </div>
 
