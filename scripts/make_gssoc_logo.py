@@ -24,16 +24,8 @@ try:
             new_data.append((255, 255, 255, item[3]))
     img.putdata(new_data)
 
-    buffered = io.BytesIO()
-    img.save(buffered, format="PNG")
-    img_str = base64.b64encode(buffered.getvalue()).decode("utf-8")
-
-    svg_content = f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {img.width + 40} {img.height + 40}" width="50" height="50">
-  <image href="data:image/png;base64,{img_str}" x="20" y="20" width="{img.width}" height="{img.height}" />
-</svg>"""
-
-    with open("gssoc-logo.svg", "w") as f:
-        f.write(svg_content)
-    print("Successfully updated gssoc-logo.svg")
+    # Save the processed image directly as a PNG
+    img.save("gssoc.png", format="PNG")
+    print("Successfully updated gssoc.png")
 except Exception as e:
     print(f"Error: {e}")
