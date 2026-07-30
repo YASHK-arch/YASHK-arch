@@ -9,12 +9,19 @@ try:
     res = urllib.request.urlopen(req)
     img = Image.open(io.BytesIO(res.read())).convert('RGBA')
 
-    # Convert to monochrome white
+    # Convert to a stencil: white pixels become transparent, colored pixels become white
     data = img.getdata()
     new_data = []
     for item in data:
-        # Keep original alpha, but set RGB to 255 (white)
-        new_data.append((255, 255, 255, item[3]))
+        # If already transparent, keep it transparent
+        if item[3] < 10:
+            new_data.append((255, 255, 255, 0))
+        # If the pixel is white (the lines between the logo segments), make it transparent
+        elif item[0] > 240 and item[1] > 240 and item[2] > 240:
+            new_data.append((255, 255, 255, 0))
+        # Otherwise it's a colored segment, make it solid white
+        else:
+            new_data.append((255, 255, 255, item[3]))
     img.putdata(new_data)
 
     buffered = io.BytesIO()
