@@ -124,8 +124,8 @@ Self-trained deepfake video detection system built using a Vision Transformer<br
 <div align="center">
 <table style="border: none; border-collapse: collapse;">
 <tr>
-<td align="left" valign="top" width="100">
-<img src="https://cdn.simpleicons.org/github/white" alt="GitHub" width="90" style="margin-top: 20px;" />
+<td align="center" valign="middle" width="100">
+<img src="https://cdn.simpleicons.org/github/white" alt="GitHub" width="70" />
 </td>
 <td align="center">
 
@@ -133,14 +133,15 @@ Self-trained deepfake video detection system built using a Vision Transformer<br
 
 <img src="./langs.svg" width="620" alt="Top languages by bytes and by repo"/>
 
+</td>
+</tr>
+</table>
+
 <img src="./year.svg" width="620" alt="The last year, one character per day"/>
 
 <br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YASHK-arch&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area_color=64748b&area=true&hide_border=true&custom_title=Yash%20Kumar's%20Contribution%20Graph" width="620" alt="Commit Activity Graph" />
 
-</td>
-</tr>
-</table>
 </div>
 
 
