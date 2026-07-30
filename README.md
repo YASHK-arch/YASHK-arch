@@ -121,12 +121,13 @@ Self-trained deepfake video detection system built using a Vision Transformer<br
 
 <img src="./hd-stats.svg" width="620" alt="stats"/>
 
-<table width="100%" style="border: none; border-collapse: collapse;">
+<div align="center">
+<table style="border: none; border-collapse: collapse;">
 <tr>
-<td width="20%" align="left" valign="top">
-<img src="https://cdn.simpleicons.org/github/white" alt="GitHub" width="100%" style="max-width: 90px; margin-top: 20px; margin-left: 10px;" />
+<td align="left" valign="top" width="100">
+<img src="https://cdn.simpleicons.org/github/white" alt="GitHub" width="90" style="margin-top: 20px;" />
 </td>
-<td width="80%" align="center">
+<td align="center">
 
 <img src="./streak.svg" width="620" alt="Current and longest streak"/>
 
@@ -135,10 +136,11 @@ Self-trained deepfake video detection system built using a Vision Transformer<br
 <img src="./year.svg" width="620" alt="The last year, one character per day"/>
 
 <br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YASHK-arch&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area_color=64748b&area=true&hide_border=true&custom_title=Yash%20Kumar's%20Contribution%20Graph" width="100%" alt="Commit Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YASHK-arch&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area_color=64748b&area=true&hide_border=true&custom_title=Yash%20Kumar's%20Contribution%20Graph" width="620" alt="Commit Activity Graph" />
 
 </td>
 </tr>
 </table>
+</div>
 
 
