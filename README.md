@@ -124,8 +124,10 @@ Self-trained deepfake video detection system built using a Vision Transformer<br
 <div align="center">
 <table style="border: none; border-collapse: collapse;">
 <tr>
-<td align="center" valign="middle" width="100">
-<img src="./github-logo.svg" alt="GitHub" width="90" />
+<td align="center" valign="middle" width="160">
+<img src="./github-logo.svg" alt="GitHub" width="140" />
+<br><br>
+<img src="https://komarev.com/ghpvc/?username=YASHK-arch&color=000000&style=for-the-badge&label=VIEWS" alt="Profile Views" />
 </td>
 <td align="center">
 
