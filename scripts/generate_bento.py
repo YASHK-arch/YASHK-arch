@@ -192,7 +192,8 @@ def generate_svg():
 
     svg_elements.append('</svg>')
     
-    with open("bento.svg", "w", encoding="utf-8") as f:
+    out_dir = os.environ.get("OUT_DIR", ".")
+    with open(os.path.join(out_dir, "bento.svg"), "w", encoding="utf-8") as f:
         f.write("\n".join(svg_elements))
         
 if __name__ == "__main__":

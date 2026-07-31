@@ -30,7 +30,11 @@ try:
     padded_img.paste(img, (padding, padding))
 
     # Save the processed and padded image directly as a PNG
-    padded_img.save("gssoc.png", format="PNG")
-    print("Successfully updated gssoc.png with padding")
+    import os
+    out_dir = os.environ.get("OUT_DIR", "assets")
+    os.makedirs(out_dir, exist_ok=True)
+    out_path = os.path.join(out_dir, "gssoc.png")
+    padded_img.save(out_path, format="PNG")
+    print(f"Successfully updated {out_path} with padding")
 except Exception as e:
     print(f"Error: {e}")
