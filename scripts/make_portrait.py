@@ -143,7 +143,7 @@ def build_svg(lines, cols=COLS):
 def main():
     ap = argparse.ArgumentParser(description=__doc__.split("\n")[0])
     ap.add_argument("photo")
-    ap.add_argument("out", nargs="?", default="ascii.svg")
+    ap.add_argument("out", nargs="?", default="assets/ascii.svg")
     ap.add_argument("--crop", help="left,top,right,bottom, applied first — crop "
                                    "tight to the head so the whole grid goes to "
                                    "the face")
@@ -163,6 +163,8 @@ def main():
     if args.preview:
         print("\n".join(lines))
 
+    import os
+    os.makedirs(os.path.dirname(os.path.abspath(args.out)), exist_ok=True)
     with open(args.out, "w", encoding="utf-8") as f:
         f.write(build_svg(lines, cols=args.cols))
     print(f"wrote {args.out} — {len(lines)} rows, {args.cols} columns")

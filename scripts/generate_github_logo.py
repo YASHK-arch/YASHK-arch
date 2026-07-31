@@ -10,5 +10,9 @@ svg_content = """<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" w
   </g>
 </svg>"""
 
-with open("github-logo.svg", "w") as f:
+import os
+
+out_dir = os.environ.get("OUT_DIR", "assets")
+os.makedirs(out_dir, exist_ok=True)
+with open(os.path.join(out_dir, "github-logo.svg"), "w") as f:
     f.write(svg_content)
