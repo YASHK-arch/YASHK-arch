@@ -98,7 +98,7 @@ Self-trained deepfake video detection system built using a Vision Transformer<br
 <table width="100%" style="border: none; border-collapse: collapse;">
   <tr>
     <td width="70" align="center" valign="middle">
-      <img src="./gssoc.png" width="60" height="60" alt="GSSOC" />
+      <img src="./assets/gssoc.png" width="60" height="60" alt="GSSOC" />
     </td>
     <td>
       <b>Contributor @ GSSOC '26</b><br>
@@ -107,7 +107,7 @@ Self-trained deepfake video detection system built using a Vision Transformer<br
   </tr>
   <!-- <tr>
     <td width="70" align="center" valign="middle">
-      <img src="./swoc-logo.svg" width="60" height="60" alt="SWOC" />
+      <img src="./assets/swoc-logo.svg" width="60" height="60" alt="SWOC" />
     </td>
     <td>
       <b>Project Developer and Maintainer @ RepoOwl @ SWOC 2026</b><br>
