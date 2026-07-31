@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="./ascii.svg" width="460" alt="Yash Kumar"/>
+<img src="./assets/ascii.svg" width="460" alt="Yash Kumar"/>
 
-<img src="./stats.svg" width="620" alt="Contributions in the last year"/>
+<img src="./assets/stats.svg" width="620" alt="Contributions in the last year"/>
 
 <a href="https://www.youtube.com/@beyondyourthoughts"><img src="https://img.shields.io/badge/YouTube-%231a1a1a.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
 <a href="https://x.com/Yash%20Kumar"><img src="https://img.shields.io/badge/X-%231a1a1a.svg?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
@@ -11,7 +11,7 @@
 
 </div>
 
-<img src="./hd-about.svg" width="620" alt="about"/>
+<img src="./assets/hd-about.svg" width="620" alt="about"/>
 
 > Full-Stack Developer | AI/ML | Data Science<br>
 > cooking up real projects fr 🍳
@@ -22,17 +22,17 @@ grinding DSA > doomscrolling TikTok 💀
 <br>
 
 
-<img src="./hd-stack.svg" width="620" alt="stack"/>
+<img src="./assets/hd-stack.svg" width="620" alt="stack"/>
 
 <div align="center">
 
-<img src="./bento.svg" width="100%" alt="Tech Stack Bento Box" />
+<img src="./assets/bento.svg" width="100%" alt="Tech Stack Bento Box" />
 
 </div>
 
 <br>
 
-<sup><sup>Top</sup></sup> <img src="./hd-projects.svg" width="620" alt="projects" style="vertical-align: middle;" align="center"/>
+<sup><sup>Top</sup></sup> <img src="./assets/hd-projects.svg" width="620" alt="projects" style="vertical-align: middle;" align="center"/>
 
 <table width="100%" style="border: none; border-collapse: collapse;">
   <tr>
@@ -64,34 +64,34 @@ Self-trained deepfake video detection system built using a Vision Transformer<br
 <br>
 
 
-<img src="./hd-stats.svg" width="620" alt="stats"/>
+<img src="./assets/hd-stats.svg" width="620" alt="stats"/>
 
 <div align="center">
 <table style="border: none; border-collapse: collapse;">
 <tr>
 <td align="center" valign="middle" width="160">
-<img src="./github-logo.svg" alt="GitHub" width="140" />
+<img src="./assets/github-logo.svg" alt="GitHub" width="140" />
 <br><br>
 <img src="https://komarev.com/ghpvc/?username=YASHK-arch&color=000000&style=for-the-badge&label=VIEWS" alt="Profile Views" />
 </td>
 <td align="center">
 
-<img src="./streak.svg" width="620" alt="Current and longest streak"/>
+<img src="./assets/streak.svg" width="620" alt="Current and longest streak"/>
 
-<img src="./langs.svg" width="620" alt="Top languages by bytes and by repo"/>
+<img src="./assets/langs.svg" width="620" alt="Top languages by bytes and by repo"/>
 
 </td>
 </tr>
 </table>
 <br>
-<img src="./year.svg" width="100%" alt="The last year, one character per day"/>
+<img src="./assets/year.svg" width="100%" alt="The last year, one character per day"/>
 
 <br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YASHK-arch&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area_color=64748b&area=true&hide_border=true&custom_title=Yash%20Kumar's%20Contribution%20Graph" width="100%" alt="Commit Activity Graph" />
 
 </div>
 <br>
-<img src="./hd-achievements.svg" width="620" alt="achievements"/>
+<img src="./assets/hd-achievements.svg" width="620" alt="achievements"/>
 
 <br>
 
