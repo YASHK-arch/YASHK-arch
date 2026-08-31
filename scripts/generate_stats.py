@@ -183,6 +183,12 @@ def languages(repos):
 def summarise(user):
     cal = user["contributionsCollection"]["contributionCalendar"]
     weeks = [w["contributionDays"] for w in cal["weeks"]]
+    
+    for w in weeks:
+        for d in w:
+            if d["contributionCount"] > 50:
+                d["contributionCount"] = 50
+                
     days = [d for w in weeks for d in w]
     weekly = [sum(d["contributionCount"] for d in w) for w in weeks]
     cur, best = streaks(days)
