@@ -105,6 +105,40 @@ Self-trained deepfake video detection system built using a Vision Transformer<br
       GirlScript Summer of Code
     </td>
   </tr>
+  <tr>
+    <td width="70" align="center" valign="middle">
+      <img src="./assets/fossasia.png" width="60" height="60" alt="FOSSASIA" />
+    </td>
+    <td>
+      <details>
+        <summary><b>Contributor @ FOSSASIA</b> &nbsp;·&nbsp; <sub>3 merged PRs ▾</sub><br>
+        <sub>Free and Open Source Software for Asia</sub></summary>
+        <br>
+        <table>
+          <tr>
+            <th align="left">Pull Request</th>
+            <th align="left">Repository</th>
+            <th align="left">Merged</th>
+          </tr>
+          <tr>
+            <td><a href="https://github.com/fossasia/voxbento/pull/653"><b>#653</b> — Fix: Booth Language Update Redirect and Save Confirmation</a></td>
+            <td><code>fossasia/voxbento</code></td>
+            <td><sub>2026-10-03</sub></td>
+          </tr>
+          <tr>
+            <td><a href="https://github.com/fossasia/voxbento/pull/532"><b>#532</b> — fix(js): prevent brutal-select dropdown from closing itself during toggle</a></td>
+            <td><code>fossasia/voxbento</code></td>
+            <td><sub>2026-09-26</sub></td>
+          </tr>
+          <tr>
+            <td><a href="https://github.com/fossasia/eventyay-exhibition/pull/211"><b>#211</b> — fix(exhibition): make sent email subject clickable to preview</a></td>
+            <td><code>fossasia/eventyay-exhibition</code></td>
+            <td><sub>2026-09-12</sub></td>
+          </tr>
+        </table>
+      </details>
+    </td>
+  </tr>
   <!-- <tr>
     <td width="70" align="center" valign="middle">
       <img src="./assets/swoc-logo.svg" width="60" height="60" alt="SWOC" />
