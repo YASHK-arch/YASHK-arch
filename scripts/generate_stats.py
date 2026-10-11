@@ -4,10 +4,11 @@
 No third-party services and no dependencies — standard library only.
 
 Outputs, all sharing one visual language with ascii.svg (the portrait):
-  stats.svg   hero total + weekly sparkline
-  streak.svg  current and longest streak
-  langs.svg   top languages, by bytes and by repo count
-  year.svg    the year as a character map, in the portrait's own ramp
+  stats.svg     hero total + weekly sparkline
+  streak.svg    current and longest streak
+  langs.svg     top languages, by bytes and by repo count
+  year.svg      the year as a character map, in the portrait's own ramp
+  activity.svg  daily contributions as an area chart
 
 Every file uses the portrait's grey ink, a monospace face, a transparent
 background, and the same left-to-right clipPath reveal with a cursor riding
@@ -449,6 +450,79 @@ def draw_year(s):
     return "".join(p)
 
 
+def draw_activity(s):
+    """Daily contributions as an area chart, one point per day.
+
+    This replaces the third-party readme-activity-graph deployment that used to
+    sit in the README: that service went dark (Heroku, then Cyclic, then a 402
+    on the canonical Vercel host), so the graph is drawn here from the same
+    GraphQL payload as every other asset.
+    """
+    H = 220
+    days = [d for w in s["weeks"] for d in w]
+    if not days:
+        return "".join([head(WIDTH, H), "</svg>"])
+    vals = [d["contributionCount"] for d in days]
+    peak = max(vals) or 1
+    n = len(vals)
+
+    pad_l, pad_r, pad_t = LEFT, 12, 66
+    base = H - 26
+    plot_w = WIDTH - pad_l - pad_r
+    plot_h = base - pad_t
+    step = plot_w / max(n - 1, 1)
+    pts = [(pad_l + i * step, base - (v / peak) * plot_h)
+           for i, v in enumerate(vals)]
+
+    p = [head(WIDTH, H)]
+
+    # baseline + three horizontal guides, drawn first so ink sits on top
+    p.append(f'<g opacity="0">{fade(0.10)}')
+    for k in range(4):
+        y = base - (k / 3) * plot_h
+        p.append(f'<line x1="{pad_l}" y1="{y:.1f}" x2="{WIDTH - pad_r}" '
+                 f'y2="{y:.1f}" class="u-s" stroke-width="1"/>')
+    p.append('</g>')
+
+    p.append(f'<g opacity="0">{fade(0.12)}'
+             + label(pad_l, 16, "DAILY ACTIVITY", 9, "m-f",
+                     extra=' letter-spacing="1.3"')
+             + label(pad_l, 34, f"{sum(vals)} contributions across "
+                     f"{n} days", 11)
+             + label(WIDTH - pad_r, 16, f"peak {peak} / day", 9, "m-f", "end")
+             + '</g>')
+
+    clip, cursor = wipe("ra", pad_l, pad_t - 6, plot_w, plot_h + 8, 0.30)
+    p.append(clip)
+    p.append('<g clip-path="url(#ra)">')
+    p.append(f'<path d="M{pts[0][0]:.1f} {base:.1f}'
+             + "".join(f'L{x:.1f} {y:.1f}' for x, y in pts)
+             + f'L{pts[-1][0]:.1f} {base:.1f}Z" class="w"/>')
+    p.append(f'<path d="M{pts[0][0]:.1f} {pts[0][1]:.1f}'
+             + "".join(f'L{x:.1f} {y:.1f}' for x, y in pts[1:])
+             + f'" class="d-s" stroke-width="2" stroke-linejoin="round" '
+             f'stroke-linecap="round"/>')
+    p.append('</g>')
+    p.append(cursor)
+    ex, ey = pts[-1]
+    p.append(f'<circle cx="{ex:.1f}" cy="{ey:.1f}" r="4.5" class="e-f r" '
+             f'stroke-width="2" opacity="0">{fade(0.30 + REVEAL, 0.35)}</circle>')
+
+    # month ticks along the baseline, one per month, evenly spaced
+    last_m, last_x = None, -999.0
+    for i, d in enumerate(days):
+        m = int(d["date"][5:7])
+        x = pad_l + i * step
+        if m != last_m and i < n - 1 and x - last_x >= 30:
+            p.append(f'<g opacity="0">{fade(0.20 + i / n)}'
+                     + label(x, base + 16, MON[m - 1], 9, "m-f") + '</g>')
+            last_x = x
+        last_m = m
+
+    p.append("</svg>")
+    return "".join(p)
+
+
 # ---------------------------------------------------------------- main
 
 def write(path, svg):
@@ -472,7 +546,8 @@ def main():
 
     s = summarise(fetch(login, token))
     files = {"stats.svg": draw_stats(s), "streak.svg": draw_streak(s),
-             "langs.svg": draw_langs(s), "year.svg": draw_year(s)}
+             "langs.svg": draw_langs(s), "year.svg": draw_year(s),
+             "activity.svg": draw_activity(s)}
     for word in ("about", "stack", "projects", "stats", "achievements"):
         files[f"hd-{word.replace(' ', '-')}.svg"] = draw_heading(word)
 
