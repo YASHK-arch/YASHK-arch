@@ -101,8 +101,38 @@ Self-trained deepfake video detection system built using a Vision Transformer<br
       <img src="./assets/gssoc.png" width="60" height="60" alt="GSSOC" />
     </td>
     <td>
-      <b>Contributor @ GSSOC '26</b><br>
-      GirlScript Summer of Code
+      <details>
+        <summary><b>Contributor @ GSSOC '26</b> &nbsp;·&nbsp; <sub>4 merged PRs ▾</sub><br>
+        <sub>GirlScript Summer of Code</sub></summary>
+        <br>
+        <table>
+          <tr>
+            <th align="left">Pull Request</th>
+            <th align="left">Repository</th>
+            <th align="left">Merged</th>
+          </tr>
+          <tr>
+            <td><a href="https://github.com/Priyanshu-byte-coder/devtrack/pull/3126"><b>#3126</b> — fix: resolve AI CV generator internal server errors</a></td>
+            <td><code>Priyanshu-byte-coder/devtrack</code></td>
+            <td><sub>2026-07-12</sub></td>
+          </tr>
+          <tr>
+            <td><a href="https://github.com/dhairyagothi/100_days_100_web_project/pull/8709"><b>#8709</b> — feat: add new project - Flavourly</a></td>
+            <td><code>dhairyagothi/100_days_100_web_project</code></td>
+            <td><sub>2026-06-18</sub></td>
+          </tr>
+          <tr>
+            <td><a href="https://github.com/Priyanshu-byte-coder/devtrack/pull/2332"><b>#2332</b> — fix: render shortcuts and notification popups via React portals</a></td>
+            <td><code>Priyanshu-byte-coder/devtrack</code></td>
+            <td><sub>2026-06-16</sub></td>
+          </tr>
+          <tr>
+            <td><a href="https://github.com/anurag3407/career-pilot/pull/1677"><b>#1677</b> — Fix issue #1660: Fixed hover UI issue in template cards and dropdown menu</a></td>
+            <td><code>anurag3407/career-pilot</code></td>
+            <td><sub>2026-05-24</sub></td>
+          </tr>
+        </table>
+      </details>
     </td>
   </tr>
   <tr>
