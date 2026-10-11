@@ -32,7 +32,7 @@ jobs:
 
       - name: Commit whatever changed
         run: |
-          FILES="assets/stats.svg assets/streak.svg assets/langs.svg assets/year.svg assets/hd-*.svg assets/bento.svg"
+          FILES="assets/stats.svg assets/streak.svg assets/langs.svg assets/year.svg assets/activity.svg assets/hd-*.svg assets/bento.svg"
           if [ -z "$(git status --porcelain -- $FILES)" ]; then
             echo "no change"
             exit 0
