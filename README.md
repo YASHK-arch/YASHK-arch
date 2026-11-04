@@ -189,7 +189,7 @@ Self-trained deepfake video detection system built using a Vision Transformer<br
 
 <br>
 
-### 🏆 Hackathons
+### 🎯 Hackathons
 
 <table width="100%" style="border: none; border-collapse: collapse;">
   <tr>
