@@ -95,6 +95,8 @@ Self-trained deepfake video detection system built using a Vision Transformer<br
 
 <br>
 
+### 🌐 Open Source
+
 <table width="100%" style="border: none; border-collapse: collapse;">
   <tr>
     <td width="70" align="center" valign="middle">
@@ -141,7 +143,7 @@ Self-trained deepfake video detection system built using a Vision Transformer<br
     </td>
     <td>
       <details>
-        <summary><b>Contributor @ FOSSASIA</b> &nbsp;·&nbsp; <sub>3 merged PRs ▾</sub><br>
+        <summary><b>Contributor @ FOSSASIA</b> &nbsp;·&nbsp; <sub>4 merged PRs ▾</sub><br>
         <sub>Free and Open Source Software for Asia</sub></summary>
         <br>
         <table>
@@ -149,6 +151,11 @@ Self-trained deepfake video detection system built using a Vision Transformer<br
             <th align="left">Pull Request</th>
             <th align="left">Repository</th>
             <th align="left">Merged</th>
+          </tr>
+          <tr>
+            <td><a href="https://github.com/fossasia/eventyay/pull/6310"><b>#6310</b> — Display readable timezone labels</a></td>
+            <td><code>fossasia/eventyay</code></td>
+            <td><sub>2026-10-23</sub></td>
           </tr>
           <tr>
             <td><a href="https://github.com/fossasia/voxbento/pull/653"><b>#653</b> — Fix: Booth Language Update Redirect and Save Confirmation</a></td>
@@ -178,4 +185,25 @@ Self-trained deepfake video detection system built using a Vision Transformer<br
       Social Winter of Code
     </td>
   </tr> -->
+</table>
+
+<br>
+
+### 🏆 Hackathons
+
+<table width="100%" style="border: none; border-collapse: collapse;">
+  <tr>
+    <td width="75%" valign="top">
+
+🏆 **Winner — Swim with TinyFish Hackathon** &nbsp;·&nbsp; <sub>Organized by Ignite Rooms</sub><br><br>
+**[Turing-Agent](https://github.com/Turing-agent/Turing-agent)** &nbsp;·&nbsp; <samp>python, fastapi, groq, tinyfish</samp><br>
+Autonomous open-source QA maintainer, code repair agent, and repository intelligence system. Automates bug triage, cross-issue correlation, semantic regression detection, and AI-assisted patch generation powered by TinyFish web automation and Groq LLMs.
+
+</td>
+    <td width="25%" align="center" valign="middle">
+      <a href="https://github.com/Turing-agent/Turing-agent">
+        <img src="./assets/tinyfish_ai_logo.jpg" width="95" height="95" alt="Swim with TinyFish Hackathon" style="border-radius: 12px;" />
+      </a>
+    </td>
+  </tr>
 </table>
