@@ -196,8 +196,9 @@ Self-trained deepfake video detection system built using a Vision Transformer<br
     <td width="75%" valign="top">
 
 🏆 **Winner — Swim with TinyFish Hackathon** &nbsp;·&nbsp; <sub>Organized by Ignite Rooms</sub><br><br>
-**[Turing-Agent](https://github.com/Turing-agent/Turing-agent)** &nbsp;·&nbsp; <samp>python, fastapi, groq, tinyfish</samp><br>
-Autonomous open-source QA maintainer, code repair agent, and repository intelligence system. Automates bug triage, cross-issue correlation, semantic regression detection, and AI-assisted patch generation powered by TinyFish web automation and Groq LLMs.
+**[Turing-Agent](https://github.com/Turing-agent/Turing-agent)** &nbsp;·&nbsp; <samp>python, fastapi, groq, tinyfish, n8n</samp><br>
+We built a multi-platform AI-powered QA solution (scoped around Jira for the hackathon) that uses TinyFish to extract and validate user complaints, identify affected code, suggest fixes, and check for related existing issues. It bridges Jira-like dashboards with GitHub, allowing maintainers to discuss and refine solutions before automatically converting approved complaints into structured, implementation-ready GitHub issues.
+
 
 </td>
     <td width="25%" align="center" valign="middle">
