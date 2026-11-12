@@ -143,7 +143,7 @@ Self-trained deepfake video detection system built using a Vision Transformer<br
     </td>
     <td>
       <details>
-        <summary><b>Contributor @ FOSSASIA</b> &nbsp;·&nbsp; <sub>4 merged PRs ▾</sub><br>
+        <summary><b>Contributor @ FOSSASIA</b> &nbsp;·&nbsp; <sub>5 merged PRs ▾</sub><br>
         <sub>Free and Open Source Software for Asia</sub></summary>
         <br>
         <table>
@@ -156,6 +156,11 @@ Self-trained deepfake video detection system built using a Vision Transformer<br
             <td><a href="https://github.com/fossasia/eventyay/pull/6310"><b>#6310</b> — Display readable timezone labels</a></td>
             <td><code>fossasia/eventyay</code></td>
             <td><sub>2026-10-23</sub></td>
+          </tr>
+          <tr>
+            <td><a href="https://github.com/fossasia/voxbento/pull/915"><b>#915</b> — fix(ui): extract demo modal static assets</a></td>
+            <td><code>fossasia/voxbento</code></td>
+            <td><sub>2026-11-12</sub></td>
           </tr>
           <tr>
             <td><a href="https://github.com/fossasia/voxbento/pull/653"><b>#653</b> — Fix: Booth Language Update Redirect and Save Confirmation</a></td>
