@@ -143,7 +143,7 @@ Self-trained deepfake video detection system built using a Vision Transformer<br
     </td>
     <td>
       <details>
-        <summary><b>Contributor @ FOSSASIA</b> &nbsp;·&nbsp; <sub>5 merged PRs ▾</sub><br>
+        <summary><b>Contributor @ FOSSASIA</b> &nbsp;·&nbsp; <sub>6 merged PRs ▾</sub><br>
         <sub>Free and Open Source Software for Asia</sub></summary>
         <br>
         <table>
@@ -151,6 +151,11 @@ Self-trained deepfake video detection system built using a Vision Transformer<br
             <th align="left">Pull Request</th>
             <th align="left">Repository</th>
             <th align="left">Merged</th>
+          </tr>
+          <tr>
+            <td><a href="https://github.com/fossasia/voxbento/pull/1249"><b>#1249</b> — fix(developer): harden copyToClipboard with per-button timer isolation</a></td>
+            <td><code>fossasia/voxbento</code></td>
+            <td><sub>2026-11-20</sub></td>
           </tr>
           <tr>
             <td><a href="https://github.com/fossasia/eventyay/pull/6310"><b>#6310</b> — Display readable timezone labels</a></td>
