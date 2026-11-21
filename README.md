@@ -104,7 +104,7 @@ Self-trained deepfake video detection system built using a Vision Transformer<br
     </td>
     <td>
       <details>
-        <summary><b>Contributor @ GSSOC '26</b> &nbsp;·&nbsp; <sub>4 merged PRs ▾</sub><br>
+        <summary><b>Contributor @ GSSOC '26</b> &nbsp;·&nbsp; <sub>7 merged PRs ▾</sub><br>
         <sub>GirlScript Summer of Code</sub></summary>
         <br>
         <table>
@@ -112,6 +112,21 @@ Self-trained deepfake video detection system built using a Vision Transformer<br
             <th align="left">Pull Request</th>
             <th align="left">Repository</th>
             <th align="left">Merged</th>
+          </tr>
+          <tr>
+            <td><a href="https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/6102"><b>#6102</b> — feat: Animated Terminal Status Message Carousel</a></td>
+            <td><code>SAPTARSHI-coder/EaseMotion-css</code></td>
+            <td><sub>2026-06-11</sub></td>
+          </tr>
+          <tr>
+            <td><a href="https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/4443"><b>#4443</b> — feat: Radio-button based Slideshow-Hero section Component</a></td>
+            <td><code>SAPTARSHI-coder/EaseMotion-css</code></td>
+            <td><sub>2026-06-10</sub></td>
+          </tr>
+          <tr>
+            <td><a href="https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/3308"><b>#3308</b> — feat: Add Curved Roadmap Infographic Component with Pure CSS Ribbon Paths</a></td>
+            <td><code>SAPTARSHI-coder/EaseMotion-css</code></td>
+            <td><sub>2026-06-09</sub></td>
           </tr>
           <tr>
             <td><a href="https://github.com/Priyanshu-byte-coder/devtrack/pull/3126"><b>#3126</b> — fix: resolve AI CV generator internal server errors</a></td>
